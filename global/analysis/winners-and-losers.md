@@ -1,0 +1,131 @@
+# Winners and Losers Framework
+
+> **Supposition**: Nations will diverge dramatically based on their position relative to AI, energy, resources, and social cohesion
+> **Confidence**: Moderate-High on categories; Lower on specific magnitudes
+
+## Note on GDP Projections
+
+The GDP projections below are **cumulative decade trajectories** (2026-2036), not annual growth rates. Sustained annual growth of 5-7% or contraction of 3-6% would be historically unprecedented for developed economies. These figures represent structural shift magnitude over the full period.
+
+For context:
+- US historical average GDP growth: ~2-3% annually
+- UK historical average: ~1.5-2.5% annually
+- "Winner" status implies significantly above-trend performance
+- "Fracturing" implies significant below-trend with compounding effects
+
+## The Determining Variables
+
+### What Makes a Winner
+1. **AI ownership**: Create or control AI systems
+2. **Energy abundance**: Cheap, reliable power for data centres
+3. **Natural resources**: Critical minerals, energy sources
+4. **Cultural adoption**: Willingness to deploy aggressively
+5. **Regulatory environment**: Not self-sabotaging through compliance burden
+
+### What Makes a Loser
+1. **Service economy dependence**: Financial intermediation, professional consultancy, administrative processing
+2. **Energy constraints**: High costs, limited capacity
+3. **Regulatory burden**: EU AI Act or similar
+4. **Pre-existing fractures**: Legitimacy deficits, demographic tensions
+
+## Projected Outcomes by Category
+
+### Winners
+Countries capturing AI transition gains.
+
+| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
+|---------|-------------------|------------|------------|-------------|
+| United States | +50 to +80% | +4 to +6% | High | Dominant on all dimensions |
+| China | +40 to +70% | +3.5 to +5.5% | Moderate | State capacity; Taiwan risk; DeepSeek efficiency |
+| Australia | +30 to +50% | +2.5 to +4% | Moderate | Resources; regulatory risk |
+| Poland | +30 to +45% | +2.5 to +3.5% | Moderate | Manufacturing; less exposed |
+| Vietnam | +50 to +80% | +4 to +6% | Moderate | Manufacturing shift; young population |
+| Indonesia | +40 to +60% | +3 to +5% | Moderate | Scale; resources; adoption rates |
+| UAE/Saudi Arabia | +30 to +50% | +2.5 to +4% | Moderate | Sovereign wealth; Stargate UAE; energy |
+
+### Restructured
+Gains exist but captured unequally.
+
+| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
+|---------|-------------------|------------|------------|-------------|
+| Canada | +20 to +40% | +2 to +3.5% | Moderate | Resources via state-capital model; concentrated gains |
+
+### Survivors
+Managing transition with stability.
+
+| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
+|---------|-------------------|------------|------------|-------------|
+| Singapore | +20 to +40% | +2 to +3.5% | Moderate | Technocratic adaptation |
+| Japan | +10 to +25% | +1 to +2.5% | High | Demographic cushion; managed stagnation |
+| South Korea | +15 to +30% | +1.5 to +2.5% | Moderate | Tech sector strength; demographic pressure |
+
+### Declining
+Structural contraction or stagnation.
+
+| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
+|---------|-------------------|------------|------------|-------------|
+| Germany | -10 to -25% | -1 to -2.5% | High | Energy crisis; structural; BDI forecasts |
+| Switzerland | -5 to -15% | -0.5 to -1.5% | Moderate | Banking model dying |
+| Italy | -5 to -20% | -0.5 to -2% | Moderate | Debt; demographics; no tech sector |
+| Russia | -10 to -30% | -1 to -3% | Moderate | Sanctions; brain drain; commodity dependence |
+
+### Contested
+Genuinely uncertain; high variance outcomes.
+
+| Country | Decade Trajectory | Confidence | Key Factors |
+|---------|-------------------|------------|-------------|
+| Ireland | -15 to +25% | Low | Tech HQ dependency; diversification potential |
+| Turkey | -10 to +30% | Low | Geopolitical position; instability risk |
+| Thailand | -5 to +20% | Low | Manufacturing potential; political uncertainty |
+
+### Fracturing
+Economic decline + elevated instability risk.
+
+| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
+|---------|-------------------|------------|------------|-------------|
+| United Kingdom | -20 to -40% | -2 to -4% | Moderate | Services exposure; legitimacy crisis; ConflictMeter High Risk |
+| France | -15 to -30% | -1.5 to -3% | Moderate | Public sector + social fractures |
+
+### Collapsing
+State failure or near-failure likely.
+
+| Country | Decade Trajectory | Confidence | Key Factors |
+|---------|-------------------|------------|-------------|
+| Iran | Severe contraction | High | Sanctions; regime instability |
+| Venezuela | Continued collapse | High | Already failed state |
+
+## Falsifiable Criteria
+
+### Winner Status Confirmed If:
+- GDP growth exceeds 3% annually for 3+ consecutive years
+- Data centre capacity expands according to pipeline projections
+- No major civil unrest events
+
+### Fracturing Status Confirmed If:
+- GDP contracts 2%+ for 2+ consecutive years
+- Major civil unrest in 3+ cities
+- Infrastructure attacks on power/communications
+- Regional autonomy movements gain legal traction
+
+## Timeline
+
+| Period | Expected Development |
+|--------|---------------------|
+| Near (2026-2028) | Divergence becomes visible; early displacement effects |
+| Mid (2029-2032) | Categories solidify; fracturing nations show instability |
+| Late (2033-2036) | New equilibrium; map fundamentally redrawn |
+
+## Key Uncertainties
+
+| Factor | Impact If True | Impact If False |
+|--------|----------------|-----------------|
+| DeepSeek-style efficiency gains | China parity despite lower investment; US capital advantage erodes | US dominance holds |
+| EU AI Act relaxation (Digital Omnibus) | Europe partially recovers | Europe falls further behind |
+| Taiwan conflict | China "Winner" → "Fracturing"; global supply shock | Status quo |
+| Robotics timeline slips 2-3 years | Second wave delayed; blue-collar less affected near-term | Displacement compounds faster |
+| US political instability escalates | "Winner" status complicated; domestic fracturing | Thesis holds |
+
+---
+
+*Source: "The Fracturing" (2025), Part VI*
+*Last updated: 2025-12-08*
