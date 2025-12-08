@@ -11,6 +11,10 @@
 
 ---
 
+> **Epistemic Status**: This is a scenario exercise, not a forecast. The confident prose is rhetorical—useful for thinking through implications, but not a claim to know the future. GDP projections are illustrative ranges, not econometric outputs. Country classifications represent central cases with significant variance. See [Methodology](METHODOLOGY.md) for explicit assumptions, model structure, and what would change our mind.
+
+---
+
 ## Introduction: The Shape of What Is Coming
 
 The next decade will not be a continuation of the last. The forces now in motion—artificial intelligence, demographic transformation, energy realignment, and the erosion of institutional legitimacy—are not merely trends to be managed. They represent a phase transition in the organisation of human societies, comparable in scale to industrialisation but compressed into a fraction of the time. By 2036, the political, economic, and social landscape of the Western world will be unrecognisable to those who remember 2020.
@@ -133,39 +137,53 @@ Australia and Canada show signs of following the European model, driven by simil
 
 ---
 
-## Part IV: The Collapse of Financial Services
+## Part IV: The Compression of Financial Services
 
 *Derived from: [Financial Services Disruption](global/trends/financial-services-disruption.md) | [Financial Services Exposure](global/data/financial-services-exposure.md)*
 
-Financial services warrant particular attention because their vulnerability is both severe and widely unappreciated. The industry has long positioned itself as the commanding height of the knowledge economy—the most sophisticated application of human cognitive ability to the management of capital. This self-conception is now badly dated.
+Financial services face severe disruption, though the trajectory is compression and de-glamourisation rather than outright collapse. The industry has long positioned itself as the commanding height of the knowledge economy—the most sophisticated application of human cognitive ability to the management of capital. This self-conception is now badly dated.
 
-At its core, finance is information processing: gathering data, identifying patterns, assessing risks, executing transactions. Every one of these functions is amenable to AI automation. Credit decisions that once required human judgment can be made by algorithms with greater accuracy and consistency. Trading strategies that once employed floors full of analysts can be implemented by systems that process information faster than any human. Compliance monitoring, fraud detection, customer service, back-office operations—the entire operational structure of a modern bank consists of tasks that artificial intelligence can perform more cheaply and reliably than human employees.
+At its core, much of finance is information processing: gathering data, identifying patterns, assessing risks, executing transactions. These functions are amenable to AI automation. Credit decisions that once required human judgment can be made by algorithms with greater accuracy and consistency. Trading strategies that once employed floors full of analysts can be implemented by systems that process information faster than any human. Compliance monitoring, fraud detection, customer service, back-office operations—the operational structure of a modern bank consists largely of tasks that artificial intelligence can perform more cheaply and reliably than human employees.
 
-Simultaneously, alternative financial infrastructure erodes the traditional industry's moat. Stablecoins, decentralised finance protocols, and integrated payment systems demonstrate that the core functions of banking—payments, lending, asset management—do not require the institutional apparatus that incumbent banks have built. These alternatives operate outside traditional regulatory frameworks, require minimal human labour, and offer services directly to end users without the intermediation that banks have historically provided.
+Simultaneously, alternative financial infrastructure erodes some of the traditional industry's moat. Stablecoins, decentralised finance protocols, and integrated payment systems demonstrate that certain core functions of banking—payments, some lending, basic asset custody—do not require the full institutional apparatus that incumbent banks have built.
 
-For nations that have structured their economies around financial services, this represents an existential challenge. The United Kingdom derives roughly fifteen to twenty percent of its GDP from financial and related professional services, with an even larger share of tax revenue. Singapore has built its city-state model on being Asia's neutral financial hub. Luxembourg, Switzerland, Hong Kong, Ireland's IFSC—each has wagered national prosperity on the continued indispensability of human financial intermediation. That wager is losing.
+**However, the "collapse" framing overstates the case.** Finance is not purely information processing; it is also:
+- **Regulatory licenses and charters**: Banks exist partly because regulators permit them to; DeFi faces its own regulatory chokepoints (fiat on/off-ramps)
+- **Liability and trust**: Wealthy clients pay for reputation, recourse, and accountability that algorithms alone don't provide
+- **Distribution and relationships**: The advisory function—guiding clients, managing emotions, providing legitimacy—has value even when analytics are automated
+
+The more likely trajectory: a smaller, leaner, less glamorous industry. Employment contracts 30-50% from peak rather than collapsing entirely. Profits may remain respectable in absolute terms even as finance's share of GDP shrinks. The City of London employs fewer people but remains a financial centre; Singapore adapts to narrower niches rather than becoming irrelevant.
+
+For nations heavily weighted toward financial services, this still represents serious challenge. The United Kingdom derives roughly fifteen to twenty percent of its GDP from financial and related professional services, with an even larger share of tax revenue. Singapore has built its city-state model on being Asia's neutral financial hub. A 30-50% compression of an industry that large still produces significant displacement and fiscal pressure—just not civilisational collapse.
 
 ---
 
-## Part V: The Collapse of Higher Education
+## Part V: The Contraction of Higher Education
 
 *Derived from: [Higher Education Disruption](global/trends/higher-education-disruption.md)*
 
-The university system faces disruption as severe as financial services, though the timeline is compressed and the survivors fewer. Higher education has operated on an implicit bargain for decades: students pay substantial sums (or states subsidise them) in exchange for credentials that unlock professional employment. Artificial intelligence breaks both sides of this bargain simultaneously.
+The university system faces severe disruption, though the framing requires nuance. Higher education has operated on an implicit bargain for decades: students pay substantial sums (or states subsidise them) in exchange for credentials that unlock professional employment. Artificial intelligence disrupts both sides of this bargain—but not uniformly, and not overnight.
 
-The knowledge transmission function of universities—lectures, readings, problem sets, examinations—can now be delivered by AI systems with greater personalisation, infinite patience, and near-zero marginal cost. A student seeking to understand corporate finance, organic chemistry, or constitutional law can receive instruction calibrated precisely to their level, available at any hour, responsive to their specific confusions. The lecture hall, the seminar room, the tutorial—each represents a delivery mechanism that AI renders obsolete. Why attend a professor's lecture when an AI can teach the same material better, faster, and for free?
+The knowledge transmission function of universities—lectures, readings, problem sets, examinations—can increasingly be delivered by AI systems with greater personalisation, infinite patience, and near-zero marginal cost. A student seeking to understand corporate finance, organic chemistry, or constitutional law can receive instruction calibrated precisely to their level, available at any hour, responsive to their specific confusions.
 
-The credentialing function faces simultaneous assault. Professional employers historically used university degrees as screening mechanisms—not because the degree itself conferred competence, but because admission and completion signalled intelligence, conscientiousness, and baseline capability. AI disrupts this from both directions. First, AI systems can now assess competence directly through work samples, project portfolios, and real-time evaluation, eliminating the need for degree-based proxies. Second, AI automation eliminates many of the professional roles that degrees previously unlocked—the junior lawyer, the entry-level analyst, the graduate trainee positions that justified educational investment.
+**However, universities provide more than knowledge transmission.** They also provide:
+- **Socialisation and networks**: Mating markets, friendship formation, professional connections
+- **Physical infrastructure**: Labs, studios, clinical facilities, athletic programs
+- **Status rituals**: Graduation ceremonies, alumni networks, institutional prestige
+- **Credentialing inertia**: Professional orders (medicine, law, engineering) require degrees by regulation
 
-The result is a violent contraction. Mid-tier universities—those that provided adequate education to average students who secured average professional jobs—face existential crisis. Their students cannot afford rising tuition when graduate employment prospects collapse; their research output cannot compete with elite institutions; their credentialing value erodes as employers adopt direct assessment. Regional universities, teaching-focused institutions, and the vast middle tier of higher education face enrollment collapses that no amount of administrative cost-cutting can address.
+These functions can be unbundled, but institutions that own the physical real estate and brand can adapt by re-weighting toward them. The university experience may evolve rather than disappear.
 
-What survives is narrower than the current system. Elite research universities—the Harvards, Oxfords, and Tsinghuas—retain value through three mechanisms that AI cannot immediately replicate: network formation among future elites, research infrastructure requiring physical capital, and the signalling value of ultra-selective admissions. Even these institutions face diminished scale; they become smaller, more focused on research and elite network formation, less dependent on mass undergraduate education as a revenue source.
+The credentialing function faces more direct assault. Professional employers historically used university degrees as screening mechanisms—signalling intelligence, conscientiousness, and baseline capability. AI disrupts this from both directions: direct competency assessment becomes possible, while AI automation eliminates many of the professional roles that degrees previously unlocked. But regulatory requirements for degrees in licensed professions change slowly. Courts, medical boards, and engineering councils are deeply tied into degree requirements—changing that is slow, political work.
 
-Professional schools face particular pressure. Law schools that trained litigators and transactional lawyers must reckon with AI systems that perform legal research, document review, and contract drafting at superhuman levels. Business schools that taught financial modelling and strategic frameworks discover their curriculum automated. Medical schools retain value longer—physical examination and procedural skills resist automation—but diagnostic training becomes AI-augmented rather than human-delivered.
+**The more likely trajectory**: A bifurcated contraction rather than uniform collapse.
 
-The employment implications ripple outward. Universities are major employers in many regions—not just faculty but administrators, support staff, facilities workers, and the surrounding ecosystem of student housing, food service, and local retail. University towns that built economies around student populations face the same structural adjustment as manufacturing towns that lost factories. The comparison is apt: higher education is a large industry facing technological displacement, and the adjustment will be neither smooth nor gentle.
+- **Elite research universities** (top ~100 globally): Retain value through network formation, research infrastructure, ultra-selective signalling. May actually concentrate prestige as mid-tier competitors fail.
+- **Mid-tier universities** (vast middle): Face existential crisis from both AI disruption and pre-existing demographic/fiscal pressures. Many will close, merge, or radically downsize. But attribution is tricky—is this AI, or declining birth rates, or state funding cuts?
+- **Professional schools**: Varied by field. Medical schools retain value (physical skills); law and business schools face more pressure.
+- **Community colleges and vocational**: May actually expand if retraining becomes essential.
 
-The timeline is faster than financial services because universities lack comparable capital reserves, face more price-sensitive customers, and cannot automate their way to profitability—their product *is* human instruction, now commoditised. Enrollment declines that begin in 2025-2026 accelerate through the decade. By 2035, the university sector employs perhaps half its current workforce, concentrated in elite institutions and applied research. The rest has contracted, consolidated, or closed.
+The employment implications ripple outward. Universities are major employers in many regions. University towns that built economies around student populations face structural adjustment. By 2035, the university sector likely employs significantly fewer people—but "half the current workforce" may overstate the AI-specific effect versus demographic and fiscal pressures already in motion.
 
 ---
 
