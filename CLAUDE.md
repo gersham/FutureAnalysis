@@ -94,7 +94,7 @@ last_updated: YYYY-MM-DD
 | | [Singapore](regions/asia-pacific/singapore/README.md) | Survivor |
 | | [Australia](regions/asia-pacific/australia/README.md) | Winner (Contingent) |
 | | [South Korea](regions/asia-pacific/south-korea/README.md) | Survivor |
-| | [Indonesia](regions/asia-pacific/indonesia/README.md) | Winner |
+| | [Indonesia](regions/asia-pacific/indonesia/README.md) | Survivor |
 | | [Vietnam](regions/asia-pacific/vietnam/README.md) | Winner |
 | | [Malaysia](regions/asia-pacific/malaysia/README.md) | Contested |
 | | [Philippines](regions/asia-pacific/philippines/README.md) | Declining |
@@ -115,9 +115,9 @@ last_updated: YYYY-MM-DD
 
 | Category | Definition | Example |
 |----------|------------|---------|
-| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Vietnam, Indonesia |
+| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Vietnam |
 | **Restructured/ing** | Gains but concentrated/unequal | Canada, Argentina |
-| **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Netherlands, Brazil, Spain, Portugal, Israel |
+| **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Indonesia, Netherlands, Brazil, Spain, Portugal, Israel |
 | **Declining** | Structural contraction but social stability | Germany, Switzerland, Russia, Italy, Philippines, Nigeria, Egypt, South Africa, Pakistan |
 | **Fracturing** | Economic decline + social instability | UK, France |
 | **Contested** | Genuinely uncertain; high variance | Ireland, India, Mexico, Taiwan, Malaysia, Turkey, Thailand |

@@ -195,7 +195,7 @@ Against this backdrop, we can sketch the trajectories of specific nations throug
 
 **[Vietnam](regions/asia-pacific/vietnam/README.md):** The manufacturing supply chain story of the decade. GDP growth of 8.23% in Q3 2025 leads Southeast Asia; FDI hit $31.5 billion in the first ten months of 2025, with manufacturing capturing 62%. Samsung, Microsoft, Intel, Foxconn, Apple, and Nvidia have all established or expanded operations. Vietnam positioned itself as the primary beneficiary of supply chain diversification away from China—a structural shift that persists regardless of US-China relations. Young demographics, competitive costs, and consistent pro-FDI policy compound the advantage. *Projected GDP growth: six to eight percent annually.*
 
-Also positioned as winners: [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) (converting oil wealth to AI infrastructure at $100 billion scale), [UAE](regions/middle-east/uae/README.md) (regional AI hub with governance credibility), [Poland](regions/europe/poland/README.md) (Europe's surprising success—less exposed to services automation, manufacturing growth, ideological independence), [Australia](regions/asia-pacific/australia/README.md) (critical minerals and energy advantaged, contingent on regulatory choices), [Indonesia](regions/asia-pacific/indonesia/README.md).
+Also positioned as winners: [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) (converting oil wealth to AI infrastructure at $100 billion scale), [UAE](regions/middle-east/uae/README.md) (regional AI hub with governance credibility), [Poland](regions/europe/poland/README.md) (Europe's surprising success—less exposed to services automation, manufacturing growth, ideological independence), [Australia](regions/asia-pacific/australia/README.md) (critical minerals and energy advantaged, contingent on regulatory choices).
 
 ### The Restructured
 
@@ -211,7 +211,7 @@ Also restructuring: [Argentina](regions/south-america/argentina/README.md) (Mile
 
 **[Brazil](regions/south-america/brazil/README.md):** Commodity advantages and continental scale provide buffer against AI disruption. Neither positioned to capture major gains nor structured to fracture—the classic survivor profile of resource wealth, institutional resilience, and limited services exposure enabling muddling through.
 
-Also surviving: [South Korea](regions/asia-pacific/south-korea/README.md), [Netherlands](regions/europe/netherlands/README.md) (ASML strategic chokepoint, 95% AI adoption, logistics hub), [Spain](regions/europe/spain/README.md), [Portugal](regions/europe/portugal/README.md), [Israel](regions/middle-east/israel/README.md) (war-contingent).
+Also surviving: [South Korea](regions/asia-pacific/south-korea/README.md), [Netherlands](regions/europe/netherlands/README.md) (ASML strategic chokepoint, 95% AI adoption, logistics hub), [Indonesia](regions/asia-pacific/indonesia/README.md) (resources and scale, but infrastructure/energy gaps limit AI capture), [Spain](regions/europe/spain/README.md), [Portugal](regions/europe/portugal/README.md), [Israel](regions/middle-east/israel/README.md) (war-contingent).
 
 ### The Declining
 
