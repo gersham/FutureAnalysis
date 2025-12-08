@@ -68,12 +68,13 @@ last_updated: YYYY-MM-DD
 ---
 ```
 
-## Countries Covered (29)
+## Countries Covered (31)
 
 | Region | Countries | Outlook |
 |--------|-----------|---------|
 | **North America** | [United States](regions/north-america/united-states/README.md) | Winner |
 | | [Canada](regions/north-america/canada/README.md) | Restructured |
+| | [Mexico](regions/north-america/mexico/README.md) | Contested |
 | **Europe** | [United Kingdom](regions/europe/united-kingdom/README.md) | Fracturing |
 | | [Germany](regions/europe/germany/README.md) | Declining |
 | | [France](regions/europe/france/README.md) | Fracturing |
@@ -86,6 +87,7 @@ last_updated: YYYY-MM-DD
 | | [Portugal](regions/europe/portugal/README.md) | Survivor |
 | | [Turkey](regions/europe/turkey/README.md) | Contested |
 | **Asia-Pacific** | [China](regions/asia-pacific/china/README.md) | Winner |
+| | [India](regions/asia-pacific/india/README.md) | Winner |
 | | [Japan](regions/asia-pacific/japan/README.md) | Survivor |
 | | [Singapore](regions/asia-pacific/singapore/README.md) | Survivor |
 | | [Australia](regions/asia-pacific/australia/README.md) | Winner (Contingent) |
@@ -106,12 +108,12 @@ last_updated: YYYY-MM-DD
 
 | Category | Definition | Example |
 |----------|------------|---------|
-| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Vietnam, Indonesia, Malaysia |
+| **Winner** | Capturing AI transition gains | US, China, India, Poland, UAE, Saudi Arabia, Vietnam, Indonesia, Malaysia |
 | **Restructured/ing** | Gains but concentrated/unequal | Canada, Argentina |
 | **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Brazil, Spain, Portugal, Israel |
 | **Declining** | Structural contraction but social stability | Germany, Switzerland, Russia, Italy |
 | **Fracturing** | Economic decline + social instability | UK, France |
-| **Contested** | Genuinely uncertain; high variance | Ireland, Turkey, Thailand |
+| **Contested** | Genuinely uncertain; high variance | Ireland, Mexico, Turkey, Thailand |
 | **Collapsing** | State failure or near-failure | Iran, Venezuela |
 
 ## Prediction Format

@@ -1,14 +1,14 @@
 ---
 title: "Asia-Pacific: 2026-2036"
 region: asia-pacific
-countries: [china, japan, singapore, australia, south-korea, indonesia, vietnam, malaysia, thailand]
-tags: [cultural-adoption, state-capacity, diverse-outcomes, manufacturing]
+countries: [china, india, japan, singapore, australia, south-korea, indonesia, vietnam, malaysia, thailand]
+tags: [cultural-adoption, state-capacity, diverse-outcomes, manufacturing, demographics]
 last_updated: 2025-12-08
 ---
 
 # Asia-Pacific: 2026-2036
 
-*Synthesis of: [China](china/README.md) | [Japan](japan/README.md) | [Singapore](singapore/README.md) | [Australia](australia/README.md) | [South Korea](south-korea/README.md) | [Indonesia](indonesia/README.md) | [Vietnam](vietnam/README.md) | [Malaysia](malaysia/README.md) | [Thailand](thailand/README.md)*
+*Synthesis of: [China](china/README.md) | [India](india/README.md) | [Japan](japan/README.md) | [Singapore](singapore/README.md) | [Australia](australia/README.md) | [South Korea](south-korea/README.md) | [Indonesia](indonesia/README.md) | [Vietnam](vietnam/README.md) | [Malaysia](malaysia/README.md) | [Thailand](thailand/README.md)*
 
 ---
 
@@ -19,16 +19,17 @@ Asia-Pacific leads globally in AI adoption and manufacturing growth:
 | Country | GDP Growth 2025 | AI Adoption | Outlook |
 |---------|-----------------|-------------|---------|
 | **Vietnam** | **8.23%** (Q3) | High FDI | Winner |
+| **India** | **6.5-6.9%** | **92% enterprise** | Winner |
 | **Indonesia** | 5.1-5.4% | **92% workplace** | Winner |
 | **China** | 4-5% | 93% employees | Winner |
-| **Malaysia** | 4.0-4.5% | Semiconductors | Contested |
+| **Malaysia** | 4.0-4.5% | Semiconductors | Winner |
 | **Australia** | 3-4% | Growing | Winner (Contingent) |
 | **Singapore** | 2-3% | DBS: 800 AI models | Survivor |
 | **Japan** | 1.0% | 51-56% | Survivor |
 | **South Korea** | 0.8-1.0% | 5th globally | Survivor |
 | **Thailand** | 2.0-2.4% | Digital strong | Contested |
 
-**Key finding**: Indonesia has **92% workplace AI adoption**—the world's highest. Chinese workers are **3x more likely** to embrace AI than Americans (54% vs 17%, Edelman 2025).
+**Key finding**: India and Indonesia both show **92% enterprise/workplace AI adoption**—the world's highest. Chinese workers are **3x more likely** to embrace AI than Americans (54% vs 17%, Edelman 2025).
 
 ---
 
@@ -42,7 +43,9 @@ Asia-Pacific demonstrates what cultural disposition toward technology adoption c
 
 [Australia](australia/README.md) is unexpectedly advantaged by geography and geology. Critical minerals for AI hardware—lithium, rare earths, copper, nickel, cobalt—exist in significant deposits in a politically stable jurisdiction. Uranium reserves are among the world's largest as nuclear power demand grows. Natural gas provides export revenue and domestic energy security. Solar potential is exceptional across vast land areas. Data centre capacity of **1.3-2.2 gigawatts** is expanding rapidly toward **3.1-4.1 gigawatts by 2030**, with major investments from Amazon (AUD $20B) and Microsoft (AUD $5B). A **supply gap of 0.7-1.7 GW** is expected by 2028, indicating demand outpacing infrastructure. The services economy in Sydney and Melbourne will suffer AI displacement, but resource exports will more than compensate if regulatory choices permit. The risk is that Australia follows the European regulatory model on AI governance, forfeiting advantages geography provides. Australia is classified as "Winner (Contingent)" with projected GDP growth of three to five percent annually, contingent on regulatory choices.
 
-The regional picture reveals divergent paths within shared cultural advantages. China and Australia are winners—one through state-directed deployment, one through resource endowment. Japan and Singapore are survivors—one through managed decline with demographic stability, one through technocratic adaptation within binding constraints. All four benefit from cultural dispositions toward technology adoption that exceed Western levels. None faces the fracturing risk that threatens the United Kingdom and France. The Asia-Pacific trajectory is not uniformly positive—Japan stagnates, Singapore faces structural challenge—but it is uniformly more favourable than what awaits much of Europe.
+[India](india/README.md) is positioned as a major winner of the AI transition—not by creating the foundational models, but by adopting them aggressively at scale while providing the services and talent that global AI deployment requires. Survey data places India at 92% enterprise AI adoption—the highest measured globally. The combination of demographic dividend (working-age population growing through 2035+, median age ~28), cultural enthusiasm for technology, and deep integration with global technology ecosystems through 1,700 Global Capability Centers creates a structural position unlike any other major economy. India can absorb AI productivity gains while still having labour force growth—capturing benefits that nations with shrinking workforces cannot fully realise. NITI Aayog projects AI adoption could contribute $500-600 billion to India's GDP by 2035, potentially enabling 8% growth and an $8.3 trillion economy. The constraints are infrastructure (power, logistics), inequality (gains concentrating among educated urban populations), and regulatory uncertainty. India is classified as "Winner" with projected GDP growth of six to eight percent annually.
+
+The regional picture reveals divergent paths within shared cultural advantages. China, India, and Australia are winners—one through state-directed deployment, one through demographic dividend and services integration, one through resource endowment. Japan and Singapore are survivors—one through managed decline with demographic stability, one through technocratic adaptation within binding constraints. All benefit from cultural dispositions toward technology adoption that exceed Western levels. None faces the fracturing risk that threatens the United Kingdom and France. The Asia-Pacific trajectory is not uniformly positive—Japan stagnates, Singapore faces structural challenge—but it is uniformly more favourable than what awaits much of Europe.
 
 ---
 

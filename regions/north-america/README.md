@@ -1,14 +1,14 @@
 ---
 title: "North America: 2026-2036"
 region: north-america
-countries: [united-states, canada]
-tags: [ai-dominance, energy-abundance, divergent-paths]
+countries: [united-states, canada, mexico]
+tags: [ai-dominance, energy-abundance, divergent-paths, nearshoring]
 last_updated: 2025-12-08
 ---
 
 # North America: 2026-2036
 
-*Synthesis of: [United States](united-states/README.md) | [Canada](canada/README.md)*
+*Synthesis of: [United States](united-states/README.md) | [Canada](canada/README.md) | [Mexico](mexico/README.md)*
 
 ---
 
@@ -44,6 +44,12 @@ The energy advantage both nations share separates North America from Europe. The
 The regulatory divergence risk represents the key difference in how these nations could evolve. Canada shows signs of following the European regulatory model on AI governance; the United States maintains a more permissive environment. Should Canada adopt EU-style regulation, it would forfeit advantages that geography provides—the same pattern observed across European nations. The American regulatory environment, while not laissez-faire, permits AI deployment at scales and speeds that constrained jurisdictions cannot match.
 
 Both nations face services sector vulnerability in their major metropolitan areas. New York, San Francisco, Toronto, and Vancouver are professional services hubs that face AI displacement pressure regardless of national trajectory. The difference is what offsets this vulnerability: for the United States, technology sector dominance means the AI that displaces workers also accrues to American firms; for Canada, resource development is the offsetting factor. Neither nation escapes services automation—the question is what provides compensation and how broadly gains distribute.
+
+[Mexico](mexico/README.md) presents a contested case within the North American framework. The nearshoring thesis positioned Mexico as the primary beneficiary of supply chain diversification away from China—USMCA access, geographic proximity, competitive labour costs, existing manufacturing infrastructure. FDI reached record levels in 2025 ($40.9 billion in nine months, +14.5% YoY), with manufacturing capturing 43% of inflows. Yet GDP growth stagnated at 0.3-0.4%, and the economy contracted in Q3 2025. The paradox: record investment coexists with near-zero growth.
+
+Three constraints limit Mexico's trajectory. First, **US tariff uncertainty**: while 84% of Mexico-US trade remains tariff-free under USMCA exemptions, these exemptions are discretionary. Full 25% tariffs would reduce Mexico's GDP by approximately 2%. Second, **cartel violence** imposes economic costs exceeding $19 billion annually and constrains investment geography—FDI concentrates in relatively secure northern states while much of Mexico sees limited benefit. Third, **execution capacity**: nearshoring investment flows to specific sectors without transforming the broader economy. The World Bank notes that multinational relocations generate only 0.2% of Mexico's GDP.
+
+Mexico's outcome depends substantially on decisions made in Washington rather than Mexico City. The determining factors—US trade policy, USMCA review outcomes, security trajectory—cannot be confidently forecast. This places Mexico in the "Contested" category: genuine uncertainty with high-variance outcomes ranging from "North American manufacturing winner" to "trapped in low-growth stagnation." Projected GDP growth of one to three percent annually, with significant variance based on external factors.
 
 ---
 

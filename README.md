@@ -195,7 +195,7 @@ Against this backdrop, we can sketch the trajectories of specific nations throug
 
 **[Vietnam](regions/asia-pacific/vietnam/README.md):** The manufacturing supply chain story of the decade. GDP growth of 8.23% in Q3 2025 leads Southeast Asia; FDI hit $31.5 billion in the first ten months of 2025, with manufacturing capturing 62%. Samsung, Microsoft, Intel, Foxconn, Apple, and Nvidia have all established or expanded operations. Vietnam positioned itself as the primary beneficiary of supply chain diversification away from China—a structural shift that persists regardless of US-China relations. Young demographics, competitive costs, and consistent pro-FDI policy compound the advantage. *Projected GDP growth: six to eight percent annually.*
 
-Also positioned as winners: [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) (converting oil wealth to AI infrastructure at $100 billion scale), [UAE](regions/middle-east/uae/README.md) (regional AI hub with governance credibility), [Poland](regions/europe/poland/README.md) (Europe's surprising success—less exposed to services automation, manufacturing growth, ideological independence), [Australia](regions/asia-pacific/australia/README.md) (critical minerals and energy advantaged, contingent on regulatory choices), [Indonesia](regions/asia-pacific/indonesia/README.md), [Malaysia](regions/asia-pacific/malaysia/README.md).
+Also positioned as winners: [India](regions/asia-pacific/india/README.md) (92% enterprise AI adoption, demographic dividend, 1,700 GCCs embedding it in global tech), [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) (converting oil wealth to AI infrastructure at $100 billion scale), [UAE](regions/middle-east/uae/README.md) (regional AI hub with governance credibility), [Poland](regions/europe/poland/README.md) (Europe's surprising success—less exposed to services automation, manufacturing growth, ideological independence), [Australia](regions/asia-pacific/australia/README.md) (critical minerals and energy advantaged, contingent on regulatory choices), [Indonesia](regions/asia-pacific/indonesia/README.md), [Malaysia](regions/asia-pacific/malaysia/README.md).
 
 ### The Restructured
 
@@ -229,7 +229,7 @@ These nations face genuinely uncertain futures—high variance outcomes where th
 
 **[Ireland](regions/europe/ireland/README.md):** The pessimistic thesis holds that Ireland combines maximum economic exposure—American tech headquarters attracted by tax arbitrage, financial services back-office operations—with Dublin's data centre grid at capacity. The optimistic counter: Ireland has been remarkably stable since 1998, the economy is more diversified than recognised (1,800+ multinationals across pharma, medtech, technology), and small nations pivot faster than large ones. Ireland has reinvented itself repeatedly since the 1980s. *Projected GDP: -1% to +2% annually, with significant variance.*
 
-Also contested: [Turkey](regions/europe/turkey/README.md) (geopolitical positioning between blocs creates opportunity and risk), [Thailand](regions/asia-pacific/thailand/README.md) (digital/EV strength offset by structural weaknesses and high household debt).
+Also contested: [Mexico](regions/north-america/mexico/README.md) (nearshoring potential vs tariff uncertainty and cartel violence), [Turkey](regions/europe/turkey/README.md) (geopolitical positioning between blocs creates opportunity and risk), [Thailand](regions/asia-pacific/thailand/README.md) (digital/EV strength offset by structural weaknesses and high household debt).
 
 ### The Fracturing
 
@@ -296,11 +296,11 @@ The falcon is already beyond recall. The widening gyre has begun.
 
 ### Regions
 
-**[North America](regions/north-america/README.md):** [United States](regions/north-america/united-states/README.md) | [Canada](regions/north-america/canada/README.md)
+**[North America](regions/north-america/README.md):** [United States](regions/north-america/united-states/README.md) | [Canada](regions/north-america/canada/README.md) | [Mexico](regions/north-america/mexico/README.md)
 
 **[Europe](regions/europe/README.md):** [United Kingdom](regions/europe/united-kingdom/README.md) | [Germany](regions/europe/germany/README.md) | [France](regions/europe/france/README.md) | [Poland](regions/europe/poland/README.md) | [Ireland](regions/europe/ireland/README.md) | [Switzerland](regions/europe/switzerland/README.md) | [Russia](regions/europe/russia/README.md) | [Italy](regions/europe/italy/README.md) | [Spain](regions/europe/spain/README.md) | [Portugal](regions/europe/portugal/README.md) | [Turkey](regions/europe/turkey/README.md)
 
-**[Asia-Pacific](regions/asia-pacific/README.md):** [China](regions/asia-pacific/china/README.md) | [Japan](regions/asia-pacific/japan/README.md) | [Singapore](regions/asia-pacific/singapore/README.md) | [Australia](regions/asia-pacific/australia/README.md) | [South Korea](regions/asia-pacific/south-korea/README.md) | [Indonesia](regions/asia-pacific/indonesia/README.md) | [Vietnam](regions/asia-pacific/vietnam/README.md) | [Malaysia](regions/asia-pacific/malaysia/README.md) | [Thailand](regions/asia-pacific/thailand/README.md)
+**[Asia-Pacific](regions/asia-pacific/README.md):** [China](regions/asia-pacific/china/README.md) | [India](regions/asia-pacific/india/README.md) | [Japan](regions/asia-pacific/japan/README.md) | [Singapore](regions/asia-pacific/singapore/README.md) | [Australia](regions/asia-pacific/australia/README.md) | [South Korea](regions/asia-pacific/south-korea/README.md) | [Indonesia](regions/asia-pacific/indonesia/README.md) | [Vietnam](regions/asia-pacific/vietnam/README.md) | [Malaysia](regions/asia-pacific/malaysia/README.md) | [Thailand](regions/asia-pacific/thailand/README.md)
 
 **[Middle East](regions/middle-east/README.md):** [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) | [UAE](regions/middle-east/uae/README.md) | [Israel](regions/middle-east/israel/README.md) | [Iran](regions/middle-east/iran/README.md)
 
