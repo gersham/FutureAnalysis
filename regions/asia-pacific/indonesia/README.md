@@ -25,7 +25,6 @@ Indonesia's AI ambitions face infrastructure reality:
 
 | Metric | Status |
 |--------|--------|
-| **Claimed workplace AI adoption** | 92% (suspect—see below) |
 | **Data center capacity** | 307-500 MW (vs Malaysia 1.3 GW) |
 | **Energy mix** | 60% coal dependent |
 | **GDP growth 2025** | 5.1-5.4% |
@@ -33,24 +32,6 @@ Indonesia's AI ambitions face infrastructure reality:
 | **Grid reliability outside Java** | Problematic |
 
 **Critical gap**: Data center capacity of 307-500 MW cannot support enterprise AI at scale. Malaysia has 1.3 GW; Singapore has 1 GW; Indonesia lags significantly.
-
----
-
-## The 92% Adoption Question
-
-Survey data claiming 92% workplace AI adoption in Indonesia should be treated skeptically. This figure likely reflects:
-
-- Broad definitions of "AI" including basic automation and chatbots
-- Survey respondent bias (claiming AI use for prestige)
-- Consumer-facing AI (translation apps, filters) conflated with enterprise AI
-- Concentrated in Jakarta/Java formal sector—not representative nationally
-
-Indonesia lacks the infrastructure to support genuine enterprise AI at scale:
-- Data center capacity is 307-500 MW vs regional peers at 1+ GW
-- Grid outside Java is unreliable—World Bank just approved $500M to modernize Java grid alone
-- Internet penetration is 79% but quality varies dramatically
-
-The gap between claimed adoption and infrastructure capacity suggests the 92% figure describes something other than the enterprise AI deployment that drives productivity.
 
 ## Infrastructure Reality
 
@@ -136,10 +117,9 @@ Indonesia's location and market size make it important regardless of AI capture:
 
 1. **Infrastructure gap**: Data center capacity (307-500 MW) far behind regional peers
 2. **Energy constraints**: 60% coal; unreliable grid outside Java
-3. **Adoption skepticism**: 92% figure doesn't align with infrastructure reality
-4. **Geographic fragmentation**: 17,504 islands make scaling difficult
-5. **Education gap**: 9 million digital worker shortage
-6. **Demographic risk**: Large, relatively uneducated population
+3. **Geographic fragmentation**: 17,504 islands make scaling difficult
+4. **Education gap**: 9 million digital worker shortage
+5. **Demographic risk**: Large, relatively uneducated population
 
 Indonesia has resources, scale, and strategic location that prevent decline. But infrastructure and human capital constraints limit AI gain capture. Indonesia will survive the AI transition; whether it thrives depends on execution that Indonesia has not historically demonstrated.
 

@@ -16,20 +16,20 @@ last_updated: 2025-12-08
 
 Asia-Pacific leads globally in AI adoption and manufacturing growth:
 
-| Country | GDP Growth 2025 | AI Adoption | Outlook |
-|---------|-----------------|-------------|---------|
-| **Vietnam** | **8.23%** (Q3) | High FDI | Winner |
-| **India** | **6.5-6.9%** | 92% enterprise | Contested |
-| **Indonesia** | 5.1-5.4% | **92% workplace** | Winner |
-| **China** | 4-5% | 93% employees | Winner |
-| **Malaysia** | 4.0-4.5% | Semiconductors | Winner |
-| **Australia** | 3-4% | Growing | Winner (Contingent) |
-| **Singapore** | 2-3% | DBS: 800 AI models | Survivor |
-| **Japan** | 1.0% | 51-56% | Survivor |
-| **South Korea** | 0.8-1.0% | 5th globally | Survivor |
-| **Thailand** | 2.0-2.4% | Digital strong | Contested |
+| Country | GDP Growth 2025 | Key Factor | Outlook |
+|---------|-----------------|------------|---------|
+| **Vietnam** | **8.23%** (Q3) | Manufacturing FDI | Winner |
+| **India** | **6.5-6.9%** | IT services vulnerable | Contested |
+| **Indonesia** | 5.1-5.4% | Infrastructure gaps | Survivor |
+| **China** | 4-5% | State-directed AI | Winner |
+| **Malaysia** | 4.0-4.5% | Semiconductors | Contested |
+| **Australia** | 3-4% | Resources/regulatory risk | Winner (Contingent) |
+| **Singapore** | 2-3% | Financial services exposed | Survivor |
+| **Japan** | 1.0% | Managed decline | Survivor |
+| **South Korea** | 0.8-1.0% | Demographics | Survivor |
+| **Thailand** | 2.0-2.4% | Structural challenges | Contested |
 
-**Key finding**: India and Indonesia both show **92% enterprise/workplace AI adoption**—the world's highest. Chinese workers are **3x more likely** to embrace AI than Americans (54% vs 17%, Edelman 2025).
+**Key dynamic**: China's state capacity enables aggressive AI deployment; India's IT services face automation; Indonesia's infrastructure limits AI capture despite scale.
 
 ---
 
