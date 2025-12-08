@@ -1,7 +1,7 @@
----
 title: "Argentina: 2026-2036"
+type: synthesis
 outlook: Restructuring
-gdp_projection: "+3% to +5% annually"
+growth_outlook: Moderate (uneven/concentrated)
 confidence: Low
 category: restructuring
 region: south-america
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Argentina: 2026-2036
 
 > **Outlook**: Restructuring
-> **GDP Projection**: +3 to +5% annually
+> **Growth Outlook**: Moderate (uneven/concentrated)
 > **Confidence**: Low (experiment ongoing)
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

@@ -3,7 +3,7 @@ title: "Australia Outlook: 2026-2036"
 type: analysis
 country: australia
 outlook: Winner (Contingent)
-gdp_projection: "+3% to +5% annually"
+growth_outlook: High (policy‑dependent)
 confidence: Moderate
 last_updated: 2025-12-07
 ---
@@ -11,7 +11,7 @@ last_updated: 2025-12-07
 # Australia Outlook: 2026-2036
 
 > **Classification**: Winner (Contingent)
-> **GDP Projection**: +3 to +5% annually
+> **Growth Outlook**: High (policy‑dependent)
 > **Confidence**: Moderate
 > **Contingency**: Regulatory choices
 
@@ -55,8 +55,8 @@ Australia could be a clear winner or merely a survivor depending on policy choic
 
 | Prediction | Criterion | Confidence |
 |------------|-----------|------------|
-| Winner outcome (if permissive) | GDP +4-5% annually | Moderate |
-| Survivor outcome (if restrictive) | GDP +2-3% annually | Moderate |
+| Winner outcome (if permissive) | High growth | Moderate |
+| Survivor outcome (if restrictive) | Moderate growth | Moderate |
 | Services adapted | Smaller but stabilised | Moderate |
 | Resource dominance | Clear economic engine | High |
 
@@ -67,21 +67,21 @@ Australia could be a clear winner or merely a survivor depending on policy choic
 - Data centres expand to 5+ GW
 - AI productivity gains captured
 - Services adjustment but net growth
-- GDP: +4-5% annually
+- Growth outlook: High
 
 ### Middle Case: Moderate Regulation
 - Resource advantage captured
 - Data centre growth constrained
 - Partial AI gains
 - Services struggle
-- GDP: +3-4% annually
+- Growth outlook: Moderate-High
 
 ### Worst Case: EU-Style Regulation
 - Resource advantage only
 - AI gains forfeited
 - Services decline not offset
 - Still positive due to resources
-- GDP: +2-3% annually
+- Growth outlook: Moderate
 
 All scenarios are positive due to resources; the range depends on policy.
 

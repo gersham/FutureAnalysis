@@ -1,7 +1,7 @@
----
 title: "Malaysia: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "+2% to +4% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Low
 category: contested
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Malaysia: 2026-2036
 
 > **Outlook**: Contested
-> **GDP Projection**: +2 to +4% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Risk**: Islamization trajectory; brain drain; ethnic fracturing
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
@@ -75,20 +75,20 @@ Hyperscalers received exemptions from 30% Bumiputera ownership requirements—bu
 - Tech investment continues regardless of political dynamics
 - Brain drain affects services but not manufacturing
 - Malaysia captures middle-income escape through industrial policy
-- GDP: +4% to +5% annually
+- Growth outlook: High
 
 **Scenario B: Stagnation—Investment Without Capability** (40% probability)
 - Semiconductor capacity builds but human capital constraints bind
 - Back-end processing continues; front-end design stalls
 - Brain drain accelerates but economy muddles through
-- GDP: +2% to +3% annually
+- Growth outlook: Moderate
 
 **Scenario C: Tipping Point—Islamization Accelerates** (30% probability)
 - PAS or PAS-aligned coalition takes power in 2027-2028
 - Accelerated sharia implementation
 - Non-Muslim emigration surges; tech talent exodus
 - Foreign investors reconsider commitments
-- GDP: +0% to +2% annually
+- Growth outlook: Low
 
 ---
 

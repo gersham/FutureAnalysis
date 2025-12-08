@@ -1,7 +1,18 @@
+---
+title: "United States: 2026-2036"
+type: synthesis
+region: north-america
+outlook: Winner
+growth_outlook: High
+confidence: High
+tags: [ai-ownership, compute, capital, energy]
+last_updated: 2025-12-08
+---
+
 # United States: 2026-2036
 
 > **Outlook**: Winner
-> **GDP Projection**: +5 to +7% annually
+> **Growth Outlook**: High (scenario)
 > **Confidence**: High
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
@@ -30,13 +41,12 @@ This is the largest AI infrastructure project in history. No other nation has an
 | Cumulative AI investment 2013-2024 | $470B | ~$50B | **9x** |
 
 ### Data Center Dominance
-- **Current capacity**: 53.7 GW (44% of global total)
-- **2030 projection**: 132 GW
-- **Virginia corridor alone**: 12+ GW
+- **Current capacity**: see [Data Center Capacity](data/data-center-capacity.md)
+- **Virginia corridor**: 12+ GW
 
 ---
 
-The United States is positioned as the dominant beneficiary of the AI transition, though not without turbulence. American firms have created the foundational models; American capital finances their deployment; American energy resources can power the necessary data centres; and the American financial system retains its role as global reserve currency. With [53.7 gigawatts of installed capacity](data/data-center-capacity.md) and another **79+ gigawatts** in active development (including Stargate's 10 GW), the United States will generate and capture AI value at scales that no competitor can match.
+The United States is positioned as the dominant beneficiary of the AI transition, though not without turbulence. American firms have created the foundational models; American capital finances their deployment; American energy resources can power the necessary data centres; and the American financial system retains its role as global reserve currency. With substantial installed capacity and the largest pipeline globally (see [Data Center Capacity](data/data-center-capacity.md)), the United States will generate and capture AI value at scales that no competitor can match.
 
 The nation presents a paradox that resolves in its favour. US Census data (August 2025) shows only **9.7% of American businesses** actively using AI. McKinsey's November 2025 survey finds 88% of organizations experimenting with AI, but only **6% are "high performers"** capturing real value. Americans are more wary of AI than Chinese or Indian populations—Edelman 2025 shows only 17% of Americans "embrace AI" versus 54% in China.
 
@@ -44,7 +54,7 @@ Yet what matters for national economic outcomes is not average adoption but [fro
 
 Political instability at the federal level—and there will be instability—cannot derail the underlying technological and economic transformation. The AI boom is sufficiently entrenched that no politically plausible intervention can unseat it. The [dollar remains king](trends/dollar-hegemony.md) because there is no alternative. A 2028 election producing a Democratic administration represents rotation of oligarchic factions rather than fundamental policy change.
 
-The [outlook](analysis/outlook.md) is unambiguously positive at the national level. GDP growth of five to seven percent annually is projected with high confidence. But gains will concentrate among frontier firms and their employees. Inequality will increase substantially. The professional services sector outside frontier firms faces displacement pressure. Geographic concentration in tech hubs will intensify.
+The [outlook](analysis/outlook.md) is unambiguously positive at the national level. Growth outlook: **High**. Gains will concentrate among frontier firms and their employees. Inequality will increase substantially. The professional services sector outside frontier firms faces displacement pressure. Geographic concentration in tech hubs will intensify.
 
 For individuals, the [implications](analysis/actionable-implications.md) are clear: being in the United States is advantageous for the AI transition, but position within that economy matters enormously. Proximity to frontier firms—as employee, investor, or service provider—captures the upside. Distance from them means experiencing displacement pressure without direct access to gains. This will be the defining economic question for Americans over the coming decade.
 

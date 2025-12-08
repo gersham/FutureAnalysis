@@ -3,7 +3,7 @@ title: "China Outlook: 2026-2036"
 type: analysis
 country: china
 outlook: Winner
-gdp_projection: "+4% to +6% annually"
+growth_outlook: High
 confidence: Moderate
 last_updated: 2025-12-07
 ---
@@ -11,7 +11,7 @@ last_updated: 2025-12-07
 # China Outlook: 2026-2036
 
 > **Classification**: Winner
-> **GDP Projection**: +4 to +6% annually
+> **Growth Outlook**: High
 > **Confidence**: Moderate
 
 ## Core Assessment

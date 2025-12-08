@@ -1,7 +1,7 @@
 # Poland Outlook: 2026-2036
 
 > **Classification**: Winner (European context)
-> **GDP Projection**: +3 to +4% annually
+> **Growth Outlook**: High
 > **Confidence**: Moderate
 
 ## Core Assessment

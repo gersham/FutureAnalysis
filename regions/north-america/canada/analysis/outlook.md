@@ -1,7 +1,7 @@
 # Canada Outlook: 2026-2036
 
 > **Classification**: Restructured
-> **GDP Projection**: +2 to +4% annually (gains concentrated)
+> **Growth Outlook**: Moderate (uneven/concentrated)
 > **Confidence**: Moderate
 
 ## Core Assessment
@@ -10,7 +10,7 @@ Canada defies simple categorisation. Resources will be developed; the question i
 
 ## Scenarios
 
-### Optimistic Case (+4% GDP, broadly shared)
+### Optimistic Case (Broadly shared growth)
 
 - Infrastructure built that Canada failed to build for decades
 - Indigenous communities gain equity stakes and revenue streams

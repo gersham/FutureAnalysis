@@ -1,7 +1,7 @@
----
 title: "South Africa: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "+0.5% to +2% annually"
+growth_outlook: Low/Negative
 confidence: Moderate
 category: declining
 region: africa
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # South Africa: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: +0.5 to +2% annually
+> **Growth Outlook**: Low/Negative
 > **Risk**: Electricity crisis; structural unemployment; governance failure
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

@@ -1,7 +1,18 @@
+---
+title: "Poland: 2026-2036"
+type: synthesis
+region: europe
+outlook: Winner
+growth_outlook: High
+confidence: High
+tags: [manufacturing, demographics, energy-diversification]
+last_updated: 2025-12-08
+---
+
 # Poland: 2026-2036
 
 > **Outlook**: Winner
-> **GDP Projection**: +3 to +4% annually
+> **Growth Outlook**: High
 > **Confidence**: High
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

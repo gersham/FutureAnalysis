@@ -1,7 +1,7 @@
----
 title: "Switzerland: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "-1% to -2% annually"
+growth_outlook: Low/Negative
 confidence: Moderate
 category: declining
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Switzerland: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: -1 to -2% annually
+> **Growth Outlook**: Low/Negative
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
 

@@ -49,7 +49,7 @@ By 2035, the map of power and prosperity will look nothing like 2020.
 
 | Country | 2025 Status | 2035 Status | GDP Change (Cumulative) |
 |---------|-------------|-------------|------------------------|
-| United States | 53.7 GW | 100+ GW | +50-70% |
+| United States | 53.7 GW | 132 GW | High growth |
 | China | 32 GW | 60+ GW | +40-60% |
 | Australia | 1.3 GW | 5+ GW | +30-50% |
 | Poland | Growing | Grown | +30-40% |

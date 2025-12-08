@@ -1,5 +1,6 @@
 ---
 title: "South America: 2026-2036"
+type: synthesis
 region: south-america
 countries: [brazil, argentina, venezuela]
 tags: [resources, commodity-dependency, reform-divergence, instability]

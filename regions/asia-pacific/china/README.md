@@ -1,7 +1,7 @@
----
 title: "China: 2026-2036"
+type: synthesis
 outlook: Winner
-gdp_projection: "+4% to +6% annually"
+growth_outlook: High
 confidence: Moderate
 category: winner
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # China: 2026-2036
 
 > **Outlook**: Winner
-> **GDP Projection**: +4 to +6% annually
+> **Growth Outlook**: High
 > **Risk**: Taiwan miscalculation
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

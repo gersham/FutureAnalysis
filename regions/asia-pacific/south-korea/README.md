@@ -1,7 +1,7 @@
----
 title: "South Korea: 2026-2036"
+type: synthesis
 outlook: Survivor
-gdp_projection: "+1% to +2% annually"
+growth_outlook: Moderate
 confidence: Moderate
 category: survivor
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # South Korea: 2026-2036
 
 > **Outlook**: Survivor
-> **GDP Projection**: +1 to +2% annually
+> **Growth Outlook**: Moderate
 > **Risk**: Taiwan competition; demographic decline
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

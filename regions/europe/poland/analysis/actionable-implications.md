@@ -81,7 +81,7 @@ Poland represents an unusual case in Europe:
 | Factor | Poland | Germany | France | UK |
 |--------|--------|---------|--------|-----|
 | Outlook | Winner | Declining | Fracturing | Fracturing |
-| GDP trajectory | +3-4% | -2-4% | -2-4% | -3-6% |
+| Growth outlook | High | Low/Negative | Negative (instability risk) | Negative (instability risk) |
 | Social stability | High | Moderate | Low | Low |
 | Investment risk | Moderate | High | High | Highest |
 

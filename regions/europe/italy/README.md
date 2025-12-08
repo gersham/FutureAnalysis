@@ -1,7 +1,7 @@
----
 title: "Italy: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "+0.5% to +1.5% annually"
+growth_outlook: Low/Negative
 confidence: Moderate
 category: declining
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Italy: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: +0.5 to +1.5% annually
+> **Growth Outlook**: Low/Negative
 > **Constraint**: Debt; demographics; manufacturing crisis
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

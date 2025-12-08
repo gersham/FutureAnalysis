@@ -1,7 +1,7 @@
----
 title: "Indonesia: 2026-2036"
+type: synthesis
 outlook: Survivor
-gdp_projection: "+3% to +5% annually"
+growth_outlook: Moderate
 confidence: Moderate
 category: survivor
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Indonesia: 2026-2036
 
 > **Outlook**: Survivor
-> **GDP Projection**: +3 to +5% annually
+> **Growth Outlook**: Moderate
 > **Constraint**: Infrastructure; energy; education; geographic fragmentation
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

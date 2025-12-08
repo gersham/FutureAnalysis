@@ -1,9 +1,9 @@
 # AI Displacement Wave
 
-> **Rate**: ~5% of jobs automated per year (beginning 2026)
-> **Cumulative**: ~50% of current employment displaced by 2035
+> **Rate**: ~5% net job displacement per year (beginning 2026)
+> **Cumulative**: On the order of half (~40–45%) of current employment displaced/reshaped by mid‑2030s
 > **Timeframe**: 2026-2035
-> **Confidence**: Moderate-High
+> **Confidence**: Moderate‑High (as scenario premise)
 
 ## Analytical Note on Projections
 
@@ -84,16 +84,18 @@ Traditionally, workers displaced from higher-skill roles could retrain for diffe
 2. **Robotics wave 2030-2035** automates the blue-collar jobs they might have sought
 3. The traditional pathway—moving down the skill ladder—closes just as it's needed most
 
-## Early Signals (2025)
+## Early Signals
 
-Observable displacement already underway:
+Observable displacement is already underway in the baseline period (2024-2025):
 
-| Metric | Status | Source |
-|--------|--------|--------|
-| Tech layoffs 2025 YTD | 77,999 jobs (342 companies) | Trueup.io |
-| Daily AI-attributed job losses | ~491 people | Trueup.io |
-| Youth unemployment (20-30, tech-exposed) | +3 percentage points since Jan 2025 | St. Louis Fed |
-| Computer/math occupation unemployment | Steepest rise of all categories | St. Louis Fed |
+| Metric | Trend | Source |
+|--------|-------|--------|
+| Tech layoffs | **Elevated**; shifting from growth to efficiency | Industry trackers |
+| Job market | **Softening** for junior/entry-level roles | Federal Reserve / Central Banks |
+| Youth unemployment | **Rising** in tech-exposed cohorts | National Statistics |
+| Sector impact | **High** in coding/customer service roles | Recruitment platforms |
+
+*See [Current Indicators](../data/current-indicators.md) for specific tracking data.*
 
 These are leading indicators. The 5% annual rate assumes acceleration as:
 - Enterprise deployments move from pilot to production

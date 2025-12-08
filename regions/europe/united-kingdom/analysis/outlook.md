@@ -1,7 +1,7 @@
 # United Kingdom Outlook: 2026-2036
 
 > **Classification**: Fracturing
-> **GDP Projection**: -3 to -6% annually
+> **Growth Outlook**: Negative with instability risk
 > **Confidence**: Moderate
 
 ## Core Assessment

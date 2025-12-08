@@ -1,7 +1,7 @@
 # United States Outlook: 2026-2036
 
 > **Classification**: Winner
-> **GDP Projection**: +5 to +7% annually
+> **Growth Outlook**: High
 > **Confidence**: High
 
 ## Core Assessment
@@ -14,7 +14,7 @@ The United States is positioned as the dominant beneficiary of the AI transition
 |--------|-------------|
 | AI Creation | American firms created foundational models |
 | Capital | $109B private investment (12x China) |
-| Infrastructure | 53.7 GW → 81+ GW data centres |
+| Infrastructure | 53.7 GW → 132 GW by 2030 (canonical; see Data Center Capacity) |
 | Energy | Abundant, expandable |
 | Currency | Reserve status unchallenged |
 | Frontier Adoption | Tech companies deploying at scale |

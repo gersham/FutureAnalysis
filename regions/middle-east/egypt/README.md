@@ -1,7 +1,7 @@
----
 title: "Egypt: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "+2% to +4% annually"
+growth_outlook: Low/Negative
 confidence: Moderate
 category: declining
 region: middle-east
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Egypt: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: +2 to +4% annually
+> **Growth Outlook**: Low/Negative
 > **Risk**: Debt servicing; Suez vulnerability; authoritarian brittleness
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

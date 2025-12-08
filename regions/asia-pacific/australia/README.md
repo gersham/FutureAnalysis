@@ -1,10 +1,10 @@
 ---
 title: "Australia: 2026-2036"
-outlook: Winner (Contingent)
-gdp_projection: "+3% to +5% annually"
-confidence: Moderate
-category: winner
+type: synthesis
 region: asia-pacific
+outlook: Winner (Contingent)
+growth_outlook: High (policy‑dependent)
+confidence: Moderate
 tags: [resources, critical-minerals, data-centers, regulatory-risk]
 last_updated: 2025-12-08
 ---
@@ -19,22 +19,22 @@ last_updated: 2025-12-08
 
 ---
 
-## December 2025 Reality
+## The Infrastructure Baseline
 
-Australia's data centre market is expanding rapidly:
+Australia's data centre market is expanding rapidly, positioned to become a key node in the global AI compute grid.
 
-| Metric | Current | 2030 Projection |
-|--------|---------|-----------------|
-| Data centre capacity | **1.3-2.2 GW** | 3.1-4.1 GW |
-| Market value | $6.95B | $8.58B |
-| IT load capacity | 3.53 GW | 7.18 GW |
+| Metric | Status | Projection |
+|--------|--------|------------|
+| Data centre capacity | **Rapid Expansion** | Doubling by 2030 |
+| Market Position | **Regional Hub** | Primary APAC alternative to Singapore |
+| Constraint | **Supply Gap** | Demand outpaces grid connection speed |
 
-**Major investments confirmed**:
-- Amazon: AUD $20 billion commitment
-- Microsoft: AUD $5 billion expansion
-- NEXTDC: A$5.1 billion debt facility secured (June 2025)
+*See [Current Indicators](../../../global/data/current-indicators.md) for latest capacity figures.*
 
-**Challenge**: Supply gap of **0.7-1.7 GW expected by 2028**—demand outpacing infrastructure for first time on record.
+**Major investments**:
+Hyperscalers (Amazon, Microsoft) and operators (NEXTDC) have committed multi-billion dollar capital expenditure programs to the region, signaling long-term confidence in Australia's stability and energy potential.
+
+**Challenge**: A significant supply gap is emerging as AI training demand outstrips the physical speed of grid transmission buildout.
 
 ---
 
@@ -46,7 +46,7 @@ The [data centre growth](data/data-center-growth.md) trajectory reflects these a
 
 The [services vulnerability](trends/services-vulnerability.md) is real but geographically concentrated. Sydney and Melbourne are services economies facing the same AI automation pressure as London or Frankfurt—professional services, financial services, administrative functions all vulnerable. Most Australians live in these services-dependent cities. Job creation in resources is capital-intensive, not labour-intensive; the wealth may not distribute evenly. National statistics may mask significant divergence between thriving resource regions and struggling urban services sectors.
 
-The [regulatory risk](trends/regulatory-risk.md) is the swing factor that determines whether Australia achieves winner or survivor status. Australia shows signs of following the European regulatory model: similar political culture, similar regulatory instincts, similar precautionary tendencies. If Australia follows the EU AI Act approach, it may impose costs without preventing AI deployment by competitors—forfeiting the advantages geography provides. The range of outcomes is real: permissive regulation enables full advantage capture and GDP growth of 4-5 percent annually; EU-style regulation forfeits much of the advantage and yields 2-3 percent growth. Both outcomes are positive due to resources, but the gap is substantial.
+The [regulatory risk](trends/regulatory-risk.md) is the swing factor that determines whether Australia achieves winner or survivor status. Australia shows signs of following the European regulatory model: similar political culture, similar regulatory instincts, similar precautionary tendencies. If Australia follows the EU AI Act approach, it may impose costs without preventing AI deployment by competitors—forfeiting the advantages geography provides. The range of outcomes is real: permissive regulation enables full advantage capture and a **high growth** outcome; EU‑style regulation forfeits much of the advantage and yields a **moderate** outcome. Both outcomes are positive due to resources, but the gap is substantial.
 
 The [outlook](analysis/outlook.md) projects the near term bringing continued data centre expansion, critical minerals investment, services sector pressure in major cities, and regulatory direction clarifying. The mid term sees resources becoming dominant in the economy, Australia establishing position as Asia-Pacific data centre hub, and services transitioning to post-displacement equilibrium. By the late term, regulatory choices have played out: if sensible, full geographic advantages captured; if EU-model, advantages partially forfeited but trajectory still positive due to resources.
 

@@ -1,7 +1,7 @@
----
 title: "India: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "+3% to +6% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Low
 category: contested
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # India: 2026-2036
 
 > **Outlook**: Contested
-> **GDP Projection**: +3 to +6% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Risk**: IT services disruption; structural dysfunction; demographic liability
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

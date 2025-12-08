@@ -25,7 +25,7 @@ China possesses approximately 32 gigawatts of installed data centre capacity—s
 
 | Country | 2025 Capacity | 2030 Projection |
 |---------|---------------|-----------------|
-| United States | 53.7 GW | 81+ GW |
+| United States | 53.7 GW | 132 GW |
 | China | ~32 GW | 50+ GW |
 | EU (total) | 11.9 GW | ~35 GW |
 

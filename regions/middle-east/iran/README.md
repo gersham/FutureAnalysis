@@ -1,7 +1,7 @@
----
 title: "Iran: 2026-2036"
+type: synthesis
 outlook: Collapsing
-gdp_projection: "-2% to -5% annually"
+growth_outlook: Severe contraction
 confidence: High
 category: collapsing
 region: middle-east
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Iran: 2026-2036
 
 > **Outlook**: Collapsing
-> **GDP Projection**: -2 to -5% annually
+> **Growth Outlook**: Severe contraction
 > **Confidence**: High
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

@@ -89,7 +89,7 @@ The AI Act has been "generally welcomed in the EU as a pioneering regulatory fra
 - By then, AI landscape already shaped by US/China deployment
 - European firms face worst of both worlds: compliance costs + AI-enabled competition from unconstrained rivals
 
-**The regulation will not stop AI; it will stop domestic AI.**
+**The regulation will not stop AI; it risks shifting domestic value capture abroad.**
 
 ## Regulatory Contagion
 

@@ -1,7 +1,7 @@
 # Ireland Outlook: 2026-2036
 
 > **Classification**: Contested (High Variance)
-> **GDP Projection**: -1% to +2% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Confidence**: Low
 
 ## Core Assessment

@@ -1,7 +1,7 @@
----
 title: "Spain: 2026-2036"
+type: synthesis
 outlook: Survivor
-gdp_projection: "+2% to +3% annually"
+growth_outlook: Moderate
 confidence: Moderate
 category: survivor
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Spain: 2026-2036
 
 > **Outlook**: Survivor
-> **GDP Projection**: +2 to +3% annually
+> **Growth Outlook**: Moderate
 > **Advantage**: Services strength; demographics
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

@@ -3,7 +3,7 @@ title: "Switzerland Outlook: 2026-2036"
 type: analysis
 country: switzerland
 outlook: Declining
-gdp_projection: "-1% to -2% annually"
+growth_outlook: Low/Negative
 confidence: Moderate
 last_updated: 2025-12-07
 ---
@@ -11,7 +11,7 @@ last_updated: 2025-12-07
 # Switzerland Outlook: 2026-2036
 
 > **Classification**: Declining
-> **GDP Projection**: -1 to -2% annually
+> **Growth Outlook**: Low/Negative
 > **Confidence**: Moderate
 
 ## Core Assessment

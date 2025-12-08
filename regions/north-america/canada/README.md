@@ -1,7 +1,18 @@
+---
+title: "Canada: 2026-2036"
+type: synthesis
+region: north-america
+outlook: Restructured
+growth_outlook: Moderate (uneven/concentrated)
+confidence: Moderate
+tags: [resources, state-capital, energy, services-exposure]
+last_updated: 2025-12-08
+---
+
 # Canada: 2026-2036
 
 > **Outlook**: Restructured
-> **GDP Projection**: +2 to +4% annually (gains concentrated)
+> **Growth Outlook**: Moderate (uneven/concentrated)
 > **Advantage**: Fortress America spillover; resource endowment
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
@@ -12,7 +23,7 @@
 
 Canada's most underappreciated advantage is simple geography: it shares a border with the AI goliath.
 
-The United States will capture AI gains at a scale no other nation can match—53.7 gigawatts of data centre capacity, $500 billion Stargate project, $109 billion in private AI investment in 2024 alone. Canada benefits from this explosion by proximity and integration:
+The United States will capture AI gains at a scale no other nation can match (see [Global Data: Data Center Capacity](../../global/data/data-center-capacity.md); plus Stargate and private AI investment). Canada benefits from this explosion by proximity and integration:
 
 - **Capital spillover**: American AI investment seeking North American optionality flows to Canada
 - **Talent circulation**: AI workers and entrepreneurs move between US and Canadian tech hubs

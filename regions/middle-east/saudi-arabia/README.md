@@ -1,7 +1,7 @@
----
 title: "Saudi Arabia: 2026-2036"
+type: synthesis
 outlook: Winner
-gdp_projection: "+3% to +5% annually"
+growth_outlook: High
 confidence: Moderate
 category: winner
 region: middle-east
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Saudi Arabia: 2026-2036
 
 > **Outlook**: Winner
-> **GDP Projection**: +3 to +5% annually
+> **Growth Outlook**: High
 > **Risk**: Execution capacity; oil price collapse before transition completes
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

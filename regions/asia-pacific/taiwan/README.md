@@ -1,7 +1,7 @@
----
 title: "Taiwan: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "+2% to +5% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Low
 category: contested
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Taiwan: 2026-2036
 
 > **Outlook**: Contested
-> **GDP Projection**: +2 to +5% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Risk**: China invasion/blockade; silicon shield erosion
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

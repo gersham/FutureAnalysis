@@ -1,8 +1,8 @@
----
 title: "UAE: 2026-2036"
+type: synthesis
 outlook: Winner
-gdp_projection: "+4% to +6% annually"
-confidence: Moderate-High
+growth_outlook: High
+ confidence: Moderate-High
 category: winner
 region: middle-east
 tags: [ai-investment, diversification, sovereign-wealth, stargate]
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # UAE: 2026-2036
 
 > **Outlook**: Winner
-> **GDP Projection**: +4 to +6% annually
+> **Growth Outlook**: High
 > **Advantage**: Execution speed; established international hub
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

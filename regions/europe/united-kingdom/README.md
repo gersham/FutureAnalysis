@@ -1,7 +1,18 @@
+---
+title: "United Kingdom: 2026-2036"
+type: synthesis
+region: europe
+outlook: Fracturing (Central Case)
+growth_outlook: Negative with instability risk
+confidence: Moderate
+tags: [services-exposure, legitimacy, energy-costs]
+last_updated: 2025-12-08
+---
+
 # United Kingdom: 2026-2036
 
 > **Outlook**: Fracturing (Central Case)
-> **GDP Projection**: -2 to -5% annually (central); see scenario table below
+> **Growth Outlook**: Negative with instability risk (scenario)
 > **Confidence**: Moderate
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
@@ -14,11 +25,11 @@ This is a **fully worked example** showing how the [methodology](../../../METHOD
 
 ### Scenario Table
 
-| Scenario | Probability | GDP/Year | Description |
-|----------|-------------|----------|-------------|
-| **Upside** | 15-20% | -1 to +1% | Managed decline; institutional resilience; sterling devaluation restores competitiveness; successful pivot to new niches |
-| **Central** | 50-60% | -2 to -4% | Financial services compress 30-40%; episodic unrest but not systemic; muddling through with lower living standards |
-| **Downside** | 20-30% | -4 to -6% | Financial services collapse 50%+; serious sustained unrest; emergency governance; significant capital flight and emigration |
+| Scenario | Probability | Outcome | Description |
+|----------|-------------|---------|-------------|
+| **Upside** | 15-20% | Managed decline | Institutional resilience; sterling devaluation restores competitiveness; successful niche pivots |
+| **Central** | 50-60% | Material contraction | Financial services compress significantly; episodic unrest but not systemic; muddling through |
+| **Downside** | 20-30% | Severe contraction + instability | Financial services collapse; sustained unrest; emergency governance; capital flight and emigration |
 
 ### What Would Move Us Between Scenarios
 
@@ -48,9 +59,7 @@ The UK economy is unusually weighted toward high-displacement sectors:
 | Healthcare (NHS) | ~5% | 1-3% | Low |
 | Manufacturing | ~8% | 3-5% | Moderate |
 
-**Weighted average displacement**: ~4-6% annually (vs global average 2-4%)
-
-The UK's service-heavy economy means it faces faster displacement than the global average.
+Relative to the 5% scenario baseline, the UK's service‑heavy economy faces higher‑than‑baseline displacement pressure.
 
 ### Step 2: Factor Analysis
 
@@ -76,19 +85,14 @@ For the UK specifically:
 3. **Financial services concentration**: Single point of failure; 15-20% of GDP, higher share of tax revenue
 4. **No domestic AI champions**: Dependent on US/Chinese technology
 
-### Step 4: Deriving GDP Range
+### Step 4: Deriving Outcome (Qualitative)
 
-```
-Base GDP growth assumption: +1.5% (pre-disruption trend)
-- Displacement drag: -3 to -5% (high-exposure sectors × high displacement rate)
-- No offsetting gains: UK captures minimal AI productivity gains (low compute, high costs)
-- Fiscal feedback: Tax revenue falls as financial services shrink → reduced public services → lower productivity
-= Net: -2 to -4% annually (central case)
-```
+Using the sector exposure and factor bundle:
+- High exposure to finance/professional/admin functions (above scenario baseline)
+- Adverse energy/compute position; regulatory uncertainty; strong capital markets
+- Limited domestic AI champions
 
-**Downside acceleration**: If financial services contraction exceeds 40% or civil unrest disrupts economic activity, the feedback loops intensify → -4 to -6%.
-
-**Upside mitigation**: Sterling devaluation, aggressive regulatory liberalisation, or unexpected adaptation could limit decline to -1 to +1%.
+→ Expected outcome under the 5%/year displacement scenario: **material contraction** (central), with **credible tails** to managed decline (upside) or severe contraction with instability (downside).
 
 ---
 
@@ -120,7 +124,7 @@ The United Kingdom represents a high-stress test case for AI-era adaptation. Mul
 
 **Legitimacy and social cohesion**: The UK has been [haemorrhaging legitimacy](trends/legitimacy-fracture.md) for a generation. Academic researchers studying civil conflict have identified structural preconditions for serious unrest: polarisation, loss of institutional legitimacy, identity-based factionalism. The [demographic fractures](trends/demographic-fractures.md)—unassimilated populations, housing crisis, generational wealth gaps—compound economic stress.
 
-**In the central case**: Financial services contract 30-40% by 2035; employment in exposed sectors falls faster than new opportunities emerge; living standards decline 15-25% over the decade; episodic unrest occurs but institutions hold; Scotland remains (narrowly); the UK becomes poorer but does not fragment.
+**In the central case**: Financial services contract substantially by 2035; employment in exposed sectors falls faster than new opportunities emerge; living standards decline; episodic unrest occurs but institutions hold; Scotland remains (narrowly); the UK becomes poorer but does not fragment.
 
 ---
 
@@ -172,19 +176,18 @@ This is the "muddling through" scenario that has historically worked for Britain
 ### Mid Term (2029-2032)
 
 **Central case**:
-- Cumulative financial services employment down 25-35%
-- GDP contracted 8-15% from 2025 baseline
-- Tax revenue shortfall forces public service cuts
+- Financial services employment materially lower
+- Public finances under pressure; public service cuts likely
 - One or more episodes of serious civil unrest
-- Emigration of high-skill workers accelerates
+- Emigration of high‑skill workers accelerates
 
 **Upside case**:
 - Regulatory liberalisation attracts some AI investment
 - Sterling stabilisation after devaluation
-- GDP down 3-8%; manageable adjustment
+- Adjustment remains manageable
 
 **Downside case**:
-- Financial services contraction exceeds 40%
+- Financial services contraction becomes severe
 - Sustained unrest in multiple cities
 - Scotland independence referendum passes
 - Emergency governance measures

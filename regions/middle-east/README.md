@@ -1,5 +1,6 @@
 ---
 title: "Middle East: 2026-2036"
+type: synthesis
 region: middle-east
 countries: [saudi-arabia, uae, israel, iran]
 tags: [oil-diversification, ai-investment, geopolitical-risk, sovereign-wealth]

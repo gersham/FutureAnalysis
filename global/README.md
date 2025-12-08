@@ -1,3 +1,11 @@
+---
+title: "Global Overview: 2026-2036"
+type: synthesis
+scope: global
+tags: [ai, displacement, energy, legitimacy, regions]
+last_updated: 2025-12-08
+---
+
 # Global Overview: 2026-2036
 
 A synthesis of worldwide trends, data, and analysis shaping the coming decade.
@@ -8,9 +16,9 @@ A synthesis of worldwide trends, data, and analysis shaping the coming decade.
 
 The forces now in motion—artificial intelligence, demographic transformation, energy realignment, and the erosion of institutional legitimacy—represent a phase transition in the organisation of human societies. This is not incremental change but discontinuous transformation, comparable in scale to industrialisation but compressed into a fraction of the time.
 
-The central dynamic: **AI-driven displacement** at approximately 5% of jobs per year, reaching ~50% cumulative displacement by 2035. A second wave of **physical automation** through humanoid robotics accelerates after 2030. Together, these waves close the traditional escape valve of retraining for different work.
+The central dynamic: **AI‑driven displacement** at approximately 5% of jobs per year, reaching on the order of half (~40–45%) cumulative displacement by the mid‑2030s. A second wave of **physical automation** through humanoid robotics accelerates after 2030. Together, these waves close the traditional escape valve of retraining for different work.
 
-Nations divide into those that **own AI systems and possess energy to power them** (capturing enormous gains) versus those that **provide services to the global economy** (watching their comparative advantage evaporate). A critical variable is **cultural and regulatory disposition toward adoption**—resistance through regulation does not prevent AI deployment, it merely determines whether gains are captured domestically or by competitors.
+Nations divide into those that **own AI systems and possess energy to power them** (capturing gains) versus those that **provide services to the global economy** (watching comparative advantage erode). Crucially, compute/energy are part of a broader **factor bundle**—regulation, capital markets, talent, and cultural adoption (see [Methodology](../METHODOLOGY.md)) materially shift outcomes. Resistance through regulation does not prevent AI deployment; it primarily influences where value is captured.
 
 ---
 
@@ -36,7 +44,7 @@ Observable patterns in motion.
 | [AI Displacement](trends/ai-displacement.md) | ~5% of jobs annually; white-collar, professional, entry-level hit first |
 | [Robotics Wave](trends/robotics-wave.md) | Physical automation scales 2027-2030; service sector by 2035 |
 | [Energy & Data Centers](trends/energy-and-data-centers.md) | Computational capacity as new oil; US dominant, Europe trailing |
-| [Cultural Adoption](trends/cultural-adoption.md) | Asian advantage; American paradox; European regulatory suicide |
+| [Cultural Adoption](trends/cultural-adoption.md) | Asian advantage; American paradox; stringent EU‑style regulation imposes costs |
 | [Financial Services Disruption](trends/financial-services-disruption.md) | AI + alternative finance hollowing traditional hubs |
 | [Legitimacy Crisis](trends/legitimacy-crisis.md) | Pre-existing trust deficits compound economic shock |
 
@@ -69,13 +77,7 @@ Suppositions and predictions based on data and trends.
 
 ### Data Center Capacity
 
-| Leader | Capacity | Share | 2030 Projection |
-|--------|----------|-------|-----------------|
-| United States | 53.7 GW | 44% of global | 132 GW |
-| China | 31.9 GW | 26% (but 80% of new capacity idle) | 50+ GW |
-| European Union | 11.9 GW | 10% | 41 GW |
-
-**Stargate Project** (announced Jan 2025): $500 billion commitment, ~7 GW planned across 6 sites. Experienced mid-2025 delays (Bloomberg: "no funds raised") but recovered September 2025 with $400B committed and back on track for 10 GW. Abilene flagship operational.
+See canonical figures and projections in [Global Data: Data Center Capacity](data/data-center-capacity.md). Headline: the United States leads by a wide margin; Europe trails on both cost and capacity; US+China account for the majority of global capacity.
 
 ### AI Investment Gap (2024)
 
@@ -116,19 +118,19 @@ The adoption picture is more nuanced than simple percentages suggest:
 
 ### Country Outlook Summary
 
-*Note: GDP ranges are decade trajectories (2026-2036), not annual rates.*
+Qualitative growth outlooks within the 5%/year displacement scenario.
 
-| Outlook | Countries | Decade Trajectory | Confidence |
-|---------|-----------|-------------------|------------|
-| Winner | US, China, Australia, Poland, Vietnam, Indonesia, UAE | +30% to +80% | High-Moderate |
-| Restructured | Canada | +20% to +40% (concentrated) | Moderate |
-| Survivor | Singapore, Japan, South Korea | +10% to +40% | Moderate-High |
-| Declining | Germany, Switzerland, Italy, Russia | -5% to -30% | High-Moderate |
-| Contested | Ireland, Turkey, Thailand | -15% to +30% | Low |
-| Fracturing | UK, France | -15% to -40% | Moderate |
-| Collapsing | Iran, Venezuela | Severe | High |
+| Outlook | Countries | Growth Outlook | Confidence |
+|---------|-----------|----------------|------------|
+| Winner | US, China, Australia, Poland, Vietnam, Indonesia, UAE | High | Moderate‑High |
+| Restructured | Canada | Moderate (Uneven/Concentrated) | Moderate |
+| Survivor | Singapore, Japan, South Korea | Moderate | Moderate‑High |
+| Declining | Germany, Switzerland, Italy, Russia | Low/Negative | Moderate‑High |
+| Contested | Ireland, Turkey, Thailand | Uncertain (High variance) | Low |
+| Fracturing | UK, France | Negative with instability risk | Moderate |
+| Collapsing | Iran, Venezuela | Severe contraction | High |
 
-See [Winners and Losers](analysis/winners-and-losers.md) for full framework and [Alternative Scenarios](analysis/alternative-scenarios.md) for conditions under which these projections would change.
+See [Winners and Losers](analysis/winners-and-losers.md) for full framework and [Alternative Scenarios](analysis/alternative-scenarios.md) for conditions under which these outlooks would change.
 
 ---
 

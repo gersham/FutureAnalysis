@@ -1,7 +1,7 @@
----
 title: "Venezuela: 2026-2036"
+type: synthesis
 outlook: Collapsing
-gdp_projection: "-3% to -6% annually"
+growth_outlook: Severe contraction
 confidence: High
 category: collapsing
 region: south-america
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Venezuela: 2026-2036
 
 > **Outlook**: Collapsing
-> **GDP Projection**: -3 to -6% annually
+> **Growth Outlook**: Severe contraction
 > **Confidence**: High
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

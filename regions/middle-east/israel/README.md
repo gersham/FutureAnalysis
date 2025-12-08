@@ -1,7 +1,7 @@
----
 title: "Israel: 2026-2036"
+type: synthesis
 outlook: Survivor
-gdp_projection: "+1% to +3% annually"
+growth_outlook: Moderate (war‑contingent)
 confidence: Low
 category: survivor
 region: middle-east
@@ -11,8 +11,8 @@ last_updated: 2025-12-08
 
 # Israel: 2026-2036
 
-> **Outlook**: Survivor (War-contingent)
-> **GDP Projection**: +1 to +3% annually
+> **Outlook**: Survivor (War‑contingent)
+> **Growth Outlook**: Moderate (war‑contingent)
 > **Risk**: Extended conflict; brain drain acceleration
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

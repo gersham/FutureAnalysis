@@ -1,7 +1,7 @@
----
 title: "Ireland: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "-1% to +2% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Low
 category: high-variance
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Ireland: 2026-2036
 
 > **Outlook**: Contested (High Variance)
-> **GDP Projection**: -1% to +2% annually
+> **Growth Outlook**: Uncertain (High variance)
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
 

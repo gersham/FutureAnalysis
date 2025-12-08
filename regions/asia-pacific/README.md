@@ -1,5 +1,6 @@
 ---
 title: "Asia-Pacific: 2026-2036"
+type: synthesis
 region: asia-pacific
 countries: [china, india, japan, singapore, australia, south-korea, indonesia, vietnam, malaysia, thailand]
 tags: [cultural-adoption, state-capacity, diverse-outcomes, manufacturing, demographics]

@@ -1,7 +1,7 @@
 # Germany Outlook: 2026-2036
 
 > **Classification**: Declining
-> **GDP Projection**: -2 to -4% annually
+> **Growth Outlook**: Low/Negative
 > **Confidence**: High
 
 ## Core Assessment

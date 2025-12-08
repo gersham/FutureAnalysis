@@ -3,7 +3,7 @@ title: "Japan Outlook: 2026-2036"
 type: analysis
 country: japan
 outlook: Survivor
-gdp_projection: "+1% to +2% annually"
+growth_outlook: Moderate
 confidence: Moderate-High
 last_updated: 2025-12-07
 ---
@@ -11,7 +11,7 @@ last_updated: 2025-12-07
 # Japan Outlook: 2026-2036
 
 > **Classification**: Survivor
-> **GDP Projection**: +1 to +2% annually
+> **Growth Outlook**: Moderate
 > **Confidence**: Moderate-High
 
 ## Core Assessment

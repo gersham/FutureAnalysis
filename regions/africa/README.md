@@ -1,5 +1,6 @@
 ---
 title: "Africa: 2026-2036"
+type: synthesis
 region: africa
 countries: [nigeria, south-africa]
 tags: [demographic-liability, infrastructure-deficit, informal-economy, structural-challenges]

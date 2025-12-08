@@ -1,7 +1,7 @@
----
 title: "Mexico: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "+1% to +3% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Low
 category: contested
 region: north-america
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Mexico: 2026-2036
 
 > **Outlook**: Contested
-> **GDP Projection**: +1 to +3% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Risk**: US tariff policy; cartel violence; execution capacity
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

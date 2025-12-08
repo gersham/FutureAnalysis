@@ -23,11 +23,11 @@ The distribution of computational infrastructure is already starkly unequal:
 
 US infrastructure expansion is industrial-scale:
 - Virginia alone: 12+ GW installed, expanding rapidly
-- Stargate project: 10 GW of AI-dedicated infrastructure planned
-- 55+ GW additional capacity expected by 2030
-- Total by 2030: 81+ GW
+- Stargate project: large AI‑dedicated buildout planned
+- Additional capacity through 2030 is the largest globally
+- See canonical figures in [Global Data: Data Center Capacity](../data/data-center-capacity.md)
 
-This is not incremental addition—it represents construction of industrial infrastructure on a scale not seen since early 20th-century electrification.
+This is not incremental addition—it represents construction of industrial infrastructure on a scale not seen since early 20th‑century electrification.
 
 ## European Constraints
 
@@ -62,6 +62,8 @@ Nations with:
 - Solar potential at scale (Australia)
 
 ...have strategic advantages that may offset other weaknesses.
+
+Note: In the overall factor model (see [Methodology](../../METHODOLOGY.md)), compute and energy are critical but not singular determinants. Regulation, capital, talent, and cultural adoption materially shift outcomes.
 
 ---
 

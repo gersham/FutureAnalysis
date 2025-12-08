@@ -6,13 +6,7 @@ This repository organizes predictions and analysis for 2026-2036 using a structu
 
 ## Epistemic Status
 
-**This is a scenario exercise, not a forecast.** The document stakes out a coherent, internally consistent view of how AI-driven transformation might unfold. It is deliberately pointed rather than hedged, because hedged scenarios are less useful for planning.
-
-However:
-- The confident prose is **rhetorical**, not epistemic certainty
-- GDP projections are **illustrative ranges**, not econometric forecasts
-- Country classifications are **central cases** with significant variance around them
-- Decade-long projections are inherently fragile; treat as directional, not precise
+**This is a scenario exercise, not a forecast.** It stakes out a clear, internally consistent scenario and follows implications through countries and sectors. The prose is intentionally confident to sharpen thinking; treat it as a planning premise, not a claim of certainty.
 
 **What this is for**: Thinking through implications, identifying exposure, stress-testing assumptions.
 
@@ -24,58 +18,39 @@ However:
 
 This analysis proceeds from several foundational assumptions. **If you disagree with these, the downstream conclusions don't follow.**
 
-### Assumption 1: AI Displacement Rate
+### Assumption 1: AI Displacement Rate (Scenario Premise)
 
-| Element | Claim | Basis | Uncertainty |
-|---------|-------|-------|-------------|
-| **Task automation rate** | ~40-60% of current tasks automatable by 2035 | Current LLM/robotics capability trajectories | Moderate |
-| **Job elimination rate** | ~5% of roles eliminated annually | Tasks ≠ jobs; assumes partial absorption | **High** |
-| **Net displacement by 2035** | ~30-50% of current workforce affected | Cumulative effect minus re-deployment | **High** |
+This work adopts a clear premise to drive the scenario: **net job displacement of ~5% of the workforce per year, compounding, from 2026 through 2036.**
 
-**The explicit model**:
+- Compounding math: 1 − 0.95^10 ≈ 40% cumulative; 1 − 0.95^11 ≈ 43% cumulative.
+- Interpretation: By the mid‑2030s, on the order of half of today’s roles are displaced or fundamentally transformed in this scenario.
 
-```
-Gross task automation: ~5-7% of all work tasks per year
-× Tasks-to-jobs conversion: ~0.6-0.8 (many tasks automated ≠ job eliminated)
-× (1 - Re-deployment rate): ~0.5-0.7 (fraction NOT absorbed into new/modified roles)
-= Net job displacement: ~2-4% of workforce per year
-```
+We treat 5%/year as a scenario lever, not a consensus estimate. The point is to examine downstream implications if displacement runs at this pace.
 
-**Compounding math**: We use a compounding model where each year's displacement is from the *current* workforce. At 3% net annual displacement:
-- Year 1: 100 → 97 (3% displaced)
-- Year 5: 100 → 86 (1 - 0.97⁵)
-- Year 10: 100 → 74 (1 - 0.97¹⁰ = 26% cumulative)
-
-At 4% net annual: 1 - 0.96¹⁰ = 34% cumulative displacement.
-
-The **25-40% range** corresponds to net annual rates of 2.8-5%, which maps to the model outputs above.
-
-**Sector heterogeneity**: The global average masks dramatic variation:
+**Sector heterogeneity**: The global average masks dramatic variation. The figures below are directional, expressed relative to the 5% net scenario baseline.
 
 | Sector | Expected Net Displacement/Year | Rationale |
 |--------|-------------------------------|-----------|
-| Legal services | 8-12% | Research, drafting, review highly automatable |
-| Software development | 6-10% | See [software automation trend](global/trends/software-development-automation.md) |
-| Financial back/middle office | 6-10% | Pure information processing |
-| Call centers / BPO | 15-25% | Near-total elimination; see [call center collapse](global/trends/call-center-collapse.md) |
-| Administrative / clerical | 5-8% | Broad automation of routine tasks |
-| Retail / hospitality | 2-4% | Physical presence still valued; robotics later |
-| Healthcare delivery | 1-3% | Physical skills; regulatory protection |
-| Trades / construction | 1-2% | Robotics Wave 2; later in timeline |
-| Agriculture | 2-4% | Already highly automated; continued pressure |
+| Legal services | Higher than baseline | Research, drafting, review highly automatable |
+| Software development | Higher than baseline | See [software automation trend](global/trends/software-development-automation.md) |
+| Financial back/middle office | Higher than baseline | Pure information processing |
+| Call centers / BPO | Much higher than baseline | Near‑total elimination; see [call center collapse](global/trends/call-center-collapse.md) |
+| Administrative / clerical | Around baseline to higher | Broad automation of routine tasks |
+| Retail / hospitality | Lower than baseline | Physical presence still valued; robotics later |
+| Healthcare delivery | Lower than baseline | Physical skills; regulatory protection |
+| Trades / construction | Lower early, higher late | Robotics Wave 2; later in timeline |
+| Agriculture | Lower than baseline | Already automated; continued pressure |
 
 Countries/regions weighted toward high-displacement sectors (UK financial services, Indian IT, Philippine BPO) face steeper curves than those weighted toward physical work.
 
-**What this model ignores** (acknowledged limitations):
+**What this scenario simplifies** (acknowledged limitations):
 - General equilibrium effects (wage adjustment, capital deepening)
 - New job/sector creation from AI-enabled activities
 - Hours-per-worker adjustment (underemployment vs unemployment)
 - Policy responses (UBI, retraining, work-sharing)
 - Deliberate adoption slowdowns in some jurisdictions
 
-The 5%/year headline figure is a **gross task automation rate** that gets partially offset by job restructuring and re-deployment. Net effects are lower but still historically unprecedented.
-
-**Historical comparison**: Peak industrial-revolution displacement was ~1-2% annual structural unemployment adjustment. We're assuming 2-4x that rate, sustained for a decade. This is aggressive but not impossible given the generality of cognitive automation. The closest modern analogue is perhaps the collapse of manufacturing employment in the US/UK from 1980-2010—but that was spread over 30 years, not 10.
+**Historical comparison**: Peak industrial‑revolution displacement is typically estimated at ~1–2% annual structural adjustment. This scenario assumes a step‑change to ~5% net, sustained for a decade. Aggressive, but analytically useful.
 
 ### Assumption 2: Energy/Compute as Key Factor (Not Master Variable)
 
@@ -106,7 +81,7 @@ Data centre capacity is treated as **one important factor in a bundle**, not the
 | **Emerging market** | India, Indonesia, Vietnam | Capital markets, infrastructure, talent pipeline | 25% |
 | **Resource-rich** | Saudi Arabia, UAE, Australia | Energy cost, capital, regulatory simplicity | 35% |
 
-The 25/20/20/15/10/10 global weights are a heuristic; in practice, binding constraints differ by country type.
+The 25/20/20/15/10/10 global weights are a heuristic; in practice, binding constraints differ by country type. Synthesis should not over‑weight any single factor (e.g., compute) relative to this bundle.
 
 **Interaction effects**: These factors are not additively independent:
 - Regulation × Capital markets: Can we finance DC given NIMBY + ESG constraints?
@@ -128,9 +103,9 @@ The 25/20/20/15/10/10 global weights are a heuristic; in practice, binding const
 - Slower (engineering challenges, regulation, union resistance)
 - Different in character (augmentation rather than replacement)
 
-### Assumption 4: Regulatory Inefficacy
+### Assumption 4: Regulatory Redistributive Effect
 
-**Claim**: Regulation cannot prevent AI deployment globally; it only shifts where gains are captured.
+**Claim**: Regulation cannot prevent global AI deployment; it primarily shifts where gains and costs are captured.
 
 **Mechanism**:
 - AI is deployed by US/China regardless of EU/UK/Canada rules
@@ -142,7 +117,7 @@ The 25/20/20/15/10/10 global weights are a heuristic; in practice, binding const
 - Regulation can slow domestic deployment, buying adjustment time
 - Consumer protection, liability frameworks do provide real value
 - EU may eventually adapt (carve-outs, arbitrage, grey markets)
-- "Regulatory suicide" is rhetorical; reality is messier
+- Outcomes vary; implementation details matter
 
 ---
 
@@ -161,24 +136,9 @@ Countries are classified into **central case scenarios** with explicit upside/do
 | **Declining** | Structural contraction; -1 to -3% | Adaptation surprises; 0-1% | Acceleration; -3 to -5% |
 | **Fracturing** | Decline + instability; -2 to -5% | Institutional resilience; -1 to -2% | Serious unrest; -4 to -7% |
 
-### GDP Projection Interpretation
+### Growth Outlook Interpretation
 
-The GDP ranges in country profiles are **illustrative**, not econometric:
-
-- They represent "think about this range" rather than "our model outputs this"
-- They assume the core displacement scenario plays out roughly as described
-- They do NOT account for:
-  - Black swan events (war, pandemic, financial crisis)
-  - Major policy shifts (unexpected liberalization or autarky)
-  - Technological discontinuities (AGI, fusion, etc.)
-
-**Sanity check**: If US runs +5-7% while Germany runs -2 to -4% for a decade, that implies:
-- US GDP roughly doubles; Germany GDP falls ~20-30%
-- Per capita gap widens from ~1.4x to ~2.5-3x
-- Capital flows massively toward US
-- Euro under severe pressure
-
-This is historically extreme but not impossible (cf. Japan vs US 1990-2010). The ranges are at the aggressive end of plausible.
+Country profiles use **qualitative growth outlooks** (High / Moderate / Low / Negative / Uneven) rather than numeric GDP projections. These reflect relative positioning within the scenario’s factor model and sector exposure rather than econometric forecasts.
 
 ---
 
@@ -222,10 +182,7 @@ When reading a country profile, the full picture requires understanding:
 - Low confidence: limited data, multiple plausible scenarios, high uncertainty
 
 ### Falsifiability
-Predictions include specific criteria where possible:
-- GDP thresholds (e.g., "contracts 3%+ for 2 consecutive quarters")
-- Capacity targets (e.g., "data center capacity exceeds 5 GW")
-- Event triggers (e.g., "major civil unrest in 3+ cities")
+Predictions include specific criteria where possible (capacity targets, adoption milestones, sector employment shifts, event triggers). Where GDP is referenced, use it to validate category direction rather than to forecast exact magnitudes.
 
 ---
 
@@ -289,3 +246,17 @@ Initial content extracted from "The Fracturing: Western Civilisation and the Com
 ---
 
 *Last updated: 2025-12-08*
+
+---
+
+## From Sector Exposure to Growth Outlook (Bridge)
+
+This bridge maps sectoral exposure in the 5% net displacement scenario to a qualitative growth outlook.
+
+- High Exposure: Large shares in financial/professional/administrative/BPO; minimal offsetting sectors; weak adoption capacity → Growth outlook: Negative; risk of instability elevated if legitimacy is low.
+- Mixed Exposure: Services exposure but with offsetting strengths (manufacturing, resources, strong adoption, capital) → Growth outlook: Low to Moderate; uneven distribution likely.
+- Low Exposure or Strong Offsets: Resources, energy abundance, or leadership in AI ownership/compute; high adoption capacity → Growth outlook: Moderate to High.
+
+Modifiers:
+- Factor bundle (compute, energy, regulation, capital, talent, culture) can shift outlook up/down a notch.
+- Wave 2 (robotics) timing raises late‑period exposure for trades/manufacturing.

@@ -1,7 +1,7 @@
----
 title: "Pakistan: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "+1% to +3% annually"
+growth_outlook: Low/Negative
 confidence: Low
 category: declining
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Pakistan: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: +1 to +3% annually
+> **Growth Outlook**: Low/Negative
 > **Risk**: Permanent IMF dependency; energy circular debt; population without employment
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

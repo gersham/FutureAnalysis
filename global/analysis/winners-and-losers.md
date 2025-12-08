@@ -3,15 +3,9 @@
 > **Supposition**: Nations will diverge dramatically based on their position relative to AI, energy, resources, and social cohesion
 > **Confidence**: Moderate-High on categories; Lower on specific magnitudes
 
-## Note on GDP Projections
+## Note on Growth Outlooks
 
-The GDP projections below are **cumulative decade trajectories** (2026-2036), not annual growth rates. Sustained annual growth of 5-7% or contraction of 3-6% would be historically unprecedented for developed economies. These figures represent structural shift magnitude over the full period.
-
-For context:
-- US historical average GDP growth: ~2-3% annually
-- UK historical average: ~1.5-2.5% annually
-- "Winner" status implies significantly above-trend performance
-- "Fracturing" implies significant below-trend with compounding effects
+We use **qualitative growth outlooks** (High / Moderate / Low / Negative / Uneven) instead of numeric GDP projections. These reflect relative positioning within the factor model and sector exposure in the 5%/year displacement scenario.
 
 ## The Determining Variables
 
@@ -33,58 +27,58 @@ For context:
 ### Winners
 Countries capturing AI transition gains.
 
-| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
-|---------|-------------------|------------|------------|-------------|
-| United States | +50 to +80% | +4 to +6% | High | Dominant on all dimensions |
-| China | +40 to +70% | +3.5 to +5.5% | Moderate | State capacity; Taiwan risk; DeepSeek efficiency |
-| Australia | +30 to +50% | +2.5 to +4% | Moderate | Resources; regulatory risk |
-| Poland | +30 to +45% | +2.5 to +3.5% | Moderate | Manufacturing; less exposed |
-| Vietnam | +50 to +80% | +4 to +6% | Moderate | Manufacturing shift; young population |
-| Indonesia | +40 to +60% | +3 to +5% | Moderate | Scale; resources; adoption rates |
-| UAE/Saudi Arabia | +30 to +50% | +2.5 to +4% | Moderate | Sovereign wealth; Stargate UAE; energy |
+| Country | Growth Outlook | Confidence | Key Factors |
+|---------|----------------|------------|-------------|
+| United States | High | High | Dominant on all dimensions |
+| China | High | Moderate | State capacity; Taiwan risk; DeepSeek efficiency |
+| Australia | High | Moderate | Resources; regulatory risk |
+| Poland | High | Moderate | Manufacturing; less exposed |
+| Vietnam | High | Moderate | Manufacturing shift; young population |
+| Indonesia | High | Moderate | Scale; resources; adoption rates |
+| UAE/Saudi Arabia | High | Moderate | Sovereign wealth; energy; infra |
 
 ### Restructured
 Gains exist but captured unequally.
 
-| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
-|---------|-------------------|------------|------------|-------------|
-| Canada | +20 to +40% | +2 to +3.5% | Moderate | Resources via state-capital model; concentrated gains |
+| Country | Growth Outlook | Confidence | Key Factors |
+|---------|----------------|------------|-------------|
+| Canada | Moderate (Uneven/Concentrated) | Moderate | Resources via state‑capital model |
 
 ### Survivors
 Managing transition with stability.
 
-| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
-|---------|-------------------|------------|------------|-------------|
-| Singapore | +20 to +40% | +2 to +3.5% | Moderate | Technocratic adaptation |
-| Japan | +10 to +25% | +1 to +2.5% | High | Demographic cushion; managed stagnation |
-| South Korea | +15 to +30% | +1.5 to +2.5% | Moderate | Tech sector strength; demographic pressure |
+| Country | Growth Outlook | Confidence | Key Factors |
+|---------|----------------|------------|-------------|
+| Singapore | Moderate | Moderate | Technocratic adaptation |
+| Japan | Moderate | High | Demographic cushion; managed stagnation |
+| South Korea | Moderate | Moderate | Tech sector strength; demographic pressure |
 
 ### Declining
 Structural contraction or stagnation.
 
-| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
-|---------|-------------------|------------|------------|-------------|
-| Germany | -10 to -25% | -1 to -2.5% | High | Energy crisis; structural; BDI forecasts |
-| Switzerland | -5 to -15% | -0.5 to -1.5% | Moderate | Banking model dying |
-| Italy | -5 to -20% | -0.5 to -2% | Moderate | Debt; demographics; no tech sector |
-| Russia | -10 to -30% | -1 to -3% | Moderate | Sanctions; brain drain; commodity dependence |
+| Country | Growth Outlook | Confidence | Key Factors |
+|---------|----------------|------------|-------------|
+| Germany | Low/Negative | High | Energy costs; structural headwinds |
+| Switzerland | Low/Negative | Moderate | Banking model under pressure |
+| Italy | Low/Negative | Moderate | Debt; demographics; no tech sector |
+| Russia | Low/Negative | Moderate | Sanctions; brain drain; commodity dependence |
 
 ### Contested
 Genuinely uncertain; high variance outcomes.
 
-| Country | Decade Trajectory | Confidence | Key Factors |
-|---------|-------------------|------------|-------------|
-| Ireland | -15 to +25% | Low | Tech HQ dependency; diversification potential |
-| Turkey | -10 to +30% | Low | Geopolitical position; instability risk |
-| Thailand | -5 to +20% | Low | Manufacturing potential; political uncertainty |
+| Country | Growth Outlook | Confidence | Key Factors |
+|---------|----------------|------------|-------------|
+| Ireland | Uncertain (High variance) | Low | Tech HQ dependency; diversification potential |
+| Turkey | Uncertain (High variance) | Low | Geopolitics; instability risk |
+| Thailand | Uncertain (High variance) | Low | Manufacturing potential; political uncertainty |
 
 ### Fracturing
 Economic decline + elevated instability risk.
 
-| Country | Decade Trajectory | Annual Avg | Confidence | Key Factors |
-|---------|-------------------|------------|------------|-------------|
-| United Kingdom | -20 to -40% | -2 to -4% | Moderate | Services exposure; legitimacy crisis; ConflictMeter High Risk |
-| France | -15 to -30% | -1.5 to -3% | Moderate | Public sector + social fractures |
+| Country | Growth Outlook | Confidence | Key Factors |
+|---------|----------------|------------|-------------|
+| United Kingdom | Negative with instability risk | Moderate | Services exposure; legitimacy crisis |
+| France | Negative with instability risk | Moderate | Public sector + social fractures |
 
 ### Collapsing
 State failure or near-failure likely.

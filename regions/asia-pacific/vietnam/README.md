@@ -1,7 +1,7 @@
----
 title: "Vietnam: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "+4% to +7% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Moderate
 category: contested
 region: asia-pacific
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Vietnam: 2026-2036
 
 > **Outlook**: Contested
-> **GDP Projection**: +4 to +7% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Uncertainty**: Transshipment exposure; tariff vulnerability
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

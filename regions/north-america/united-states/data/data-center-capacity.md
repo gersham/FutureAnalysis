@@ -15,8 +15,8 @@
 | Project/Region | Capacity | Timeline |
 |----------------|----------|----------|
 | Stargate Project | 10 GW | AI-dedicated |
-| Additional pipeline | 55+ GW | By 2030 |
-| **Total by 2030** | **81+ GW** | |
+| Additional pipeline | 79+ GW | By 2030 |
+| **Total by 2030** | **132 GW** | |
 
 ## Assessment
 

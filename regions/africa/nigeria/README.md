@@ -1,7 +1,7 @@
----
 title: "Nigeria: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "+2% to +4% annually"
+growth_outlook: Low/Negative
 confidence: Low
 category: declining
 region: africa
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Nigeria: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: +2 to +4% annually
+> **Growth Outlook**: Low/Negative
 > **Risk**: Demographic liability; state capacity failure
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

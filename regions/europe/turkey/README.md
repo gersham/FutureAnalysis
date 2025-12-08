@@ -1,7 +1,7 @@
----
 title: "Turkey: 2026-2036"
+type: synthesis
 outlook: Contested
-gdp_projection: "+2% to +4% annually"
+growth_outlook: Uncertain (High variance)
 confidence: Low
 category: contested
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Turkey: 2026-2036
 
 > **Outlook**: Contested (High Variance)
-> **GDP Projection**: +2 to +4% annually
+> **Growth Outlook**: Uncertain (High variance)
 > **Risk**: Inflation resurgence; political instability
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

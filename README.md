@@ -1,3 +1,11 @@
+---
+title: "The Fracturing"
+type: synthesis
+scope: global
+tags: [scenario, ai, displacement, legitimacy, energy]
+last_updated: 2025-12-08
+---
+
 # The Fracturing
 
 *Western Civilisation and the Coming Decade of Transformation, 2026–2036*
@@ -11,7 +19,7 @@
 
 ---
 
-> **Epistemic Status**: This is a scenario exercise, not a forecast. The confident prose is rhetorical—useful for thinking through implications, but not a claim to know the future. GDP projections are illustrative ranges, not econometric outputs. Country classifications represent central cases with significant variance. See [Methodology](METHODOLOGY.md) for explicit assumptions, model structure, and what would change our mind.
+> **Epistemic Status**: This is a scenario exercise, not a forecast. The confident prose is rhetorical—useful for thinking through implications, but not a claim to know the future. The core premise is simple: assume ~5% net job displacement per year from 2026 to 2036 and follow the consequences. Country classifications represent central cases with significant variance. See [Methodology](METHODOLOGY.md) for explicit assumptions, model structure, and what would change our mind.
 
 ---
 
@@ -19,11 +27,11 @@
 
 The next decade will not be a continuation of the last. The forces now in motion—artificial intelligence, demographic transformation, energy realignment, and the erosion of institutional legitimacy—are not merely trends to be managed. They represent a phase transition in the organisation of human societies, comparable in scale to industrialisation but compressed into a fraction of the time. By 2036, the political, economic, and social landscape of the Western world will be unrecognisable to those who remember 2020.
 
-This analysis proceeds from a specific analytical assumption: that artificial intelligence will automate approximately five percent of existing jobs per year over the coming decade, such that roughly half of current employment will be displaced by 2036. This is not a prediction plucked from the air—it represents a plausible extrapolation from current capabilities and deployment trajectories. The displacement will concentrate in white-collar, professional, and administrative roles; in junior and entry-level positions; in part-time work; and disproportionately in sectors dominated by women and younger workers. A second wave of physical automation—humanoid robotics and advanced manufacturing systems—will begin to accelerate after 2030, eventually reaching blue-collar and service work that the first wave spared.
+This analysis proceeds from a specific analytical assumption: that artificial intelligence will displace approximately five percent of existing jobs per year on a net basis over the coming decade, such that on the order of half of current employment is displaced or transformed by 2036. The displacement will concentrate in white-collar, professional, and administrative roles; in junior and entry-level positions; in part-time work; and disproportionately in sectors dominated by women and younger workers. A second wave of physical automation—humanoid robotics and advanced manufacturing systems—will begin to accelerate after 2030, eventually reaching blue-collar and service work that the first wave spared.
 
 Within this framework, we can identify a clear division emerging among nations. Those that own the artificial intelligence systems, possess abundant energy to power them, and control natural resources will capture enormous gains. Those that provide services to the global economy—financial intermediation, professional consultancy, administrative processing—will find their comparative advantage evaporating. And those that combine economic disruption with pre-existing social fractures may face outcomes considerably worse than mere recession.
 
-A critical variable will be cultural and regulatory disposition toward adoption. Nations that embrace AI aggressively will capture productivity gains; those that resist through regulation, litigation, or cultural aversion will fall behind—and their resistance will not prevent the technology from being deployed against them by competitors. The regulatory impulse, strongest in Europe but spreading to Canada and Australia, may prove the most expensive form of protectionism ever attempted.
+A critical variable will be cultural and regulatory disposition toward adoption. Nations that embrace AI aggressively will capture productivity gains; those that resist through regulation, litigation, or cultural aversion will fall behind—and their resistance will not prevent the technology from being deployed against them by competitors. The regulatory impulse, strongest in Europe but spreading to Canada and Australia, risks redistributing gains abroad if compliance burdens significantly slow domestic deployment.
 
 ---
 
@@ -43,21 +51,19 @@ The arithmetic is stark. A junior lawyer billing at several hundred dollars per 
 
 The first wave of AI automation—roughly 2023 to 2030—primarily affects cognitive and administrative work. But a second wave is building: physical automation through humanoid robotics and advanced manufacturing systems. This wave is rear-weighted toward the latter half of the decade and into the 2030s, but its foundations are being laid now.
 
-**December 2025 represents a potential inflection point.** The robotics industry claims to have moved beyond pilot programmes—though demos and small pilots are not the same as economically decisive deployment. This is the moment when the industry's path will be decided; commercially meaningful at-scale deployment remains uncertain:
+**The Pivot Point:** The robotics industry is moving from pilot programmes to initial commercial viability. This transition marks the moment when the industry's path is decided; commercially meaningful at-scale deployment remains uncertain but probable.
 
-| Company | Platform | Status (Dec 2025) | Scale |
-|---------|----------|-------------------|-------|
-| Tesla | Optimus Gen 3 | Unveiled Oct 2025; autonomous learning demonstrated | 5,000 units planned by end 2025 |
-| Agility Robotics | Digit | Commercial deployment | Multi-year GXO contract; Amazon fulfillment |
-| Figure AI | Figure 02/03 | Paid pilots + BMW partnership | $1B funding round 2025 |
-| BYD | Humanoids | Production scaling | **1,500 in 2025; 20,000 target by 2026** |
-| Boston Dynamics | Atlas (electric) | Commercial piloting | Hyundai partnership |
+| Company | Status | Scale Target |
+|---------|--------|--------------|
+| Tesla | Autonomous learning demonstrated | Mass production (Millions) |
+| Agility Robotics | Commercial deployment | Logistics/Warehouse focus |
+| Figure AI | Commercial pilots | Automotive partnership |
+| BYD | Production scaling | Industrial integration |
+| Boston Dynamics | Electric platform transition | R&D / Specialized utility |
 
-Tesla's October 2025 demonstration showed Optimus performing Kung Fu sequences, cooking, and household cleaning—all learned autonomously through observation rather than explicit programming. This represents a qualitative leap from programmed movements to generalised learning.
+Demonstrations have moved from programmed movements to generalised learning from observation. Industry analysts project the humanoid robotics market will reach substantial scale by 2035. By 2030, battery improvements should enable full-shift operation. The critical inflection point comes when humanoids cross from pilot programmes to large-scale deployment, likely first in automotive manufacturing, then in logistics and warehousing.
 
-Industry analysts project the humanoid robotics market will reach $6-180 billion by 2035 (the 30x variance in estimates reflects genuine uncertainty about adoption velocity). By 2030, battery improvements should enable six hours of continuous operation; full eight-hour shifts may require another decade. The critical inflection point comes around 2027-2028, when humanoids are expected to cross from pilot programmes to large-scale deployment, first in automotive manufacturing, then in logistics and warehousing.
-
-The implications compound the first wave's disruption. White-collar workers displaced in 2025-2030 cannot simply retrain for blue-collar work if those jobs are being automated in 2030-2035. The traditional escape valve—moving down the skill ladder when the top rungs are eliminated—closes just as it's needed most. Manual labour, service work, retail, hospitality—sectors that seemed safe from the first wave face their own displacement in the second.
+The implications compound the first wave's disruption. White-collar workers displaced in the first half of the decade cannot simply retrain for blue-collar work if those jobs are being automated in the second half.
 
 ---
 
@@ -65,36 +71,14 @@ The implications compound the first wave's disruption. White-collar workers disp
 
 *Derived from: [Energy & Data Centers](global/trends/energy-and-data-centers.md) | [Data Center Capacity](global/data/data-center-capacity.md)*
 
-If artificial intelligence is the transformative force of the coming decade, energy is its enabling substrate. Intelligence, in its artificial form, is electricity transformed through silicon. The nations that can provide abundant, reliable, affordable power for data centres will capture the productivity gains of the AI revolution. Those that cannot will import their intelligence at whatever price the market demands—and find themselves in a new form of colonial dependency.
+If artificial intelligence is the transformative force of the coming decade, energy is its enabling substrate. Intelligence, in its artificial form, is electricity transformed through silicon. The nations that can provide abundant, reliable, affordable power for data centres will capture the productivity gains of the AI revolution.
 
-Data centre capacity has become a critical resource for AI-era economic power—though the analogy to oil should not be overstated. Unlike petroleum, compute is partly fungible cross-border (firms can rent capacity in Virginia from London), and algorithmic efficiency improves roughly 10x every few years, meaning today's GW requirements may be tomorrow's overkill. In the [factor weighting framework](METHODOLOGY.md), data-centre capacity is one variable among six (25% weight), but it is the easiest to quantify, so it gets outsized rhetorical attention in what follows. The distribution of infrastructure nonetheless matters, and that distribution is already starkly unequal.
+Data centre capacity has become a critical resource for AI-era economic power. The United States maintains a dominant lead, possessing roughly half of the global installed capacity and hosting the most ambitious infrastructure projects.
 
-### Current Data Centre Capacity and Pipeline by Region (December 2025)
+**Mega-Projects:** The scale of investment has shifted from individual data centres to "Gigawatt-scale" campuses. Projects like the rumored "Stargate" and confirmed investments by hyperscalers represent capital commitments in the hundreds of billions of dollars, intended to bring tens of gigawatts of new capacity online. These are industrial infrastructure projects comparable to 20th-century electrification.
 
-| Country/Region | 2025 (GW) | 2030 Est. (GW) | Assessment |
-|----------------|-----------|----------------|------------|
-| United States | 53.7 | **132** | Dominant |
-| China | 31.9 | 50+ | Major Power (80% of new capacity idle) |
-| European Union | 11.9 | 41 | Trailing but tripling |
-| Asia-Pacific (ex-China) | 12.2 | 26.1 | 21% CAGR |
-| Japan + South Korea | 6.6 | 10-12 | Constrained |
-| Australia | 1.3-2.2 | 3.1-4.1 | Rising rapidly |
-| Canada | ~1.2 | 3-5 | Policy Dependent |
-| United Kingdom | ~1.0 | 2-3 | Inadequate |
-| Germany | ~0.8 | 1.5-2 | Energy Crisis |
+Europe, by contrast, trails significantly. Installed capacity is a fraction of American levels, and expansion is hamstrung by energy costs that are structurally higher than in the US or Asia.
 
-The numbers are stark. The United States possesses 53.7 gigawatts of installed capacity—forty-four percent of the global total—with projections now reaching **132 gigawatts by 2030**. Virginia alone hosts over 12 gigawatts and is expanding rapidly.
-
-**The Stargate Project** (announced January 2025) represents the largest AI infrastructure investment in history:
-- **Total commitment**: $500 billion over 4 years
-- **Initial funding**: $100 billion (SoftBank + OpenAI each $19B, Oracle + MGX each $7B)
-- **Current status**: Abilene, Texas flagship operational; 5 additional sites announced
-- **Target**: 10 GW of AI-dedicated capacity by end 2025
-- **Employment**: 100,000+ jobs projected
-
-These are not incremental additions; they represent the construction of industrial infrastructure on a scale not seen since the electrification of the early twentieth century. No other nation has announced anything comparable.
-
-Europe, by contrast, is falling behind. The entire European Union possesses 11.9 gigawatts of installed capacity—less than a quarter of American levels. Germany's Frankfurt hub is hamstrung by energy costs three to four times American levels. Dublin is at grid capacity and facing moratoriums on new connections. London lacks both cheap power and expansion land.
 
 ---
 
@@ -207,23 +191,23 @@ Against this backdrop, we can sketch the trajectories of specific nations throug
 
 ### The Winners
 
-**[United States](regions/north-america/united-states/README.md):** The dominant beneficiary of the AI transition. American firms created the foundational models; American capital finances their deployment; American energy powers the data centres; the dollar remains the global reserve currency because there is no alternative. With 53.7 gigawatts of installed capacity—44% of global total—and the $500 billion Stargate project adding another 10 gigawatts by 2025-end alone, the United States will generate and capture AI value at scales no competitor can match. The cultural wariness of middle America toward AI is economically irrelevant when the frontier firms that generate American wealth are AI-native. *Projected GDP growth: five to seven percent annually.*
+**[United States](regions/north-america/united-states/README.md):** The dominant beneficiary of the AI transition. American firms created the foundational models; American capital finances their deployment; American energy powers the data centres; the dollar remains the global reserve currency because there is no alternative. With 53.7 gigawatts of installed capacity—44% of global total—and the $500 billion Stargate project adding significant capacity, the United States will generate and capture AI value at scales no competitor can match. The cultural wariness of middle America toward AI is economically irrelevant when the frontier firms that generate American wealth are AI-native. *Growth outlook: high.*
 
-**[China](regions/asia-pacific/china/README.md):** Aggressive AI adoption regardless of social cost, backed by state capacity to suppress dissent and direct economic restructuring. Survey data shows 93% of Chinese employees use AI at work versus 17% of Americans who "embrace AI"—a cultural disposition toward technology adoption built from decades of visible technological benefit. With 31.9 gigawatts of capacity and state-directed investment of $138 billion announced in 2025 alone, China possesses the infrastructure to remain competitive. Demographic decline and the Taiwan risk cloud the trajectory, but the Party's willingness to absorb short-term pain for strategic advantage gives China options unavailable to democratic competitors. *Projected GDP growth: four to six percent annually.*
+**[China](regions/asia-pacific/china/README.md):** Aggressive AI adoption regardless of social cost, backed by state capacity to suppress dissent and direct economic restructuring. Survey data shows 93% of Chinese employees use AI at work versus 17% of Americans who "embrace AI"—a cultural disposition toward technology adoption built from decades of visible technological benefit. With substantial capacity and state‑directed investment, China possesses the infrastructure to remain competitive. Demographic decline and the Taiwan risk cloud the trajectory, but the Party's willingness to absorb short‑term pain for strategic advantage gives China options unavailable to democratic competitors. *Growth outlook: high (risk‑weighted).* 
 
 Also positioned as winners: [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) (converting oil wealth to AI infrastructure at $100 billion scale), [UAE](regions/middle-east/uae/README.md) (regional AI hub with governance credibility), [Poland](regions/europe/poland/README.md) (Europe's surprising success—less exposed to services automation, manufacturing growth, ideological independence), [Australia](regions/asia-pacific/australia/README.md) (critical minerals and energy advantaged, contingent on regulatory choices).
 
 ### The Restructured
 
-**[Canada](regions/north-america/canada/README.md):** A case study in state-capital fusion that defies simple categorisation. The federal state is being refitted into an investment platform whose primary function is removing risk from large projects so global and domestic institutional capital can own the resulting assets. The Building Canada Act and Major Projects Office have assembled C$116 billion in LNG terminals, SMRs, and mines; UAE investment protection agreements shield $50 billion in Gulf sovereign capital. Resources will be developed; the question is who captures the gains—and whether citizens interact with backbone infrastructure primarily as payers over decades. The services economy in Toronto and Vancouver faces the same AI displacement as anywhere; the resource economy may boom. *Projected GDP growth: two to four percent annually, with gains concentrated.*
+**[Canada](regions/north-america/canada/README.md):** A case study in state‑capital fusion that defies simple categorisation. The federal state is being refitted into an investment platform whose primary function is removing risk from large projects so global and domestic institutional capital can own the resulting assets. The Building Canada Act and Major Projects Office have assembled major pipelines in LNG, SMRs, and mines; UAE investment protection agreements shield Gulf sovereign capital. Resources will be developed; the question is who captures the gains—and whether citizens interact with backbone infrastructure primarily as payers over decades. The services economy in Toronto and Vancouver faces the same AI displacement as anywhere; the resource economy may boom. *Growth outlook: moderate (uneven/concentrated).* 
 
 Also restructuring: [Argentina](regions/south-america/argentina/README.md) (Milei reforms creating winners and losers within a transforming economy).
 
 ### The Survivors
 
-**[Japan](regions/asia-pacific/japan/README.md):** Will manage decline with characteristic dignity. Already the most automated major economy, Japan will neither lead nor collapse. Conservative AI adoption—only 46% citizen optimism, 19% workplace usage—means less disruption but also less growth. Demographic decline caps dynamism, but the absence of significant unassimilated populations means AI-driven unemployment will not compound into political crisis. Japan demonstrates that managed decline is viable: not catastrophic, not dynamic, but stable. *Projected GDP growth: one to two percent annually.*
+**[Japan](regions/asia-pacific/japan/README.md):** Will manage decline with characteristic dignity. Already the most automated major economy, Japan will neither lead nor collapse. Conservative AI adoption—only 46% citizen optimism, 19% workplace usage—means less disruption but also less growth. Demographic decline caps dynamism, but the absence of significant unassimilated populations means AI‑driven unemployment will not compound into political crisis. Japan demonstrates that managed decline is viable: not catastrophic, not dynamic, but stable. *Growth outlook: moderate.*
 
-**[Singapore](regions/asia-pacific/singapore/README.md):** Will adapt because Singapore always adapts—but the landing zone is smaller than it once appeared. Financial services face full-force AI automation, and the city-state's value proposition as neutral intermediary becomes less valuable in a world of AI-enabled decentralisation. DBS has deployed 800 AI models generating S$1 billion in impact; the government committed S$27 billion to AI strategy. Singapore's technocratic elite understands the threat. Infrastructure constraints (1 GW at capacity, no expansion room) mean Singapore must compete on governance quality, not compute scale. *Projected GDP growth: two to four percent annually.*
+**[Singapore](regions/asia-pacific/singapore/README.md):** Will adapt because Singapore always adapts—but the landing zone is smaller than it once appeared. Financial services face full‑force AI automation, and the city‑state's value proposition as neutral intermediary becomes less valuable in a world of AI‑enabled decentralisation. DBS has deployed 800 AI models generating S$1 billion in impact; the government committed S$27 billion to AI strategy. Singapore's technocratic elite understands the threat. Infrastructure constraints (grid at capacity, limited expansion room) mean Singapore must compete on governance quality, not compute scale. *Growth outlook: moderate.*
 
 **[Brazil](regions/south-america/brazil/README.md):** Commodity advantages and continental scale provide buffer against AI disruption. Neither positioned to capture major gains nor structured to fracture—the classic survivor profile of resource wealth, institutional resilience, and limited services exposure enabling muddling through.
 
@@ -231,9 +215,9 @@ Also surviving: [South Korea](regions/asia-pacific/south-korea/README.md), [Neth
 
 ### The Declining
 
-**[Germany](regions/europe/germany/README.md):** In its third consecutive year of recession—the longest since reunification—with the BDI describing "the greatest crisis in post-war history." Electricity costs three to four times US levels make competitive data centre expansion impossible. The manufacturing base is haemorrhaging from energy costs and Chinese EV competition; software culture is absent; the political class remains paralysed by ideological commitment to the Energiewende. Political realignment is coming—the AfD will eventually govern or force fundamental coalition shifts—but will inherit structural decline with no obvious recovery path. This is not cyclical recession but structural repositioning downward. *Projected GDP contraction: two to four percent annually.*
+**[Germany](regions/europe/germany/README.md):** In its third consecutive year of recession—the longest since reunification—with the BDI describing "the greatest crisis in post‑war history." Electricity costs three to four times US levels make competitive data centre expansion difficult. The manufacturing base is pressured by energy costs and Chinese EV competition; software culture is limited; the political class remains constrained by energy transition commitments. Political realignment is coming—the AfD will eventually govern or force fundamental coalition shifts—but will inherit structural decline with no obvious recovery path. This is not cyclical recession but structural repositioning downward. *Growth outlook: low/negative.*
 
-**[Switzerland](regions/europe/switzerland/README.md):** Economy heavily weighted toward financial services, private banking, and high-end professional services—precisely the sectors most vulnerable to AI automation and alternative finance disruption. The private banking model is dying: secrecy advantages eroded, relationship managers replaced by AI, wealth moving to crypto custody. Pharmaceutical and precision manufacturing provide buffer, but insufficient to offset financial services decline. *Projected GDP contraction: one to two percent annually.*
+**[Switzerland](regions/europe/switzerland/README.md):** Economy heavily weighted toward financial services, private banking, and high‑end professional services—precisely the sectors most vulnerable to AI automation and alternative finance disruption. The private banking model is eroding: secrecy advantages gone, relationship managers replaced by AI, wealth moving to crypto custody. Pharmaceutical and precision manufacturing provide buffer but may not fully offset. *Growth outlook: low/negative.*
 
 **[Russia](regions/europe/russia/README.md):** Sanctions isolation, brain drain, and technology cutoff combine with demographic collapse. Energy revenues sustain the state but cannot power modernisation. Structural decline without the social fracturing visible in Western Europe—repressive capacity maintains order as the economy contracts.
 
@@ -243,19 +227,19 @@ Also declining: [Italy](regions/europe/italy/README.md), [Philippines](regions/a
 
 These nations face genuinely uncertain futures—high variance outcomes where the determining factors cannot be confidently forecast.
 
-**[Ireland](regions/europe/ireland/README.md):** The pessimistic thesis holds that Ireland combines maximum economic exposure—American tech headquarters attracted by tax arbitrage, financial services back-office operations—with Dublin's data centre grid at capacity. The optimistic counter: Ireland has been remarkably stable since 1998, the economy is more diversified than recognised (1,800+ multinationals across pharma, medtech, technology), and small nations pivot faster than large ones. Ireland has reinvented itself repeatedly since the 1980s. *Projected GDP: -1% to +2% annually, with significant variance.*
+**[Ireland](regions/europe/ireland/README.md):** The pessimistic thesis holds that Ireland combines maximum economic exposure—American tech headquarters attracted by tax arbitrage, financial services back‑office operations—with Dublin's data centre grid at capacity. The optimistic counter: Ireland has been remarkably stable since 1998, the economy is more diversified than recognised (1,800+ multinationals across pharma, medtech, technology), and small nations pivot faster than large ones. Ireland has reinvented itself repeatedly since the 1980s. *Growth outlook: uncertain (high variance).*
 
 Also contested: [Vietnam](regions/asia-pacific/vietnam/README.md) (growth inflated by Chinese transshipment; 20% + 40% tariffs bite), [India](regions/asia-pacific/india/README.md) (IT services vulnerable to AI; large population becomes liability when labour is what AI replaces), [Mexico](regions/north-america/mexico/README.md) (nearshoring potential vs tariff uncertainty and cartel violence), [Taiwan](regions/asia-pacific/taiwan/README.md) (TSMC makes 92% of advanced chips; China risk dominates all other factors), [Malaysia](regions/asia-pacific/malaysia/README.md) (semiconductor positioning vs structural challenges), [Turkey](regions/europe/turkey/README.md) (geopolitical positioning between blocs creates opportunity and risk), [Thailand](regions/asia-pacific/thailand/README.md) (digital/EV strength offset by structural weaknesses and high household debt).
 
 ### The Fracturing
 
-**[United Kingdom](regions/europe/united-kingdom/README.md):** The central case for Western fracture. Every vulnerability compounds: services economy devastated by automation; financial services disrupted by AI and alternative finance; approximately 1 gigawatt of data centre capacity but no energy to expand; no manufacturing base; no technology companies capturing AI gains; housing crisis preventing family formation; large unassimilated populations; legitimacy haemorrhaging for a generation. The economic cushion that purchased acquiescence evaporates as the City's tax revenue shrinks. Something like the Troubles—wider in scope, less structured in organisation—becomes probable. Scotland may exit. *Projected GDP contraction: three to six percent annually.*
+**[United Kingdom](regions/europe/united-kingdom/README.md):** The central case for Western fracture. Every vulnerability compounds: services economy exposed to automation; financial services disrupted by AI and alternative finance; limited ability to expand compute infrastructure; no manufacturing base; few technology firms capturing AI gains; housing crisis; legitimacy haemorrhaging for a generation. The economic cushion that purchased acquiescence shrinks with City tax revenues. Something like the Troubles—wider in scope, less structured in organisation—becomes plausible. Scotland may exit. *Growth outlook: negative with instability risk.*
 
-**[France](regions/europe/france/README.md):** Combines economic decline with serious civil unrest risk. Nuclear energy could power AI infrastructure, but the political system cannot deploy that advantage—four prime ministers in 2025 alone. The public sector employs a quarter of the workforce in functions amenable to automation; fiscal crisis collides with union power. The banlieues become ungovernable. A Le Pen-type figure eventually takes power but inherits fiscal ruin and social chaos. France experiences sustained low-level violence and effective loss of state sovereignty over portions of national territory. *Projected GDP contraction: two to four percent annually.*
+**[France](regions/europe/france/README.md):** Combines economic decline with serious civil unrest risk. Nuclear energy could power AI infrastructure, but the political system struggles to deploy that advantage. Large public‑sector exposure to automation; fiscal stress collides with union power. The banlieues risk becoming ungovernable. A Le Pen‑type figure may take power but inherit fiscal strain and social unrest. *Growth outlook: negative with instability risk.*
 
 ### The Collapsing
 
-**[Iran](regions/middle-east/iran/README.md):** Currency at 1,000,000 rial to the dollar; inflation exceeding 43%; $34 billion in capital flight over 18 months; daily blackouts of 3-4 hours nationwide. Half of industry has halted due to power failures. Maximum pressure sanctions resumed February 2025 with bipartisan US support. In 2000, Iran's economy exceeded UAE, Turkey, and Saudi Arabia; today all three are 3x larger. This is structural state failure, not cyclical pressure. While regional competitors invest $100 billion in AI, Iran cannot keep the lights on. *Projected GDP contraction: two to five percent annually.*
+**[Iran](regions/middle-east/iran/README.md):** Currency collapse; high inflation; capital flight; frequent blackouts. Half of industry has halted due to power failures. Sanctions have resumed with bipartisan US support. This is structural state failure, not cyclical pressure. While regional competitors invest in AI, Iran cannot keep the lights on. *Growth outlook: severe contraction.*
 
 Also collapsing: [Venezuela](regions/south-america/venezuela/README.md) (state failure already advanced).
 
@@ -269,7 +253,7 @@ By 2036, the map of power and prosperity will look nothing like 2020. The United
 
 Asia will have demonstrated that cultural disposition toward technology adoption matters. China, India, and Southeast Asian nations that embraced AI will have captured productivity gains while Europe debated regulations. The humanoid robotics wave, arriving in force after 2030, will have begun its transformation of physical labour—initially in automotive and logistics, eventually spreading to service sectors.
 
-Europe will have demonstrated that regulatory frameworks cannot protect against technologies they cannot contain. The EU AI Act and its human oversight requirements will have imposed costs without preventing AI deployment—they will simply have ensured that AI was deployed by non-European competitors against European firms. The 'human in the loop' will have become the human holding the bag. Some nations—Poland, perhaps the Netherlands—will have adapted despite the regulatory environment. Others—Germany, France, the United Kingdom—will have discovered that civilisational decline is not a metaphor.
+Europe will have demonstrated that regulatory frameworks cannot fully protect against technologies they cannot contain. The EU AI Act and its human oversight requirements will have imposed costs without preventing AI deployment—often ensuring AI was deployed by non‑European competitors against European firms. The 'human in the loop' risks becoming the human holding the bag. Some nations—Poland, perhaps the Netherlands—will have adapted despite the regulatory environment. Others—Germany, France, the United Kingdom—may experience sustained decline absent adaptation.
 
 Canada will have tested a different model: resource development enabled by state de-risking, owned by institutional capital, operated for decades under treaty-protected concessions. Whether this produces national prosperity broadly shared or a new form of rentier dependency will depend on choices made in the next five years. The infrastructure will be built; the question is whose balance sheet it sits on.
 

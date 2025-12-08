@@ -1,7 +1,7 @@
----
 title: "Russia: 2026-2036"
+type: synthesis
 outlook: Declining
-gdp_projection: "-1% to +1% annually"
+growth_outlook: Low/Negative
 confidence: Moderate
 category: declining
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Russia: 2026-2036
 
 > **Outlook**: Declining
-> **GDP Projection**: -1 to +1% annually (stagnation/stagflation)
+> **Growth Outlook**: Low/Negative (stagnation/stagflation)
 > **Risk**: Prolonged conflict; deeper isolation
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

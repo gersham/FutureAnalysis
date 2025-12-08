@@ -1,7 +1,7 @@
----
 title: "Netherlands: 2026-2036"
+type: synthesis
 outlook: Survivor
-gdp_projection: "+1.5% to +3% annually"
+growth_outlook: Moderate
 confidence: Moderate
 category: survivor
 region: europe
@@ -12,7 +12,7 @@ last_updated: 2025-12-08
 # Netherlands: 2026-2036
 
 > **Outlook**: Survivor
-> **GDP Projection**: +1.5 to +3% annually
+> **Growth Outlook**: Moderate
 > **Advantage**: ASML; logistics hub; high AI adoption; small adaptable economy
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*

@@ -47,7 +47,7 @@ Personal edification and planning. Actionable predictions organized by region an
 Each README.md is the **substantive essay synthesis** for that level:
 - Links to underlying data/, trends/, analysis/ files
 - Written in analytical essay format
-- Frontmatter with title, outlook, GDP projection, tags, etc.
+- Frontmatter with title, type: synthesis, region/country, outlook, growth_outlook (qualitative), confidence, tags, last_updated
 
 ## Countries Covered (38)
 

@@ -3,7 +3,7 @@ title: "Singapore Outlook: 2026-2036"
 type: analysis
 country: singapore
 outlook: Survivor
-gdp_projection: "+2% to +4% annually"
+growth_outlook: Moderate
 confidence: Moderate
 last_updated: 2025-12-07
 ---
@@ -11,7 +11,7 @@ last_updated: 2025-12-07
 # Singapore Outlook: 2026-2036
 
 > **Classification**: Survivor
-> **GDP Projection**: +2 to +4% annually
+> **Growth Outlook**: Moderate
 > **Confidence**: Moderate
 
 ## Core Assessment

@@ -1,7 +1,18 @@
+---
+title: "France: 2026-2036"
+type: synthesis
+region: europe
+outlook: Fracturing
+growth_outlook: Negative with instability risk
+confidence: Moderate
+tags: [nuclear, public-sector, social-fracture]
+last_updated: 2025-12-08
+---
+
 # France: 2026-2036
 
 > **Outlook**: Fracturing
-> **GDP Projection**: -2 to -4% annually
+> **Growth Outlook**: Negative with instability risk
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
 

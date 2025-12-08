@@ -1,7 +1,7 @@
 # France Outlook: 2026-2036
 
 > **Classification**: Fracturing
-> **GDP Projection**: -2 to -4% annually
+> **Growth Outlook**: Negative with instability risk
 > **Confidence**: Moderate-High
 
 ## Core Assessment
