@@ -1,24 +1,23 @@
----
-title: "Claude Agent Instructions"
-type: agent-instructions
-last_updated: 2025-12-08
----
-
 # Claude Agent Instructions
 
-This repository contains structured predictions and analysis for the decade 2026-2036, derived from "The Fracturing" essay. The content is organized to support both human reading and machine-assisted analysis.
+This repository contains structured predictions and analysis for the decade 2026-2036. The content is organized to support both human reading and machine-assisted analysis.
 
 ## Purpose
 
 Personal edification and planning. Actionable predictions organized by region and country with inherited context flowing from global → regional → country levels. Each README.md is an **essay-style synthesis** of its underlying data, trends, and analysis.
 
+## Epistemic Status
+
+**This is a scenario exercise, not a forecast.** See [METHODOLOGY.md](METHODOLOGY.md) for explicit assumptions, displacement model, factor weights, and what would change our mind. The confident prose is rhetorical—useful for planning, not a claim to know the future.
+
 ## Repository Structure
 
 ```
 /README.md                          # Root synthesis ("The Fracturing" as essay)
-/METHODOLOGY.md                     # Analytical framework and assumptions
+/METHODOLOGY.md                     # Analytical framework, assumptions, model
 /CHANGELOG.md                       # Update tracking
 /CLAUDE.md                          # This file - agent instructions
+/AGENTS.md                          # Points agents to this file
 /global/
     README.md                       # Global synthesis
     data/                           # Known facts today
@@ -40,33 +39,15 @@ Personal edification and planning. Actionable predictions organized by region an
 | Layer | Contains | Example Files |
 |-------|----------|---------------|
 | **data/** | Known facts, current metrics, statistics | `data-center-capacity.md`, `economic-structure.md` |
-| **trends/** | Observable patterns, trajectories in motion | `manufacturing-decline.md`, `political-realignment.md` |
+| **trends/** | Observable patterns, trajectories in motion | `call-center-collapse.md`, `software-development-automation.md` |
 | **analysis/** | Suppositions, predictions, implications | `outlook.md`, `actionable-implications.md` |
 
 ### README.md Role
 
 Each README.md is the **substantive essay synthesis** for that level:
 - Links to underlying data/, trends/, analysis/ files
-- Written in analytical essay format matching source material tone
+- Written in analytical essay format
 - Frontmatter with title, outlook, GDP projection, tags, etc.
-
-## Frontmatter Standard
-
-All markdown files include YAML frontmatter:
-
-```yaml
----
-title: "Document Title"
-type: data | trend | analysis | synthesis
-country: country-name (if applicable)
-region: region-name (if applicable)
-outlook: Winner | Restructured | Survivor | Declining | Fracturing | Contested
-gdp_projection: "+X% to +Y% annually" or "-X% to -Y% annually"
-confidence: High | Moderate | Low
-tags: [relevant, tags, here]
-last_updated: YYYY-MM-DD
----
-```
 
 ## Countries Covered (38)
 
@@ -123,6 +104,14 @@ last_updated: YYYY-MM-DD
 | **Contested** | Genuinely uncertain; high variance | Ireland, India, Vietnam, Mexico, Taiwan, Malaysia, Turkey, Thailand |
 | **Collapsing** | State failure or near-failure | Iran, Venezuela |
 
+## Key Documents
+
+| Document | Purpose |
+|----------|---------|
+| [README.md](README.md) | Main thesis essay |
+| [METHODOLOGY.md](METHODOLOGY.md) | Explicit assumptions, displacement model, factor weights, scenario structure |
+| [UK Example](regions/europe/united-kingdom/README.md) | Fully worked example showing methodology applied to a specific country |
+
 ## Prediction Format
 
 ### Timeframes
@@ -141,8 +130,8 @@ last_updated: YYYY-MM-DD
 ## Content Guidelines
 
 ### Tone
-- Analytical, measured, matching source essay's style
-- No sensationalism; present probabilities and reasoning
+- Analytical, measured
+- Rhetorical confidence is for clarity, not epistemic certainty
 - Direct and clear
 
 ### Essay Format
@@ -167,29 +156,23 @@ last_updated: YYYY-MM-DD
 
 **Changes must propagate upward when relevant.** After modifying country-level content:
 
-1. **Check regional README**: Does the change affect regional dynamics or require mention in the regional synthesis?
-2. **Check global README**: Does the change represent a pattern that applies beyond this region, or alter the global thesis?
+1. **Check regional README**: Does the change affect regional dynamics?
+2. **Check global README**: Does the change alter the global thesis or reveal a cross-regional pattern?
 
-Examples:
-- A new country trend file (e.g., `trends/defence-dependency.md`) → update regional README to reference it
-- A regional dynamic with global implications (e.g., a structural trap pattern appearing in multiple regions) → consider adding to global trends
-- A country outlook change (e.g., "Declining" → "Fracturing") → update regional README table and potentially global summary
+**Default**: Most country/regional changes do NOT require global updates.
 
-**Default**: Most country/regional changes do NOT require global updates. The global README captures macro-level dynamics; regional/country content elaborates. Only bubble up when the change alters the global thesis or reveals a cross-regional pattern.
+### Data Freshness
+
+Be skeptical of AI-related data more than 12 months old. The field moves fast; stale statistics may mislead.
 
 ## Key Metrics
 
 | Metric | Significance |
 |--------|--------------|
-| Data Centre Capacity (GW) | Proxy for AI economic power |
-| GDP Projections | Annual growth/contraction rates |
-| AI Adoption Rates | Organisational and citizen-level |
-| Financial Services Exposure | Vulnerability to automation |
-| Energy Costs (relative) | Infrastructure competitiveness |
-
-## Source Material
-
-The root README.md contains the full synthesis derived from "The Fracturing" (2025). The original essay has been decomposed into the data/, trends/, and analysis/ structure throughout the repository.
+| Data Centre Capacity (GW) | One factor among six (25% weight); see methodology |
+| GDP Projections | Illustrative ranges, not econometric forecasts |
+| Sector Displacement Rates | Vary dramatically; see methodology sector table |
+| Energy Costs (relative) | Binding constraint for some archetypes |
 
 ---
 
