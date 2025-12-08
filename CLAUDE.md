@@ -68,7 +68,7 @@ last_updated: YYYY-MM-DD
 ---
 ```
 
-## Countries Covered (31)
+## Countries Covered (38)
 
 | Region | Countries | Outlook |
 |--------|-----------|---------|
@@ -81,6 +81,7 @@ last_updated: YYYY-MM-DD
 | | [Poland](regions/europe/poland/README.md) | Winner |
 | | [Ireland](regions/europe/ireland/README.md) | Contested |
 | | [Switzerland](regions/europe/switzerland/README.md) | Declining |
+| | [Netherlands](regions/europe/netherlands/README.md) | Survivor |
 | | [Russia](regions/europe/russia/README.md) | Declining |
 | | [Italy](regions/europe/italy/README.md) | Declining |
 | | [Spain](regions/europe/spain/README.md) | Survivor |
@@ -89,17 +90,23 @@ last_updated: YYYY-MM-DD
 | **Asia-Pacific** | [China](regions/asia-pacific/china/README.md) | Winner |
 | | [India](regions/asia-pacific/india/README.md) | Contested |
 | | [Japan](regions/asia-pacific/japan/README.md) | Survivor |
+| | [Taiwan](regions/asia-pacific/taiwan/README.md) | Contested |
 | | [Singapore](regions/asia-pacific/singapore/README.md) | Survivor |
 | | [Australia](regions/asia-pacific/australia/README.md) | Winner (Contingent) |
 | | [South Korea](regions/asia-pacific/south-korea/README.md) | Survivor |
 | | [Indonesia](regions/asia-pacific/indonesia/README.md) | Winner |
 | | [Vietnam](regions/asia-pacific/vietnam/README.md) | Winner |
-| | [Malaysia](regions/asia-pacific/malaysia/README.md) | Winner |
+| | [Malaysia](regions/asia-pacific/malaysia/README.md) | Contested |
+| | [Philippines](regions/asia-pacific/philippines/README.md) | Declining |
 | | [Thailand](regions/asia-pacific/thailand/README.md) | Contested |
+| | [Pakistan](regions/asia-pacific/pakistan/README.md) | Declining |
 | **Middle East** | [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) | Winner |
 | | [UAE](regions/middle-east/uae/README.md) | Winner |
 | | [Israel](regions/middle-east/israel/README.md) | Survivor (War-contingent) |
+| | [Egypt](regions/middle-east/egypt/README.md) | Declining |
 | | [Iran](regions/middle-east/iran/README.md) | Collapsing |
+| **Africa** | [Nigeria](regions/africa/nigeria/README.md) | Declining |
+| | [South Africa](regions/africa/south-africa/README.md) | Declining |
 | **South America** | [Brazil](regions/south-america/brazil/README.md) | Survivor |
 | | [Argentina](regions/south-america/argentina/README.md) | Restructuring |
 | | [Venezuela](regions/south-america/venezuela/README.md) | Collapsing |
@@ -108,12 +115,12 @@ last_updated: YYYY-MM-DD
 
 | Category | Definition | Example |
 |----------|------------|---------|
-| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Vietnam, Indonesia, Malaysia |
+| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Vietnam, Indonesia |
 | **Restructured/ing** | Gains but concentrated/unequal | Canada, Argentina |
-| **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Brazil, Spain, Portugal, Israel |
-| **Declining** | Structural contraction but social stability | Germany, Switzerland, Russia, Italy |
+| **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Netherlands, Brazil, Spain, Portugal, Israel |
+| **Declining** | Structural contraction but social stability | Germany, Switzerland, Russia, Italy, Philippines, Nigeria, Egypt, South Africa, Pakistan |
 | **Fracturing** | Economic decline + social instability | UK, France |
-| **Contested** | Genuinely uncertain; high variance | Ireland, India, Mexico, Turkey, Thailand |
+| **Contested** | Genuinely uncertain; high variance | Ireland, India, Mexico, Taiwan, Malaysia, Turkey, Thailand |
 | **Collapsing** | State failure or near-failure | Iran, Venezuela |
 
 ## Prediction Format
