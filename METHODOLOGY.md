@@ -136,6 +136,22 @@ Countries are classified into **central case scenarios** with explicit upside/do
 | **Declining** | Structural contraction; -1 to -3% | Adaptation surprises; 0-1% | Acceleration; -3 to -5% |
 | **Fracturing** | Decline + instability; -2 to -5% | Institutional resilience; -1 to -2% | Serious unrest; -4 to -7% |
 
+### Outcome Schema by Category (Heuristic)
+
+To keep the prose honest, each category maps to a rough band of macro outcomes in this 5%‑displacement scenario. These are **scenario heuristics**, not forecasts.
+
+| Category | GDP Band (10y avg) | Unemployment Band | Typical Legitimacy Trajectory |
+|----------|--------------------|-------------------|-------------------------------|
+| **Winner** | ~3–6% annual growth | Generally low to moderate (3–8%) | Institutions broadly trusted; distributional conflict but system stable |
+| **Restructured** | ~2–4% growth, gains concentrated | Moderate (5–10%); pockets of high underemployment | Legitimacy contested around who captures gains; system holds |
+| **Survivor** | ~0–3% growth; “muddle through” | Moderate to high (6–12%) but stable | Legitimacy erodes slowly; discontent without systemic break |
+| **Contested** | ~‑1 to +4% (high variance) | Variable; can swing quickly | Legitimacy path genuinely uncertain; reform or breakdown both plausible |
+| **Declining** | ~‑1 to +2% (trend down) | High (10–20%+) or disguised via informality | Trust in institutions falls; resignation > revolt, but unrest risk elevated |
+| **Fracturing** | ~‑2 to ‑5% with shocks | High, regional or youth unemployment extreme | Legitimacy crisis; episodic serious unrest, secessionist or extra‑system movements |
+| **Collapsing** | ~‑3 to ‑7% or unmeasurable | Labour metrics cease to be meaningful | State authority fails or fragments; parallel power centres emerge |
+
+Country pages should be read as placing each nation somewhere inside these bands for the 2026‑2036 period, not as precise point estimates.
+
 ### Growth Outlook Interpretation
 
 Country profiles use **qualitative growth outlooks** (High / Moderate / Low / Negative / Uneven) rather than numeric GDP projections. These reflect relative positioning within the scenario’s factor model and sector exposure rather than econometric forecasts.

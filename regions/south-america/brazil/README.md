@@ -42,26 +42,53 @@ The adoption numbers are striking. Nine million Brazilian companies use AI syste
 
 Yet Brazil's GDP growth remains stuck at 2.1%—chronic underperformance relative to potential. The services sector maintains momentum, particularly information and communications, but broader economic acceleration remains elusive. The gap between AI adoption (high) and GDP growth (moderate) suggests structural factors limit translation of technology adoption into national productivity gains.
 
-**Structural constraints**:
-- Bureaucratic complexity: Brazil's regulatory environment remains among the world's most challenging
-- Tax burden: Total tax burden exceeds 33% of GDP
-- Infrastructure gaps: Logistics costs remain high
-- Education quality: Workforce upskilling lags adoption rates
-- Political uncertainty: Policy continuity remains unreliable
+---
 
-**Advantages**:
-- Scale: 215 million people provide massive domestic market
-- Digital adoption: High smartphone penetration, strong fintech sector
-- Agricultural productivity: AI-driven agriculture offers competitive advantage
-- Demographic profile: Younger population than China or developed economies
+## Applying the Displacement Model
 
-**Near term (2026-2028)**: AI adoption continues accelerating. Fintech and agritech lead sectoral transformation. GDP growth remains in 2-3% range—improvement but not breakthrough.
+### Step 1: Sector Exposure
 
-**Mid term (2029-2032)**: Generative AI market reaches maturity ($5+ billion). Agricultural sector AI adoption creates export competitiveness. Services sector productivity gains become measurable.
+Brazil’s exposure is more balanced than in services‑centric economies:
 
-**Late term (2033-2036)**: Outcome depends on reform trajectory. Reform scenario: 3-4% sustained growth as AI amplifies structural improvements. Status quo: 2% growth continues as structural constraints limit AI translation to productivity.
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| Commodities & agribusiness | Core export base | Lower than baseline; AI augments productivity | Low (for jobs), positive for output |
+| Financial services & fintech | Dynamic but smaller than global hubs | Around/below baseline | Moderate |
+| Public sector | Large and sticky | Below baseline | Low‑Moderate |
+| Urban services & retail | Significant employer | Around baseline | Moderate |
+| IT & digital services | Growing but not dominant | Above baseline | Moderate‑High in specific niches |
 
-**Classification rationale**: "Survivor" rather than "Winner" because Brazil will not collapse and will capture some AI gains, but structural constraints prevent the transformation that AI-advantaged nations will achieve. Brazil survives well but does not lead.
+Relative to the 5% baseline, Brazil is less exposed to catastrophic white‑collar displacement than the UK/Philippines, but more exposed than resource‑only economies; the main risk is squandering AI‑driven productivity gains rather than mass unemployment from a single collapsing sector.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), Brazil is a large emerging market:
+
+| Factor | Brazil’s Position | Interpretation |
+|--------|------------------|----------------|
+| Compute access | Limited but improvable | Some hyperscaler presence; constrained by grid and regulatory friction |
+| Energy cost/reliability | Mixed | Abundant hydro and gas; transmission and regulatory issues |
+| Regulatory environment | Heavy | Complex tax/regulatory burden slows investment and adaptation |
+| Capital markets | Moderate | Domestic capital exists but is risk‑averse; political risk premia persist |
+| Talent base | Uneven | Strong tech/fintech pockets; education quality uneven nationally |
+| Cultural adoption | High | Rapid AI and fintech adoption; digital public use widespread |
+
+**Interpretation**: Brazil has many ingredients of a winner (scale, resources, adoption) but combines them with structural frictions and governance problems that cap realised growth.
+
+### Step 3: Binding Constraints
+
+Brazil’s binding constraints in this scenario:
+1. **Bureaucratic and tax complexity**: Raises the cost of formal‑sector activity and slows scaling.
+2. **Infrastructure gaps**: Logistics and grid weaknesses limit translation of AI/productivity gains into national growth.
+3. **Institutional volatility**: Policy uncertainty and corruption raise required returns and discourage long‑term bets.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure and the factor bundle:
+- AI amplifies productivity in agribusiness and selected services/fintech, but reforms lag technology.
+- The formal sector benefits; the informal sector and poorer regions see less of the upside.
+
+→ Under the 5%‑per‑year displacement scenario, Brazil fits the **Survivor** category in the [outcome schema](../../../METHODOLOGY.md): moderate growth, persistent inequality, and a legitimacy trajectory of chronic frustration and underperformance rather than crisis or collapse. Brazil survives and muddles through, but does not become an AI‑era winner.
 
 ---
 

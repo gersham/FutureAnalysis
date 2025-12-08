@@ -93,6 +93,53 @@ India's challenges extend beyond AI disruption:
 
 ---
 
+## Applying the Displacement Model
+
+### Step 1: Sector Exposure
+
+India’s growth model concentrates exposure in IT and business services:
+
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| IT services / BPO / GCCs | Core export and middle-class employer | Well above baseline | **Very High** |
+| Public sector & regulated professions | Large but slower to automate | Around/below baseline | Moderate |
+| Manufacturing | Underdeveloped relative to scale | Later robotics wave; limited near‑term | Low‑Moderate |
+| Agriculture & informal services | Dominant employer; low productivity | Mostly bypassed by AI | Low (for AI), high (for social risk) |
+
+Relative to the 5% scenario baseline, India is unusually exposed at the high‑skill services end and unusually underdeveloped in the sectors that could absorb displaced workers.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), India is an "emerging market":
+
+| Factor | India’s Position | Interpretation |
+|--------|------------------|----------------|
+| Compute access | Improving but constrained | Some hyperscaler presence; grid and policy limit rapid scale‑up |
+| Energy cost/reliability | Mixed | Cheap coal power but unreliable infrastructure and losses |
+| Regulatory environment | Complex | Heavy bureaucracy; reform efforts; uneven enforcement |
+| Capital markets | Shallow relative to needs | Limited domestic risk capital; relies on FDI and external funding |
+| Talent base | Large but uneven | Many STEM graduates; quality and employability vary widely |
+| Cultural adoption | High | Strong enthusiasm for technology and digital public infrastructure |
+
+**Interpretation**: India combines high cultural/firm‑level adoption and a large potential talent pool with weak state capacity, shallow capital markets, and infrastructure constraints. This widens the range between upside and downside paths.
+
+### Step 3: Binding Constraints
+
+India’s binding constraints in this scenario:
+1. **Over‑reliance on IT services**: A single, highly automatable export engine anchors urban prosperity.
+2. **State capacity**: Limited ability to deliver large‑scale retraining, safety nets, or industrial policy at speed.
+3. **Informality**: 80%+ of workers in the informal sector blunts productivity gains and complicates support.
+4. **Demographics**: Massive cohort of young workers without obvious high‑productivity destinations.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure and the factor bundle:
+- A large share of India’s formal, high‑productivity employment base sits directly in AI’s line of fire.
+- The state’s ability to coordinate a manufacturing pivot or social response is limited.
+- Cultural and firm‑level adoption provide real upside if governance and capital constraints are overcome.
+
+→ Under the 5%‑per‑year displacement scenario, India fits the **Contested** category in the [outcome schema](../../../METHODOLOGY.md): growth outcomes ranging from robust (5–6%) to stressed (3% or lower), unemployment and underemployment that can swing quickly, and a legitimacy trajectory that could stabilise through adaptation or tilt toward serious unrest depending on execution.
+
 ## The Optimistic Case (Weakened)
 
 The bull case for India rests on:

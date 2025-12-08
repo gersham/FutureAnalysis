@@ -53,6 +53,53 @@ For individuals navigating this transition, the [implications](analysis/actionab
 
 ---
 
+## Applying the Displacement Model
+
+### Step 1: Sector Exposure
+
+Canada’s exposure is split between vulnerable services hubs and resource‑intensive regions:
+
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| Financial & professional services (Toronto, Vancouver) | Major urban employer | Above baseline | **High (by city)** |
+| Public sector & healthcare | Large share of employment | Below baseline | Low‑Moderate |
+| Resources & energy (oil, gas, mining, hydro) | Core export base | Lower than baseline; AI augments productivity | Low (for jobs), positive for output |
+| Manufacturing | Smaller than past; regionally concentrated | Around baseline | Moderate |
+
+Relative to the 5% baseline, Canada is highly exposed in a few metros but cushioned by a large resource and public‑sector base that faces lower direct AI displacement.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), Canada is a "mid‑sized developed" economy with resource‑rich features:
+
+| Factor | Canada’s Position | Interpretation |
+|--------|-------------------|----------------|
+| Compute access | Improving | Domestic data centres plus privileged access to US capacity |
+| Energy cost/reliability | Strong | Abundant hydro and gas; regional transmission limits |
+| Regulatory environment | Mixed | Heavy process and consultation; new fast‑track tools for “national interest” projects |
+| Capital markets | Strong | Deep pension and institutional pools; state‑capital fusion model |
+| Talent base | Moderate | Strong in pockets (tech, engineering); brain drain risk to US |
+| Cultural adoption | Moderate | High digital penetration; more cautious than US on aggressive disruption |
+
+**Interpretation**: Canada is well placed on energy, capital, and US adjacency, but carries regulatory friction and concentrated services exposure that shape who captures AI‑era gains.
+
+### Step 3: Binding Constraints
+
+Canada’s binding constraints in this scenario:
+1. **Regulatory and political complexity**: Even with fast‑track tools, project execution depends on fragile political bargains.
+2. **Concentrated services hubs**: Toronto/Vancouver carry disproportionate AI displacement risk.
+3. **Distributional politics**: State‑capital fusion can entrench perceptions that gains accrue to institutions, not households.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure and the factor bundle:
+- Resource and infrastructure build‑out proceed, supported by US spillover and institutional capital.
+- Services hubs experience compression; public sector cushions some of the impact.
+
+→ Under the 5%‑per‑year displacement scenario, Canada fits the **Restructured** category in the [outcome schema](../../../METHODOLOGY.md): moderate aggregate growth, with gains concentrated in resource/infrastructure owners and regions, and a legitimacy trajectory defined by distributional tension rather than systemic collapse.
+
+---
+
 *Last updated: 2025-12-08*
 
 [← North America](../README.md) | [← Global](../../../global/README.md) | [← Home](../../../README.md)

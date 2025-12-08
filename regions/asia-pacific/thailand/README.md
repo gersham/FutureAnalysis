@@ -61,6 +61,53 @@ EV manufacturing is Thailand's industrial bet. The revised EV3 and EV3.5 incenti
 
 ---
 
+## Applying the Displacement Model
+
+### Step 1: Sector Exposure
+
+Thailand’s economy mixes traditional tourism and manufacturing with emerging digital/EV bets:
+
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| Tourism & hospitality | Major employer | Around baseline; robotics/AI assist, not replace, in near term | Moderate |
+| Manufacturing (autos/EV, electronics) | Important industrial base | Around baseline early; higher with robotics wave | Moderate‑High (later) |
+| Public sector & SOEs | Significant but less dynamic | Below baseline | Low‑Moderate |
+| Digital economy & services | Fast‑growing small share | Above baseline; AI both creates and displaces roles | Moderate, high upside |
+
+Relative to the 5% baseline, Thailand is exposed through manufacturing and tourism if demand falters, but AI itself is more an amplifier of sectoral trends than a direct job destroyer in the near term.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), Thailand is an emerging market with sectoral pockets of strength:
+
+| Factor | Thailand’s Position | Interpretation |
+|--------|---------------------|----------------|
+| Compute access | Limited | Some data centres; relies on regional capacity |
+| Energy cost/reliability | Mixed | Adequate but not a differentiating advantage |
+| Regulatory environment | Uncertain | Policy swings with political changes; incentives for EV/digital but inconsistent follow‑through |
+| Capital markets | Shallow | Depends heavily on foreign investment for big bets |
+| Talent base | Uneven | Strong technical pockets; broader education weaker |
+| Cultural adoption | Moderate‑High | Strong consumer digital uptake; variable institutional adoption |
+
+**Interpretation**: Thailand has genuine digital/EV momentum but lacks the deep capital, infrastructure, and institutional stability to guarantee translation into a clear “winner” path.
+
+### Step 3: Binding Constraints
+
+Thailand’s binding constraints in this scenario:
+1. **Household debt and weak demand**: High leverage constrains domestic consumption and resilience to shocks.
+2. **Political and policy volatility**: Frequent changes in government undermine long‑term investor confidence.
+3. **Middle‑income trap dynamics**: Difficulty moving up the value chain despite EV and digital pushes.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure and the factor bundle:
+- AI and EV investments could lift growth if policy and global demand cooperate.
+- Structural weaknesses could instead leave Thailand with islands of excellence in a low‑growth sea.
+
+→ Under the 5%‑per‑year displacement scenario, Thailand fits the **Contested** category in the [outcome schema](../../../METHODOLOGY.md): growth and unemployment trajectories that depend heavily on policy choices and external demand, with legitimacy outcomes that could range from muddling through to more serious stress if debt and stagnation persist.
+
+---
+
 *Last updated: 2025-12-08*
 
 [← Asia-Pacific](../README.md) | [← Global](../../../global/README.md) | [← Home](../../../README.md)

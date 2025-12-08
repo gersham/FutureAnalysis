@@ -51,6 +51,53 @@ For those in or connected to Japan, the [implications](analysis/actionable-impli
 
 ---
 
+## Applying the Displacement Model
+
+### Step 1: Sector Exposure
+
+Japan’s exposure is shaped by long‑running automation:
+
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| Manufacturing (autos, electronics) | Highly automated export base | Around/below baseline; Wave 2 already partly priced in | Moderate (incremental) |
+| Services (retail, hospitality) | Large employer | Around baseline; robotics and AI slowly expand | Moderate |
+| Public sector & healthcare | Growing due to aging | Below baseline; AI augments rather than replaces | Low‑Moderate |
+| Financial & professional services | Important but not dominant | Around baseline | Moderate |
+
+Relative to the 5% baseline, Japan has already absorbed much of the manufacturing automation shock, reducing incremental AI‑era job displacement but also limiting upside from additional robotics.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), Japan is a "mid‑sized developed" survivor:
+
+| Factor | Japan’s Position | Interpretation |
+|--------|------------------|----------------|
+| Compute access | Adequate | Significant but not dominant DC capacity; can rent abroad |
+| Energy cost/reliability | Mixed | Reliable but relatively expensive, especially post‑Fukushima |
+| Regulatory environment | Cautious | Stability‑oriented; slow to approve radical changes |
+| Capital markets | Deep but conservative | Large domestic savings; conservative allocation |
+| Talent base | High but aging | Strong technical base; demographic headwinds |
+| Cultural adoption | Conservative | Comfortable with automation in factories, cautious in services/governance |
+
+**Interpretation**: Japan has the capabilities to deploy AI but chooses to do so cautiously, prioritising stability over maximal growth.
+
+### Step 3: Binding Constraints
+
+Japan’s binding constraints in this scenario:
+1. **Demographics**: Shrinking workforce and aging society cap overall dynamism.
+2. **Cultural conservatism**: Slows service‑sector and public‑sector AI deployment.
+3. **Risk‑averse institutions**: Favour incrementalism over disruptive restructuring.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure and the factor bundle:
+- AI and robotics help Japan manage labour shortages and care burdens rather than spark growth spurts.
+- Displacement is muted by existing automation and employment practices that resist abrupt layoffs.
+
+→ Under the 5%‑per‑year displacement scenario, Japan fits the **Survivor** category in the [outcome schema](../../../METHODOLOGY.md): low‑to‑moderate growth, relatively stable unemployment, and a legitimacy trajectory of managed decline with high social cohesion and low fracture risk.
+
+---
+
 *Last updated: 2025-12-08*
 
 [← Asia-Pacific](../README.md) | [← Global](../../../global/README.md) | [← Home](../../../README.md)

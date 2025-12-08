@@ -64,6 +64,55 @@ Conventional forecasts extrapolate from past recoveries. Germany has always reco
 
 ---
 
+## Applying the Displacement Model
+
+### Step 1: Sector Exposure
+
+Germany's economic model concentrates exposure in manufacturing and high-value tradable services:
+
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| Manufacturing (autos, machinery, chemicals) | Core export engine | Around baseline early; higher once robotics wave hits | **High (Wave 2)** |
+| Engineering and professional services | Embedded in industrial base | Above baseline | **High** |
+| SME Mittelstand (industrial services) | Dense layer of suppliers | Mixed; some adapt, some fail | Moderate |
+| Public sector and welfare state | Large but less automatable | Below baseline | Low‑Moderate |
+
+Relative to the 5% scenario baseline, Germany is less exposed to services‑only collapse than the UK but more exposed to late‑arriving robotics disruption of manufacturing and industrial services.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), Germany is a "mid‑sized developed" economy:
+
+| Factor | Germany’s Position | Interpretation |
+|--------|--------------------|----------------|
+| Compute access | Below average | Limited domestic hyperscale; dependent on US and intra‑EU capacity |
+| Energy cost | Weak | Power prices structurally above US and many peers; constrains data centres and heavy industry |
+| Regulatory environment | Mixed | Strong rule of law; heavy climate/industrial regulation; slow permitting |
+| Capital markets | Moderate | Bank‑centric finance; less dynamic than US/UK, but deep enough to fund defensive adaptation |
+| Talent base | Strong but aging | High engineering competence; demographic headwinds; brain drain risk |
+| Cultural adoption | Cautious | Strong engineering culture; slower adoption of disruptive software/AI models |
+
+**Interpretation**: The factor bundle points toward structural disadvantage in an AI‑ and compute‑heavy world: excellent engineering talent and institutions, but high energy costs, limited domestic compute, and cautious adoption.
+
+### Step 3: Binding Constraints
+
+Germany’s binding constraints in this scenario:
+1. **Energy cost and reliability**: High, sticky power prices undermine both manufacturing competitiveness and AI infrastructure build‑out.
+2. **Industrial rigidity**: Deep capital sunk in legacy automotive/chemical complexes slows reallocation.
+3. **Demographics**: Aging population and limited immigration reduce flexibility and amplify fiscal pressures.
+4. **Regulatory and political commitments**: Climate and industrial policy constraints limit rapid course correction.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure with the factor bundle:
+- Manufacturing and industrial services face increasing pressure as AI‑enabled competition and robotics spread.
+- Energy and compute disadvantages prevent Germany from becoming an AI infrastructure hub.
+- Institutions and social cohesion remain strong enough to avoid fracture.
+
+→ Under the 5%‑per‑year displacement scenario, Germany fits the **Declining** category in the [outcome schema](../../../METHODOLOGY.md): low to slightly negative trend growth, elevated structural unemployment or underutilisation in exposed sectors, and a legitimacy trajectory of managed but visible decline rather than systemic breakdown.
+
+---
+
 *Last updated: 2025-12-08*
 
 [← Europe](../README.md) | [← Global](../../../global/README.md) | [← Home](../../../README.md)

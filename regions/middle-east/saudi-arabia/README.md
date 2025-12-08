@@ -61,6 +61,53 @@ The economic foundation supports this ambition. Non-oil GDP grew 4.5% in 2024, w
 
 ---
 
+## Applying the Displacement Model
+
+### Step 1: Sector Exposure
+
+Saudi Arabia’s exposure looks very different from services‑heavy economies:
+
+| Sector | Role in Economy | Expected Displacement/Year | Exposure |
+|--------|-----------------|---------------------------|----------|
+| Oil & gas | Legacy revenue base | Lower than baseline; automation already high | Low (for jobs), critical for fiscal transition |
+| Government & public sector | Dominant employer | Below baseline | Low‑Moderate |
+| Construction & giga‑projects | Large but cyclical | Around baseline; robotics later | Moderate |
+| Emerging AI/tech & services | Growing from low base | Above baseline but offset by new demand | Moderate (creative destruction) |
+
+Relative to the 5% baseline, Saudi Arabia is less vulnerable to initial AI displacement (few large white‑collar services sectors), but heavily exposed to whether AI‑era diversification succeeds before oil revenue declines.
+
+### Step 2: Factor Analysis
+
+Using the [archetype framework](../../../METHODOLOGY.md), Saudi Arabia is a resource‑rich state:
+
+| Factor | Saudi Position | Interpretation |
+|--------|----------------|----------------|
+| Compute access | Rapidly improving | Large sovereign DC build‑out and hyperscaler partnerships |
+| Energy cost/reliability | Very strong | Abundant cheap energy; favourable for AI infrastructure |
+| Regulatory environment | Centralised | State can move quickly; risk of misallocation |
+| Capital markets | Sovereign‑driven | Massive sovereign wealth; external finance optional |
+| Talent base | Limited domestically | Heavy reliance on expatriates and imported expertise |
+| Cultural adoption | Top‑down | Rapid AI deployment driven by state and large firms |
+
+**Interpretation**: On the factor bundle, Saudi Arabia looks like a potential winner constrained mainly by execution and talent depth rather than by energy, compute, or capital.
+
+### Step 3: Binding Constraints
+
+Saudi Arabia’s binding constraints in this scenario:
+1. **Talent and institutional depth**: Infrastructure can be bought; deep, local technical and managerial capability takes longer to build.
+2. **Governance concentration**: Highly centralised decision‑making risks large, correlated errors.
+3. **Oil‑price path**: A sharp, sustained oil downturn before diversification matures would stress the model.
+
+### Step 4: Outcome in the 5% Scenario
+
+Combining sector exposure and the factor bundle:
+- AI infrastructure and energy advantages position Saudi Arabia to capture a share of global AI value disproportionate to its population.
+- Domestic employment and social outcomes depend on translating infrastructure into a diversified, higher‑productivity non‑oil economy.
+
+→ Under the 5%‑per‑year displacement scenario, Saudi Arabia fits the **Winner** category in the [outcome schema](../../../METHODOLOGY.md): high growth potential with relatively low immediate displacement risk, but with legitimacy and stability contingent on whether diversification succeeds before the oil window closes.
+
+---
+
 *Last updated: 2025-12-08*
 
 [← Middle East](../README.md) | [← Global](../../../global/README.md) | [← Home](../../../README.md)
