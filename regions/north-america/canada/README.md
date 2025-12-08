@@ -2,8 +2,25 @@
 
 > **Outlook**: Restructured
 > **GDP Projection**: +2 to +4% annually (gains concentrated)
+> **Advantage**: Fortress America spillover; resource endowment
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
+
+---
+
+## The Fortress America Effect
+
+Canada's most underappreciated advantage is simple geography: it shares a border with the AI goliath.
+
+The United States will capture AI gains at a scale no other nation can match—53.7 gigawatts of data centre capacity, $500 billion Stargate project, $109 billion in private AI investment in 2024 alone. Canada benefits from this explosion by proximity and integration:
+
+- **Capital spillover**: American AI investment seeking North American optionality flows to Canada
+- **Talent circulation**: AI workers and entrepreneurs move between US and Canadian tech hubs
+- **Infrastructure proximity**: Canadian data centres serve US demand; power exports increase
+- **Supply chain integration**: Canadian critical minerals feed American AI hardware production
+- **Economic linkage**: 75%+ of Canadian exports go to the US; when America booms, Canada follows
+
+This is not a strategy Canada chose—it is geographic inheritance. Being next to the engine of AI growth provides tailwinds regardless of Canadian policy choices.
 
 ---
 

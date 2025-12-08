@@ -36,13 +36,28 @@ Mexico presents a study in contradictions—record FDI alongside near-zero GDP g
 
 ---
 
+## The Fortress America Effect
+
+Mexico's most important structural advantage is simple: it borders the AI goliath.
+
+The United States will capture AI gains at a scale no other nation can match. Mexico benefits from this explosion by proximity and integration—not as dramatically as Canada, but meaningfully:
+
+- **Manufacturing integration**: US AI-era manufacturing needs components and assembly; Mexico provides both
+- **Economic linkage**: 80%+ of Mexican exports go to the US; American growth pulls Mexico along
+- **Investment spillover**: North American supply chain investment includes Mexico almost by default
+- **Infrastructure adjacency**: Texas data centres create demand for Mexican power and components
+
+The Fortress America effect does not make Mexico a winner—too many domestic constraints for that. But it provides a floor that prevents decline even with mediocre execution. Being adjacent to the engine of AI growth provides tailwinds regardless of Mexican policy choices.
+
+---
+
 ## The Nearshoring Thesis
 
 Mexico was positioned as the primary beneficiary of supply chain diversification away from China. The thesis was compelling: USMCA access to US markets, geographic proximity, competitive labour costs, existing manufacturing infrastructure, and deep structural integration with US industry. Morgan Stanley projected nearshoring could add $46 billion in new investment and boost annual GDP growth to 3%.
 
 **The reality is more modest.** The World Bank notes that multinational companies relocated to Mexico amid nearshoring generate only around 0.2% of GDP. FDI flows to specific sectors (automotive, electronics, aerospace) without transforming the broader economy. The benefits concentrate geographically in northern and central states—Nuevo León, Baja California, Chihuahua, the Bajío region—while much of Mexico sees little impact.
 
-The nearshoring opportunity is real but narrower than anticipated.
+The nearshoring opportunity is real but narrower than anticipated—though the Fortress America effect provides baseline support even if nearshoring disappoints.
 
 ---
 

@@ -193,8 +193,6 @@ Against this backdrop, we can sketch the trajectories of specific nations throug
 
 **[China](regions/asia-pacific/china/README.md):** Aggressive AI adoption regardless of social cost, backed by state capacity to suppress dissent and direct economic restructuring. Survey data shows 93% of Chinese employees use AI at work versus 17% of Americans who "embrace AI"—a cultural disposition toward technology adoption built from decades of visible technological benefit. With 31.9 gigawatts of capacity and state-directed investment of $138 billion announced in 2025 alone, China possesses the infrastructure to remain competitive. Demographic decline and the Taiwan risk cloud the trajectory, but the Party's willingness to absorb short-term pain for strategic advantage gives China options unavailable to democratic competitors. *Projected GDP growth: four to six percent annually.*
 
-**[Vietnam](regions/asia-pacific/vietnam/README.md):** The manufacturing supply chain story of the decade. GDP growth of 8.23% in Q3 2025 leads Southeast Asia; FDI hit $31.5 billion in the first ten months of 2025, with manufacturing capturing 62%. Samsung, Microsoft, Intel, Foxconn, Apple, and Nvidia have all established or expanded operations. Vietnam positioned itself as the primary beneficiary of supply chain diversification away from China—a structural shift that persists regardless of US-China relations. Young demographics, competitive costs, and consistent pro-FDI policy compound the advantage. *Projected GDP growth: six to eight percent annually.*
-
 Also positioned as winners: [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) (converting oil wealth to AI infrastructure at $100 billion scale), [UAE](regions/middle-east/uae/README.md) (regional AI hub with governance credibility), [Poland](regions/europe/poland/README.md) (Europe's surprising success—less exposed to services automation, manufacturing growth, ideological independence), [Australia](regions/asia-pacific/australia/README.md) (critical minerals and energy advantaged, contingent on regulatory choices).
 
 ### The Restructured
@@ -221,7 +219,7 @@ Also surviving: [South Korea](regions/asia-pacific/south-korea/README.md), [Neth
 
 **[Russia](regions/europe/russia/README.md):** Sanctions isolation, brain drain, and technology cutoff combine with demographic collapse. Energy revenues sustain the state but cannot power modernisation. Structural decline without the social fracturing visible in Western Europe—repressive capacity maintains order as the economy contracts.
 
-Also declining: [Italy](regions/europe/italy/README.md), [Philippines](regions/asia-pacific/philippines/README.md) (BPO economy collapsing—60-70% of jobs in call centers vulnerable to AI), [Nigeria](regions/africa/nigeria/README.md) (youngest major population with 93% informal economy; demographic liability), [Egypt](regions/middle-east/egypt/README.md) (debt trap—60% of spending on interest; Suez vulnerability), [South Africa](regions/africa/south-africa/README.md) (load shedding caps growth; 32%+ unemployment), [Pakistan](regions/asia-pacific/pakistan/README.md) (24th IMF programme; structural dysfunction).
+Also declining: [Italy](regions/europe/italy/README.md), [Philippines](regions/asia-pacific/philippines/README.md) (BPO economy collapsing—100% of call center jobs disappearing within 3-5 years; broader BPO follows), [Nigeria](regions/africa/nigeria/README.md) (youngest major population with 93% informal economy; demographic liability), [Egypt](regions/middle-east/egypt/README.md) (debt trap—60% of spending on interest; Suez vulnerability), [South Africa](regions/africa/south-africa/README.md) (load shedding caps growth; 32%+ unemployment), [Pakistan](regions/asia-pacific/pakistan/README.md) (24th IMF programme; structural dysfunction).
 
 ### The Contested
 
@@ -229,7 +227,7 @@ These nations face genuinely uncertain futures—high variance outcomes where th
 
 **[Ireland](regions/europe/ireland/README.md):** The pessimistic thesis holds that Ireland combines maximum economic exposure—American tech headquarters attracted by tax arbitrage, financial services back-office operations—with Dublin's data centre grid at capacity. The optimistic counter: Ireland has been remarkably stable since 1998, the economy is more diversified than recognised (1,800+ multinationals across pharma, medtech, technology), and small nations pivot faster than large ones. Ireland has reinvented itself repeatedly since the 1980s. *Projected GDP: -1% to +2% annually, with significant variance.*
 
-Also contested: [India](regions/asia-pacific/india/README.md) (IT services vulnerable to AI; large population becomes liability when labour is what AI replaces), [Mexico](regions/north-america/mexico/README.md) (nearshoring potential vs tariff uncertainty and cartel violence), [Taiwan](regions/asia-pacific/taiwan/README.md) (TSMC makes 92% of advanced chips; China risk dominates all other factors), [Malaysia](regions/asia-pacific/malaysia/README.md) (semiconductor positioning vs structural challenges), [Turkey](regions/europe/turkey/README.md) (geopolitical positioning between blocs creates opportunity and risk), [Thailand](regions/asia-pacific/thailand/README.md) (digital/EV strength offset by structural weaknesses and high household debt).
+Also contested: [Vietnam](regions/asia-pacific/vietnam/README.md) (growth inflated by Chinese transshipment; 20% + 40% tariffs bite), [India](regions/asia-pacific/india/README.md) (IT services vulnerable to AI; large population becomes liability when labour is what AI replaces), [Mexico](regions/north-america/mexico/README.md) (nearshoring potential vs tariff uncertainty and cartel violence), [Taiwan](regions/asia-pacific/taiwan/README.md) (TSMC makes 92% of advanced chips; China risk dominates all other factors), [Malaysia](regions/asia-pacific/malaysia/README.md) (semiconductor positioning vs structural challenges), [Turkey](regions/europe/turkey/README.md) (geopolitical positioning between blocs creates opportunity and risk), [Thailand](regions/asia-pacific/thailand/README.md) (digital/EV strength offset by structural weaknesses and high household debt).
 
 ### The Fracturing
 
@@ -283,10 +281,12 @@ The falcon is already beyond recall. The widening gyre has begun.
 ### Trends
 - [AI Displacement](global/trends/ai-displacement.md)
 - [Robotics Wave](global/trends/robotics-wave.md)
+- [Software Development Automation](global/trends/software-development-automation.md)
 - [Energy & Data Centers](global/trends/energy-and-data-centers.md)
 - [Cultural Adoption](global/trends/cultural-adoption.md)
 - [Financial Services Disruption](global/trends/financial-services-disruption.md)
 - [Higher Education Disruption](global/trends/higher-education-disruption.md)
+- [Call Center Collapse](global/trends/call-center-collapse.md)
 - [Demographic Liability](global/trends/demographic-liability.md)
 - [Legitimacy Crisis](global/trends/legitimacy-crisis.md)
 

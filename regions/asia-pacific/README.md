@@ -18,7 +18,7 @@ Asia-Pacific leads globally in AI adoption and manufacturing growth:
 
 | Country | GDP Growth 2025 | Key Factor | Outlook |
 |---------|-----------------|------------|---------|
-| **Vietnam** | **8.23%** (Q3) | Manufacturing FDI | Winner |
+| **Vietnam** | **8.23%** (Q3) | Transshipment-inflated; tariff risk | Contested |
 | **India** | **6.5-6.9%** | IT services vulnerable | Contested |
 | **Indonesia** | 5.1-5.4% | Infrastructure gaps | Survivor |
 | **China** | 4-5% | State-directed AI | Winner |
@@ -30,6 +30,33 @@ Asia-Pacific leads globally in AI adoption and manufacturing growth:
 | **Thailand** | 2.0-2.4% | Structural challenges | Contested |
 
 **Key dynamic**: China's state capacity enables aggressive AI deployment; India's IT services face automation; Indonesia's infrastructure limits AI capture despite scale.
+
+---
+
+## The ASEAN Dynamo (Not Fortress China)
+
+There is no "Fortress China" equivalent to Fortress America. China has systematically alienated its neighbors through South China Sea aggression, border disputes with India, and coercive economic practices. In October 2025 alone, Chinese ships rammed Philippine vessels at Thitu Island and continued water cannon harassment of fishing boats operating in Manila's EEZ. ASEAN remains divided; the Philippines, Vietnam, and Indonesia increasingly align with US security architecture while Cambodia and Laos remain in China's orbit.
+
+What exists instead is an **ASEAN Dynamo**—a regional economic engine that benefits from *both* supply chain diversification away from China *and* continued Chinese investment seeking tariff avoidance:
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| **ASEAN GDP growth** | 4.3% (2025) | AMRO |
+| **ASEAN collective GDP** | $4+ trillion (4th largest economy) | WEF |
+| **FDI inflows 2024** | $235 billion (record) | UNCTAD |
+| **Chinese manufacturing FDI** | $10B/year avg (vs $2.7B pre-2020) | Rhodium |
+| **Digital economy GMV** | $300 billion (2025) | Google/Temasek |
+| **Data center capacity growth** | +180% planned | e-Conomy SEA |
+
+**The dynamic**: ASEAN benefits whether the US or China "wins" the trade war:
+- US tariffs on China → supply chains diversify to Vietnam, Thailand, Malaysia, Indonesia
+- Chinese firms seek tariff avoidance → manufacturing FDI flows to ASEAN
+- Both sides invest in ASEAN infrastructure → $200B+ in new commitments from Japan, Australia, India, South Korea
+- Regional integration deepens → ASEAN Digital Economy Framework Agreement signed 2025
+
+**The limits**: Intra-ASEAN trade remains only ~22% of total (vs 60%+ in EU). Much of the "ASEAN manufacturing" is actually Chinese firms relocating for tariff arbitrage—the same transshipment dynamic affecting Vietnam. ASEAN unity fractures on China policy. Infrastructure gaps (Indonesia, Philippines) limit absorption capacity.
+
+**The thesis**: ASEAN is not a fortress but a conduit—benefiting from being the neutral ground where great power competition plays out through investment rather than conflict. The region captures spillover from both American AI dominance and Chinese manufacturing relocation. This is not as powerful as Fortress America (ASEAN doesn't border the AI goliath), but it provides regional tailwinds that partially offset country-specific weaknesses.
 
 ---
 
