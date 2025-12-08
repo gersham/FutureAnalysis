@@ -87,7 +87,7 @@ last_updated: YYYY-MM-DD
 | | [Portugal](regions/europe/portugal/README.md) | Survivor |
 | | [Turkey](regions/europe/turkey/README.md) | Contested |
 | **Asia-Pacific** | [China](regions/asia-pacific/china/README.md) | Winner |
-| | [India](regions/asia-pacific/india/README.md) | Winner |
+| | [India](regions/asia-pacific/india/README.md) | Contested |
 | | [Japan](regions/asia-pacific/japan/README.md) | Survivor |
 | | [Singapore](regions/asia-pacific/singapore/README.md) | Survivor |
 | | [Australia](regions/asia-pacific/australia/README.md) | Winner (Contingent) |
@@ -108,12 +108,12 @@ last_updated: YYYY-MM-DD
 
 | Category | Definition | Example |
 |----------|------------|---------|
-| **Winner** | Capturing AI transition gains | US, China, India, Poland, UAE, Saudi Arabia, Vietnam, Indonesia, Malaysia |
+| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Vietnam, Indonesia, Malaysia |
 | **Restructured/ing** | Gains but concentrated/unequal | Canada, Argentina |
 | **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Brazil, Spain, Portugal, Israel |
 | **Declining** | Structural contraction but social stability | Germany, Switzerland, Russia, Italy |
 | **Fracturing** | Economic decline + social instability | UK, France |
-| **Contested** | Genuinely uncertain; high variance | Ireland, Mexico, Turkey, Thailand |
+| **Contested** | Genuinely uncertain; high variance | Ireland, India, Mexico, Turkey, Thailand |
 | **Collapsing** | State failure or near-failure | Iran, Venezuela |
 
 ## Prediction Format
