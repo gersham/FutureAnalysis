@@ -27,9 +27,9 @@ This is a **fully worked example** showing how the [methodology](../../../METHOD
 
 | Scenario | Probability | Outcome | Description |
 |----------|-------------|---------|-------------|
-| **Upside** | 15-20% | Managed decline | Institutional resilience; sterling devaluation restores competitiveness; successful niche pivots |
-| **Central** | 50-60% | Material contraction | Financial services compress significantly; episodic unrest but not systemic; muddling through |
-| **Downside** | 20-30% | Severe contraction + instability | Financial services collapse; sustained unrest; emergency governance; capital flight and emigration |
+| **Upside** | Low (around one-in-five) | Managed decline | Institutional resilience; sterling devaluation restores competitiveness; successful niche pivots |
+| **Central** | More likely than not | Material contraction | Financial services compress significantly; episodic unrest but not systemic; muddling through |
+| **Downside** | Non-trivial minority risk | Severe contraction + instability | Financial services collapse; sustained unrest; emergency governance; capital flight and emigration |
 
 ### What Would Move Us Between Scenarios
 
@@ -65,17 +65,16 @@ Relative to the 5% scenario baseline, the UK's service‑heavy economy faces hig
 
 Using the [archetype framework](../../../METHODOLOGY.md), the UK is a "mid-sized developed" economy:
 
-| Factor | UK Score (0-10) | Weight | Contribution |
-|--------|-----------------|--------|--------------|
-| Compute access | 4 | 20% | 0.8 |
-| Energy cost | 3 | 20% | 0.6 |
-| Regulatory environment | 5 | 20% | 1.0 |
-| Capital markets | 7 | 15% | 1.05 |
-| Talent base | 6 | 10% | 0.6 |
-| Cultural adoption | 5 | 10% | 0.5 |
-| **Weighted total** | | | **4.55/10** |
+| Factor | UK Position | Interpretation |
+|--------|-------------|----------------|
+| Compute access | Below average | Limited domestic capacity; reliant on US‑hosted compute |
+| Energy cost | Weak | Electricity 3–4x US levels; constrains data centre build‑out |
+| Regulatory environment | Mixed | Post‑Brexit divergence creates friction without clear AI advantage |
+| Capital markets | Strong | Deep financial markets; can fund adaptation if incentives align |
+| Talent base | Moderate | Solid technical and professional base; brain drain risk if outlook worsens |
+| Cultural adoption | Mixed | Frontier firms adopt quickly; broader economy and public opinion more hesitant |
 
-**Interpretation**: The UK scores below average on the key factors that determine AI-era positioning. Strong capital markets partially offset weak energy and compute position, but not enough.
+**Interpretation**: The UK sits in a structurally challenging position on the key factors that determine AI‑era positioning. Strong capital markets and a decent talent base partially offset weak energy and compute position, but not enough to change the central-case outlook in this scenario.
 
 ### Step 3: Binding Constraints
 

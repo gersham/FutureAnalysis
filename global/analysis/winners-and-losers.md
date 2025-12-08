@@ -33,8 +33,6 @@ Countries capturing AI transition gains.
 | China | High | Moderate | State capacity; Taiwan risk; DeepSeek efficiency |
 | Australia | High | Moderate | Resources; regulatory risk |
 | Poland | High | Moderate | Manufacturing; less exposed |
-| Vietnam | High | Moderate | Manufacturing shift; young population |
-| Indonesia | High | Moderate | Scale; resources; adoption rates |
 | UAE/Saudi Arabia | High | Moderate | Sovereign wealth; energy; infra |
 
 ### Restructured
@@ -52,6 +50,7 @@ Managing transition with stability.
 | Singapore | Moderate | Moderate | Technocratic adaptation |
 | Japan | Moderate | High | Demographic cushion; managed stagnation |
 | South Korea | Moderate | Moderate | Tech sector strength; demographic pressure |
+| Indonesia | Moderate | Moderate | Scale and resources offset by infrastructure gaps |
 
 ### Declining
 Structural contraction or stagnation.
@@ -71,6 +70,7 @@ Genuinely uncertain; high variance outcomes.
 | Ireland | Uncertain (High variance) | Low | Tech HQ dependency; diversification potential |
 | Turkey | Uncertain (High variance) | Low | Geopolitics; instability risk |
 | Thailand | Uncertain (High variance) | Low | Manufacturing potential; political uncertainty |
+| Vietnam | Uncertain (High variance) | Moderate | Manufacturing vs transshipment; tariff risk |
 
 ### Fracturing
 Economic decline + elevated instability risk.

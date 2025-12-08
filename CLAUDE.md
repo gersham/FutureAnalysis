@@ -96,7 +96,7 @@ Each README.md is the **substantive essay synthesis** for that level:
 
 | Category | Definition | Example |
 |----------|------------|---------|
-| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia |
+| **Winner** | Capturing AI transition gains | US, China, Poland, UAE, Saudi Arabia, Australia |
 | **Restructured/ing** | Gains but concentrated/unequal | Canada, Argentina |
 | **Survivor** | Managing with stability; limited growth | Japan, Singapore, South Korea, Indonesia, Netherlands, Brazil, Spain, Portugal, Israel |
 | **Declining** | Structural contraction but social stability | Germany, Switzerland, Russia, Italy, Philippines, Nigeria, Egypt, South Africa, Pakistan |
@@ -169,7 +169,7 @@ Be skeptical of AI-related data more than 12 months old. The field moves fast; s
 
 | Metric | Significance |
 |--------|--------------|
-| Data Centre Capacity (GW) | One factor among six (25% weight); see methodology |
+| Data Centre Capacity (GW) | One factor among several; see methodology |
 | GDP Projections | Illustrative ranges, not econometric forecasts |
 | Sector Displacement Rates | Vary dramatically; see methodology sector table |
 | Energy Costs (relative) | Binding constraint for some archetypes |

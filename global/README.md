@@ -63,6 +63,19 @@ Suppositions and predictions based on data and trends.
 
 ---
 
+## Cross-Country Linkages
+
+This scenario is explicitly global: downturns and gains in one place show up as flows elsewhere.
+
+- **Labour flows**: High-skill workers leaving [Fracturing](analysis/winners-and-losers.md) economies (UK, France) tend to land in "Winner" and "Survivor" hubs (US, Canada, Australia, Singapore), reinforcing divergence.
+- **Capital flows**: Capital leaving structurally **Declining** Europe (Germany, Switzerland, Italy) seeks returns in energy- and AI‑infrastructure plays (US, Gulf states, Australia, Indonesia).
+- **Supply chains**: AI-enabled reshoring and "friend‑shoring" redirect manufacturing and services from China and vulnerable hubs toward "swing" countries (Vietnam, India, Mexico, Poland, Indonesia).
+- **Compute flows**: Nations with weak domestic data‑centre economics (UK, much of EU) increasingly rent capacity from US or Gulf‑hosted infrastructure, importing capability but exporting a share of value.
+
+These flows link country-level stories into one system: distress in service-heavy, high-cost economies is the mechanism by which winners and survivors consolidate their position in the 5%‑displacement world.
+
+---
+
 ## Regional Trajectories
 
 | Region | Trajectory | Countries |
@@ -122,11 +135,11 @@ Qualitative growth outlooks within the 5%/year displacement scenario.
 
 | Outlook | Countries | Growth Outlook | Confidence |
 |---------|-----------|----------------|------------|
-| Winner | US, China, Australia, Poland, Vietnam, Indonesia, UAE | High | Moderate‑High |
+| Winner | US, China, Australia, Poland, UAE | High | Moderate‑High |
 | Restructured | Canada | Moderate (Uneven/Concentrated) | Moderate |
-| Survivor | Singapore, Japan, South Korea | Moderate | Moderate‑High |
+| Survivor | Singapore, Japan, South Korea, Indonesia | Moderate | Moderate‑High |
 | Declining | Germany, Switzerland, Italy, Russia | Low/Negative | Moderate‑High |
-| Contested | Ireland, Turkey, Thailand | Uncertain (High variance) | Low |
+| Contested | Ireland, Turkey, Thailand, Vietnam | Uncertain (High variance) | Low‑Moderate |
 | Fracturing | UK, France | Negative with instability risk | Moderate |
 | Collapsing | Iran, Venezuela | Severe contraction | High |
 

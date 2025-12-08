@@ -54,16 +54,16 @@ Countries/regions weighted toward high-displacement sectors (UK financial servic
 
 ### Assumption 2: Energy/Compute as Key Factor (Not Master Variable)
 
-Data centre capacity is treated as **one important factor in a bundle**, not the sole determinant:
+Data centre capacity is treated as **one important factor in a bundle**, not the sole determinant. Rather than pretending to a level of precision the judgment does not have, we use relative importance labels:
 
-| Factor | Weight | Rationale |
-|--------|--------|-----------|
-| Compute access (local + cloud) | 25% | Can rent capacity; latency matters for some workloads |
-| Energy cost/reliability | 20% | Ongoing operational constraint |
-| Regulatory environment | 20% | Determines deployment friction |
-| Capital markets | 15% | Funds buildout and adoption |
-| Talent base | 10% | Engineers, researchers, operators |
-| Cultural adoption disposition | 10% | Willingness to deploy and accept |
+| Factor | Relative Importance | Rationale |
+|--------|---------------------|-----------|
+| Compute access (local + cloud) | High | Can rent capacity; latency matters for some workloads |
+| Energy cost/reliability | High | Ongoing operational constraint |
+| Regulatory environment | High | Determines deployment friction |
+| Capital markets | Medium | Funds buildout and adoption |
+| Talent base | Medium | Engineers, researchers, operators |
+| Cultural adoption disposition | Medium | Willingness to deploy and accept |
 
 **Important caveats**:
 - Compute is more mobile than oil—firms can rent capacity cross-border
@@ -71,17 +71,17 @@ Data centre capacity is treated as **one important factor in a bundle**, not the
 - DC buildout is fast if policy allows (1→4 GW is years, not decades)
 - The US advantage is real but not as deterministic as the text sometimes implies
 
-**Factor weights vary by country archetype**:
+**Factor emphasis varies by country archetype**:
 
-| Archetype | Examples | Most Binding Factors | DC Weight |
-|-----------|----------|---------------------|-----------|
-| **Hegemon** | US, China | Energy, political stability, talent | 30% |
-| **Mid-sized developed** | UK, Germany, Canada, Australia | Regulation, energy price, ability to tap US compute | 20% |
-| **Small open economy** | Singapore, Ireland, Switzerland | Geopolitics, niche positioning, openness | 15% |
-| **Emerging market** | India, Indonesia, Vietnam | Capital markets, infrastructure, talent pipeline | 25% |
-| **Resource-rich** | Saudi Arabia, UAE, Australia | Energy cost, capital, regulatory simplicity | 35% |
+| Archetype | Examples | Most Binding Factors | Role of Data Centres |
+|-----------|----------|---------------------|----------------------|
+| **Hegemon** | US, China | Energy, political stability, talent | High |
+| **Mid-sized developed** | UK, Germany, Canada, Australia | Regulation, energy price, ability to tap US compute | Medium |
+| **Small open economy** | Singapore, Ireland, Switzerland | Geopolitics, niche positioning, openness | Medium‑Low |
+| **Emerging market** | India, Indonesia, Vietnam | Capital markets, infrastructure, talent pipeline | Medium‑High |
+| **Resource-rich** | Saudi Arabia, UAE, Australia | Energy cost, capital, regulatory simplicity | Very High |
 
-The 25/20/20/15/10/10 global weights are a heuristic; in practice, binding constraints differ by country type. Synthesis should not over‑weight any single factor (e.g., compute) relative to this bundle.
+The original 25/20/20/15/10/10 weights were always a heuristic; in practice, binding constraints differ by country type. Synthesis should not over‑weight any single factor (e.g., compute) relative to this bundle.
 
 **Interaction effects**: These factors are not additively independent:
 - Regulation × Capital markets: Can we finance DC given NIMBY + ESG constraints?

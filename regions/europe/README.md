@@ -61,6 +61,19 @@ On Europe's periphery, [Turkey](turkey/README.md) pursues expansion—but the di
 
 ---
 
+## Adaptation Channels and Upside
+
+Even within this adverse setup, Europe has credible upside paths in the 5%‑displacement scenario:
+
+- **Regulatory adjustment**: Partial relaxation or pragmatic interpretation of the EU AI Act, especially around general‑purpose and low‑risk systems, would narrow the deployment gap with the US and China.
+- **Energy repositioning**: Faster nuclear restarts/extensions (France), targeted LNG and grid investment (Germany, Italy), and cross‑border interconnects can soften the energy‑cost handicap.
+- **Selective winners**: Poland, Spain, Portugal, and parts of Ireland demonstrate that not all of Europe shares the same fate; successful policy in these outliers creates templates others can copy under pressure.
+- **Security realism**: If US commitment visibly weakens, some European states may accept deeper defence integration and spending, reducing the welfare‑defence trap over time.
+
+These channels do not erase the central case of structural pressure and relative decline, but they keep the door open to a "managed decline" or "survivor" outcome for parts of Europe rather than uniform fracturing.
+
+---
+
 *Last updated: 2025-12-08*
 
 [← Global](../../global/README.md) | [← Home](../../README.md)

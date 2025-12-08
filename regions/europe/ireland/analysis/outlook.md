@@ -32,13 +32,13 @@ Ireland presents a contested case with high variance in possible outcomes. Both 
 
 ## Why High Variance
 
-| Outcome | Probability | Trajectory |
-|---------|-------------|------------|
-| Optimistic | ~35% | Continued adaptation; growth |
-| Moderate | ~40% | Significant adjustment; flat |
-| Pessimistic | ~25% | Serious decline; potential instability |
+| Outcome | Probability (Qualitative) | Trajectory |
+|---------|--------------------------|------------|
+| Optimistic | Meaningful upside (around one‑third) | Continued adaptation; growth |
+| Moderate | Central tendency | Significant adjustment; flat |
+| Pessimistic | Non-trivial downside risk | Serious decline; potential instability |
 
-The wide range reflects genuine uncertainty, not analytical failure.
+The wide range reflects genuine uncertainty about how Ireland adapts to AI-era shocks, not analytical failure.
 
 ## Predictions by Period
 
