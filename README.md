@@ -43,7 +43,7 @@ The arithmetic is stark. A junior lawyer billing at several hundred dollars per 
 
 The first wave of AI automation—roughly 2023 to 2030—primarily affects cognitive and administrative work. But a second wave is building: physical automation through humanoid robotics and advanced manufacturing systems. This wave is rear-weighted toward the latter half of the decade and into the 2030s, but its foundations are being laid now.
 
-**December 2025 represents an inflection point.** The robotics industry has moved beyond pilot programmes:
+**December 2025 represents a potential inflection point.** The robotics industry claims to have moved beyond pilot programmes—though demos and small pilots are not the same as economically decisive deployment. This is the moment when the industry's path will be decided; commercially meaningful at-scale deployment remains uncertain:
 
 | Company | Platform | Status (Dec 2025) | Scale |
 |---------|----------|-------------------|-------|
@@ -67,7 +67,7 @@ The implications compound the first wave's disruption. White-collar workers disp
 
 If artificial intelligence is the transformative force of the coming decade, energy is its enabling substrate. Intelligence, in its artificial form, is electricity transformed through silicon. The nations that can provide abundant, reliable, affordable power for data centres will capture the productivity gains of the AI revolution. Those that cannot will import their intelligence at whatever price the market demands—and find themselves in a new form of colonial dependency.
 
-Data centre capacity has become the new oil—the critical resource upon which economic power depends. Just as twentieth-century geopolitics revolved around petroleum reserves and refining capacity, twenty-first-century power will flow from control of computational infrastructure. And the distribution of that infrastructure is already starkly unequal.
+Data centre capacity has become a critical resource for AI-era economic power—though the analogy to oil should not be overstated. Unlike petroleum, compute is partly fungible cross-border (firms can rent capacity in Virginia from London), and algorithmic efficiency improves roughly 10x every few years, meaning today's GW requirements may be tomorrow's overkill. In the [factor weighting framework](METHODOLOGY.md), data-centre capacity is one variable among six (25% weight), but it is the easiest to quantify, so it gets outsized rhetorical attention in what follows. The distribution of infrastructure nonetheless matters, and that distribution is already starkly unequal.
 
 ### Current Data Centre Capacity and Pipeline by Region (December 2025)
 

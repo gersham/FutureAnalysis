@@ -36,22 +36,46 @@ This analysis proceeds from several foundational assumptions. **If you disagree 
 
 ```
 Gross task automation: ~5-7% of all work tasks per year
-÷ Tasks-to-jobs conversion: ~0.6-0.8 (many tasks automated ≠ job eliminated)
-÷ Re-deployment rate: ~0.3-0.5 (workers absorbed into new/modified roles)
+× Tasks-to-jobs conversion: ~0.6-0.8 (many tasks automated ≠ job eliminated)
+× (1 - Re-deployment rate): ~0.5-0.7 (fraction NOT absorbed into new/modified roles)
 = Net job displacement: ~2-4% of workforce per year
-× 10 years
-= ~25-40% cumulative displacement
 ```
+
+**Compounding math**: We use a compounding model where each year's displacement is from the *current* workforce. At 3% net annual displacement:
+- Year 1: 100 → 97 (3% displaced)
+- Year 5: 100 → 86 (1 - 0.97⁵)
+- Year 10: 100 → 74 (1 - 0.97¹⁰ = 26% cumulative)
+
+At 4% net annual: 1 - 0.96¹⁰ = 34% cumulative displacement.
+
+The **25-40% range** corresponds to net annual rates of 2.8-5%, which maps to the model outputs above.
+
+**Sector heterogeneity**: The global average masks dramatic variation:
+
+| Sector | Expected Net Displacement/Year | Rationale |
+|--------|-------------------------------|-----------|
+| Legal services | 8-12% | Research, drafting, review highly automatable |
+| Software development | 6-10% | See [software automation trend](global/trends/software-development-automation.md) |
+| Financial back/middle office | 6-10% | Pure information processing |
+| Call centers / BPO | 15-25% | Near-total elimination; see [call center collapse](global/trends/call-center-collapse.md) |
+| Administrative / clerical | 5-8% | Broad automation of routine tasks |
+| Retail / hospitality | 2-4% | Physical presence still valued; robotics later |
+| Healthcare delivery | 1-3% | Physical skills; regulatory protection |
+| Trades / construction | 1-2% | Robotics Wave 2; later in timeline |
+| Agriculture | 2-4% | Already highly automated; continued pressure |
+
+Countries/regions weighted toward high-displacement sectors (UK financial services, Indian IT, Philippine BPO) face steeper curves than those weighted toward physical work.
 
 **What this model ignores** (acknowledged limitations):
 - General equilibrium effects (wage adjustment, capital deepening)
 - New job/sector creation from AI-enabled activities
 - Hours-per-worker adjustment (underemployment vs unemployment)
 - Policy responses (UBI, retraining, work-sharing)
+- Deliberate adoption slowdowns in some jurisdictions
 
-The 5%/year headline figure is a **gross displacement rate** that gets partially offset by absorption. Net effects are lower but still historically unprecedented.
+The 5%/year headline figure is a **gross task automation rate** that gets partially offset by job restructuring and re-deployment. Net effects are lower but still historically unprecedented.
 
-**Historical comparison**: Peak industrial-revolution displacement was ~1-2% annual structural unemployment adjustment. We're assuming 2-4x that rate, sustained for a decade. This is aggressive but not impossible given the generality of cognitive automation.
+**Historical comparison**: Peak industrial-revolution displacement was ~1-2% annual structural unemployment adjustment. We're assuming 2-4x that rate, sustained for a decade. This is aggressive but not impossible given the generality of cognitive automation. The closest modern analogue is perhaps the collapse of manufacturing employment in the US/UK from 1980-2010—but that was spread over 30 years, not 10.
 
 ### Assumption 2: Energy/Compute as Key Factor (Not Master Variable)
 
@@ -71,6 +95,24 @@ Data centre capacity is treated as **one important factor in a bundle**, not the
 - Model efficiency improves ~10x per few years; GW today ≠ GW in 2030
 - DC buildout is fast if policy allows (1→4 GW is years, not decades)
 - The US advantage is real but not as deterministic as the text sometimes implies
+
+**Factor weights vary by country archetype**:
+
+| Archetype | Examples | Most Binding Factors | DC Weight |
+|-----------|----------|---------------------|-----------|
+| **Hegemon** | US, China | Energy, political stability, talent | 30% |
+| **Mid-sized developed** | UK, Germany, Canada, Australia | Regulation, energy price, ability to tap US compute | 20% |
+| **Small open economy** | Singapore, Ireland, Switzerland | Geopolitics, niche positioning, openness | 15% |
+| **Emerging market** | India, Indonesia, Vietnam | Capital markets, infrastructure, talent pipeline | 25% |
+| **Resource-rich** | Saudi Arabia, UAE, Australia | Energy cost, capital, regulatory simplicity | 35% |
+
+The 25/20/20/15/10/10 global weights are a heuristic; in practice, binding constraints differ by country type.
+
+**Interaction effects**: These factors are not additively independent:
+- Regulation × Capital markets: Can we finance DC given NIMBY + ESG constraints?
+- Energy × DC: Cheap power without buildout permits is wasted
+- Talent × Adoption: High-skill workers accelerate deployment; low adoption wastes talent
+- Regulatory environment × Cultural adoption: Regulations that match cultural disposition stick; those that don't get arbitraged
 
 ### Assumption 3: Two Automation Waves
 
