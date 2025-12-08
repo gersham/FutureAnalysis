@@ -221,7 +221,15 @@ Also surviving: [South Korea](regions/asia-pacific/south-korea/README.md), [Spai
 
 **[Russia](regions/europe/russia/README.md):** Sanctions isolation, brain drain, and technology cutoff combine with demographic collapse. Energy revenues sustain the state but cannot power modernisation. Structural decline without the social fracturing visible in Western Europe—repressive capacity maintains order as the economy contracts.
 
-Also declining: [Italy](regions/europe/italy/README.md). Contested (genuinely uncertain): [Ireland](regions/europe/ireland/README.md), [Turkey](regions/europe/turkey/README.md), [Thailand](regions/asia-pacific/thailand/README.md).
+Also declining: [Italy](regions/europe/italy/README.md).
+
+### The Contested
+
+These nations face genuinely uncertain futures—high variance outcomes where the determining factors cannot be confidently forecast.
+
+**[Ireland](regions/europe/ireland/README.md):** The pessimistic thesis holds that Ireland combines maximum economic exposure—American tech headquarters attracted by tax arbitrage, financial services back-office operations—with Dublin's data centre grid at capacity. The optimistic counter: Ireland has been remarkably stable since 1998, the economy is more diversified than recognised (1,800+ multinationals across pharma, medtech, technology), and small nations pivot faster than large ones. Ireland has reinvented itself repeatedly since the 1980s. *Projected GDP: -1% to +2% annually, with significant variance.*
+
+Also contested: [Turkey](regions/europe/turkey/README.md) (geopolitical positioning between blocs creates opportunity and risk), [Thailand](regions/asia-pacific/thailand/README.md) (digital/EV strength offset by structural weaknesses and high household debt).
 
 ### The Fracturing
 
