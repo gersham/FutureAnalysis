@@ -86,15 +86,27 @@ The largest AI infrastructure project in history, announced January 2025:
 - **Major investments**: Amazon AUD $20B, Microsoft AUD $5B
 - Challenges: Grid capacity and electricity costs in Sydney/Melbourne
 
-## Energy Cost Differentials (Validated December 2025)
+## Energy Cost Differentials (Q1 2025)
 
-| Region | Wholesale (vs US) | Industrial (vs US) | Household | Impact |
-|--------|-------------------|--------------------| ----------|--------|
-| United States | 1x (~$48/MWh) | 1x | ~$0.12/kWh | Competitive advantage |
-| Germany | ~2x wholesale | 2-4x industrial | $0.38/kWh (highest in EU) | Driving deindustrialization |
-| EU average | ~2x wholesale | ~2x industrial | ~$0.25/kWh | Significant headwind |
-| China | ~1.5x | Similar to US | — | Closing gap |
-| Australia | 1.5-2x | 1.5-2x | — | Grid constraints emerging |
+See [Industrial Energy Costs](industrial-energy-costs.md) for complete country-by-country breakdown.
+
+### Summary by Tier
+
+| Tier | USD/kWh | Countries | Data Center Viability |
+|------|---------|-----------|----------------------|
+| **Very Low** | <$0.06 | Saudi Arabia, UAE, Malaysia, Vietnam, Argentina, Egypt | Strong advantage |
+| **Low** | $0.06-0.10 | US, China, India, South Korea, Canada (avg), Mexico | Competitive |
+| **Moderate** | $0.10-0.20 | France, Poland, Japan, Taiwan, Spain, Brazil | Viable with other factors |
+| **High** | $0.20-0.30 | Germany, UK, Italy, Ireland, Singapore | Disadvantaged; UK highest in Europe |
+
+### Key Comparisons
+
+| Country | USD/kWh | vs US |
+|---------|---------|-------|
+| United States | $0.08 | 1x |
+| China | $0.09 | 1.1x |
+| Germany | $0.20-0.22 | 2.5-2.75x |
+| UK | $0.22-0.32 | 2.75-4x (highest in Europe) |
 
 **Note**: EU industrial prices are 2-4x higher than main trading partners (US, China) per European Commission 2025 report. This threatens long-term competitiveness of European industry, particularly energy-intensive data centre operations.
 
@@ -117,4 +129,4 @@ The largest AI infrastructure project in history, announced January 2025:
 
 *Sources: IEA Data Center Reports, Visual Capitalist, McKinsey Global Institute, OpenAI/Stargate announcements, Mordor Intelligence, DLA Piper*
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*

@@ -2,12 +2,17 @@
 
 *Structural energy cost disadvantage.*
 
-## Electricity Cost Comparison
+## Industrial Electricity Prices (2025)
 
-| Region | Relative Cost |
-|--------|---------------|
-| United States | 1x (baseline) |
-| Germany | 3-4x |
+| Consumer Type | Germany | US | Multiple |
+|---------------|---------|-----|----------|
+| Medium industry (standard) | €0.18-0.20/kWh ($0.20-0.22) | $0.08 | 2.5-2.75x |
+| Large industry (with exemptions) | €0.12/kWh ($0.13) | $0.08 | 1.6x |
+| Commercial (50 MWh/year) | €0.305/kWh ($0.33) | — | — |
+
+Germany's medium industrial electricity price of **$0.20-0.22/kWh** is slightly above the EU average (~$0.19) and 2.5-2.75x US levels. Large energy-intensive industries receive exemptions (Strompreisbremse) bringing their costs to ~€0.12/kWh—but these exemptions strain public finances and don't extend to medium industry or data centres.
+
+**Note**: Germany is **not** the most expensive in Europe—the UK (89% above EU median) and Ireland (€0.27/kWh) are worse. But Germany's costs remain structurally uncompetitive vs. US and China for energy-intensive activities.
 
 ## Data Centre Implications
 
@@ -32,5 +37,5 @@ Energy cost disadvantage is structural, not cyclical. No politically plausible p
 
 ---
 
-*Source: "The Fracturing" (2025)*
-*Last updated: 2025-12-07*
+*Sources: GlobalPetrolPrices.com, Eurostat, CUBE Concepts*
+*Last updated: 2025-12-10*

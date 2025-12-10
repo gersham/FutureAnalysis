@@ -44,9 +44,11 @@ Malaysia presents a contradictory picture—semiconductor investment boom agains
 
 Malaysia is simultaneously attracting record technology investment while experiencing accelerating Islamization that threatens the human capital base required to execute the semiconductor strategy.
 
-### The Bull Case: Semiconductor Positioning
+### The Bull Case: Semiconductor Positioning + Energy Advantage
 
 The semiconductor foundation is real. E&E exports constitute 40% of total Malaysian exports; back-end semiconductor processing represents 13% of global capacity. Nvidia's $4.3 billion AI data center is under construction. Intel and Infineon expand production. The ARM Holdings $250 million agreement provides chip design blueprints. Prime Minister Anwar targets $100 billion+ in investments across IC design, advanced packaging, and equipment.
+
+**Structural energy advantage**: Malaysia has the **lowest industrial electricity prices in ASEAN** at **$0.03-0.05/kWh**—cheaper than China ($0.09), cheaper than the US ($0.08), and dramatically cheaper than Singapore ($0.23) or the Philippines ($0.18). This energy cost advantage is a genuine structural factor attracting hyperscaler investment and semiconductor manufacturing expansion.
 
 Malaysia benefits from being perceived as neutral in US-China tensions—"a country that is not overly close to either China or the United States." The Financial Times described Malaysia as "the surprise winner from US-China chip wars."
 
@@ -125,6 +127,6 @@ Unlike Thailand (contested due to economic structural weaknesses), Malaysia's co
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Asia-Pacific](../) | [← Global](../../../global/) | [← Home](../../../)

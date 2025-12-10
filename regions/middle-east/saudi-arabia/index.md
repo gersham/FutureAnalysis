@@ -84,7 +84,7 @@ Using the [archetype framework](../../../METHODOLOGY.md), Saudi Arabia is a reso
 | Factor | Saudi Position | Interpretation |
 |--------|----------------|----------------|
 | Compute access | Rapidly improving | Large sovereign DC build‑out and hyperscaler partnerships |
-| Energy cost/reliability | Very strong | Abundant cheap energy; favourable for AI infrastructure |
+| Energy cost/reliability | **Major structural advantage** | Industrial electricity at **$0.048/kWh**—6x cheaper than US ($0.08), 8x cheaper than EU average ($0.19) |
 | Regulatory environment | Centralised | State can move quickly; risk of misallocation |
 | Capital markets | Sovereign‑driven | Massive sovereign wealth; external finance optional |
 | Talent base | Limited domestically | Heavy reliance on expatriates and imported expertise |
@@ -109,6 +109,6 @@ Combining sector exposure and the factor bundle:
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Middle East](../) | [← Global](../../../global/) | [← Home](../../../)

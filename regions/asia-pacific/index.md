@@ -66,6 +66,21 @@ What exists instead is an **ASEAN Dynamo**—a regional economic engine that ben
 
 Asia-Pacific demonstrates what cultural disposition toward technology adoption can achieve. Survey data consistently shows Asian societies adopting AI faster and more enthusiastically than Western counterparts. KPMG's 2025 global study found 93% of Chinese employees use AI at work—versus 58% globally. Chinese citizens are approximately **2-3x as optimistic** about AI's benefits as Americans (83% vs 39%). This cultural reservoir of technological optimism—built through successive waves of manufacturing automation, mobile payments, high-speed rail, and electric vehicles that delivered visible benefits—translates into economic outcomes. While Europe debates regulations and imposes costs its competitors do not bear, Asia deploys AI broadly. The results vary by country—China's state-directed model differs fundamentally from Japan's managed stagnation differs from Australia's resource play—but the regional trajectory is generally more favourable than Europe's.
 
+**Energy costs reinforce ASEAN's manufacturing advantage.** Industrial electricity prices in key ASEAN economies are dramatically lower than developed-world competitors:
+
+| Country | Industrial Electricity | vs US ($0.08) | Assessment |
+|---------|----------------------|---------------|------------|
+| Malaysia | $0.03-0.05/kWh | 0.4-0.6x | **Lowest in ASEAN**; hyperscaler magnet |
+| Vietnam | $0.075/kWh | 0.9x | Below US; manufacturing advantage |
+| Indonesia | $0.10/kWh | 1.25x | Competitive |
+| Thailand | $0.13-0.14/kWh | 1.6-1.75x | Mid-range |
+| Philippines | $0.18/kWh | 2.25x | **Highest in ASEAN**; competitiveness drag |
+| Singapore | $0.23/kWh | 2.9x | High; land constraints compound |
+| China | $0.09/kWh | 1.1x | Near US levels |
+| Japan | $0.15-0.18/kWh | 1.9-2.25x | LNG-dependent |
+
+Malaysia's energy advantage ($0.03-0.05/kWh—cheaper than the US) helps explain why Nvidia chose Malaysia for its $4.3B AI data center despite the Islamization concerns documented in the [Malaysia analysis](malaysia/). The Philippines' energy disadvantage ($0.18/kWh—highest in ASEAN, comparable to European levels) compounds its BPO collapse. See [Global Data: Industrial Energy Costs](../../global/data/industrial-energy-costs.md) for complete breakdown.
+
 [China](china/) pursues aggressive AI adoption regardless of social cost, backed by state capacity to suppress dissent and direct economic restructuring. With **31.9 gigawatts** of data centre capacity—second only to the United States—China possesses the computational infrastructure to remain competitive. However, **up to 80% of recently added capacity sits idle**, suggesting execution challenges beneath the headline numbers. The government announced a **$138 billion AI/quantum fund** in March 2025. The cultural disposition toward technology adoption combines with state-directed investment to produce rapid deployment across sectors. Demographic decline poses genuine headwinds: China faces the most severe demographic contraction of any major economy, and the race between AI productivity gains and workforce shrinkage will determine growth trajectory. The Party may view aggressive automation as essential to maintain economic output despite shrinking workforce—BYD's target of **20,000 humanoid robots by 2026** exemplifies this strategy. The critical risk is Taiwan: any military conflict would completely disrupt China's trajectory through sanctions, supply chain destruction, and potential military losses. The probability is low but non-trivial; the impact if it occurs is catastrophic. China is classified as "Winner" with projected GDP growth of four to six percent annually, contingent on Taiwan status quo continuing.
 
 [Japan](japan/) will manage decline with characteristic dignity. Already the most automated major economy—roughly 400 industrial robots per 10,000 manufacturing workers—Japan is culturally prepared for technological integration in manufacturing but paradoxically conservative about AI in services and governance. Survey data shows only 46 percent AI optimism and 51 percent organisational adoption—the lowest in Asia-Pacific. Risk aversion, consensus requirements, and employment practices that resist worker displacement slow adoption. Demographic decline caps dynamism, but the absence of significant unassimilated populations means AI-driven unemployment will not compound into political crisis. Japan demonstrates that managed decline is a viable trajectory: not catastrophic, not dynamic, but stable. Social cohesion, strong institutions, and cultural acceptance of reduced dynamism provide cushion. Japan is classified as "Survivor" with projected GDP growth of one to two percent annually.
@@ -86,6 +101,6 @@ The regional picture reveals divergent paths within shared cultural advantages. 
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Global](../../global/) | [← Home](../../)

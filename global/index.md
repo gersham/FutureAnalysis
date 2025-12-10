@@ -28,7 +28,8 @@ Current known facts and metrics.
 
 | File | Contents |
 |------|----------|
-| [Data Center Capacity](data/data-center-capacity.md) | Installed GW by country, 2030 projections, energy costs |
+| [Data Center Capacity](data/data-center-capacity.md) | Installed GW by country, 2030 projections |
+| [Industrial Energy Costs](data/industrial-energy-costs.md) | Electricity prices by country, competitiveness tiers |
 | [AI Adoption Rates](data/ai-adoption-rates.md) | Organizational adoption and citizen optimism by country |
 | [Robotics Deployment](data/robotics-deployment.md) | Current pilots, technical parameters, market projections |
 | [Financial Services Exposure](data/financial-services-exposure.md) | GDP share by country, vulnerable hubs |
@@ -93,6 +94,18 @@ These flows link country-level stories into one system: distress in service-heav
 
 See canonical figures and projections in [Global Data: Data Center Capacity](data/data-center-capacity.md). Headline: the United States leads by a wide margin; Europe trails on both cost and capacity; US+China account for the majority of global capacity.
 
+### Industrial Energy Costs (2025)
+
+Energy costs are a binding constraint for AI infrastructure. See [Global Data: Industrial Energy Costs](data/industrial-energy-costs.md) for complete country-by-country breakdown.
+
+| Tier | Industrial Price | Countries | AI Infrastructure Viability |
+|------|-----------------|-----------|---------------------------|
+| **Strong Advantage** | <$0.08/kWh | US, China, Saudi Arabia, UAE, Malaysia, Vietnam | Can compete for hyperscaler investment |
+| **Competitive** | $0.08-0.15/kWh | India, France, Poland, Taiwan, Spain, Mexico | Viable with other advantages |
+| **Disadvantaged** | $0.15-0.30/kWh | Germany, UK, Ireland, Italy, Japan, Singapore | Requires subsidies; structural headwind |
+
+**Key finding**: The UK has the highest industrial electricity prices in Europe ($0.22-0.32/kWh, 89% above EU median). Energy-intensive UK industries have contracted 33% since 2021. The Gulf states (Saudi Arabia $0.048, UAE $0.059) have structural advantages that make their AI infrastructure ambitions credible despite talent constraints.
+
 ### AI Investment Gap (2024)
 
 | Metric | US | China | Gap |
@@ -148,6 +161,6 @@ See [Winners and Losers](analysis/winners-and-losers.md) for full framework and 
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Home](../)

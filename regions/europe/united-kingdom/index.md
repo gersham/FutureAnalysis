@@ -68,7 +68,7 @@ Using the [archetype framework](../../../METHODOLOGY.md), the UK is a "mid-sized
 | Factor | UK Position | Interpretation |
 |--------|-------------|----------------|
 | Compute access | Below average | Limited domestic capacity; reliant on US‑hosted compute |
-| Energy cost | Weak | Electricity 3–4x US levels; constrains data centre build‑out |
+| Energy cost | **Highest in Europe** | Industrial electricity $0.22-0.32/kWh (17-26p/kWh); 89% above EU14 median; 2.5-4x US levels |
 | Regulatory environment | Mixed | Post‑Brexit divergence creates friction without clear AI advantage |
 | Capital markets | Strong | Deep financial markets; can fund adaptation if incentives align |
 | Talent base | Moderate | Solid technical and professional base; brain drain risk if outlook worsens |
@@ -79,7 +79,7 @@ Using the [archetype framework](../../../METHODOLOGY.md), the UK is a "mid-sized
 ### Step 3: Binding Constraints
 
 For the UK specifically:
-1. **Energy cost** (electricity 3-4x US levels): Cannot compete on data centre build-out
+1. **Energy cost** ([highest in Europe](data/economic-structure.md)): At $0.22-0.32/kWh (17-26p/kWh) vs US $0.08/kWh, the UK is 89% above the EU14 median and 2.5-4x US levels. A 100 MW data centre facility pays ~$120-200M/year more in electricity than a US competitor—a structural barrier, not a policy choice. Energy-intensive UK industries have contracted 33% since 2021.
 2. **Regulatory uncertainty**: Post-Brexit regulatory divergence creates friction without clear AI advantage
 3. **Financial services concentration**: Single point of failure; 15-20% of GDP, higher share of tax revenue
 4. **No domestic AI champions**: Dependent on US/Chinese technology
@@ -220,6 +220,6 @@ Outcomes diverge significantly based on which path materialises. The central cas
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Europe](../) | [← Global](../../../global/) | [← Home](../../../)

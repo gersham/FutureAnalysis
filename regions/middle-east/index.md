@@ -29,6 +29,18 @@ The Middle East presents the starkest divergence in trajectories of any region:
 
 The Middle East bifurcates sharply between petrostates executing aggressive AI diversification strategies and those trapped by sanctions, ideology, or conflict. The Gulf states—Saudi Arabia and UAE—are attempting the most ambitious economic pivots in modern history: converting oil wealth into AI infrastructure before petroleum becomes obsolete. Israel maintains its technology position despite existential conflict. Iran collapses under sanctions, mismanagement, and isolation.
 
+**Energy costs provide the Gulf's structural advantage.** The Gulf states possess the cheapest industrial electricity in the world—a decisive factor for energy-intensive AI infrastructure:
+
+| Country | Industrial Electricity | vs US ($0.08) | Assessment |
+|---------|----------------------|---------------|------------|
+| Saudi Arabia | $0.048/kWh | 0.6x | **6x cheaper than US**; hyperscaler magnet |
+| UAE | $0.059/kWh | 0.7x | Stable, subsidized |
+| Egypt | $0.036-0.04/kWh | 0.5x | Low but grid/fiscal constraints |
+| Israel | $0.11/kWh | 1.4x | Import-dependent; moderate |
+| Iran | $0.002/kWh | — | Extreme subsidies; irrelevant due to sanctions/blackouts |
+
+At $0.048/kWh, Saudi Arabia pays **one-sixth** what UK industrial users pay ($0.22-0.32). This isn't marginal advantage—it's structural. A 100 MW data center in Saudi Arabia saves ~$100M/year in electricity costs versus a UK equivalent. Combined with sovereign wealth, state coordination, and hyperscaler partnerships, the Gulf's energy advantage makes their AI infrastructure ambitions credible despite talent constraints. See [Global Data: Industrial Energy Costs](../../global/data/industrial-energy-costs.md) for complete breakdown.
+
 [Saudi Arabia](saudi-arabia/) has launched "Project Transcendence"—a $100 billion AI initiative that represents the largest non-US AI infrastructure investment globally. With $14.9 billion announced at LEAP 2025 alone, partnerships with AWS ($5B), Google ($10B), Microsoft ($2.1B), and Oracle ($1.5B), and 42 new data centers planned adding 2.2 GW of capacity, Saudi Arabia is executing Vision 2030's pivot from oil dependency with unprecedented urgency. The question is whether infrastructure can translate into capability—building data centers is easier than building AI talent.
 
 [UAE](uae/) has invested $148 billion in AI domestically and abroad since 2024, including a $1.4 trillion 10-year investment framework with the United States targeting AI, semiconductors, and quantum computing. Abu Dhabi's Stargate project—a 1 GW AI supercomputing cluster developed with OpenAI—represents sovereign AI ambition at scale. The deal includes ChatGPT Plus subscriptions for the entire UAE population. With 4.8% GDP growth projected for 2025 and non-oil GDP at 5.3%, the diversification is already visible in the numbers.
@@ -49,6 +61,6 @@ The Middle East bifurcates sharply between petrostates executing aggressive AI d
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Global](../../global/) | [← Home](../../)

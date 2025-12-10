@@ -41,7 +41,9 @@ The [demographic profile](data/demographic-profile.md) compounds this advantage.
 
 The [ideological independence](trends/ideological-independence.md) that distinguishes Polish governance from Western European paralysis may be the single most important factor. Germany cannot address manufacturing decline because ideological commitment to the Energiewende prevents corrective action. France cannot restructure because ideological commitments prevent honest assessment of banlieue dynamics. The UK cannot control immigration because ideological commitments prevent enforcement. Poland retained policy flexibility because it never adopted these constraints. Polish governance focuses on economic growth rather than symbolic goods, approaches energy security pragmatically rather than ideologically, maintains restrictive immigration policy, and engages selectively with EU integration rather than pursuing it as an end in itself.
 
-The [energy diversification](trends/energy-diversification.md) underway demonstrates this pragmatism in action. Poland historically depended heavily on coal and Russian gas—neither sustainable. Since 2022, Poland has aggressively diversified: the Swinoujscie LNG terminal is operational and expanded, the Baltic Pipe brings Norwegian gas, nuclear development proceeds, and offshore wind is in development. Poland will not achieve American energy costs, but it is achieving competitive costs relative to Germany while improving energy security. Poland may become an alternative destination for European data centre investment as Germany's Frankfurt hub remains constrained.
+The [energy diversification](trends/energy-diversification.md) underway demonstrates this pragmatism in action. Poland historically depended heavily on coal and Russian gas—neither sustainable. Since 2022, Poland has aggressively diversified: the Swinoujscie LNG terminal is operational and expanded, the Baltic Pipe brings Norwegian gas, nuclear development proceeds, and offshore wind is in development.
+
+**Energy cost reality**: Poland's current industrial electricity price of **$0.14-0.21/kWh** (€0.13-0.21/kWh) is actually **below the EU average** despite high tax components (35% of the electricity price). This places Poland in the "Competitive" tier globally—comparable to France and significantly better than Germany ($0.23), Ireland ($0.27), or the UK ($0.40+). The coal transition is ongoing but managed, with diversification toward nuclear, offshore wind, and Norwegian gas via Baltic Pipe positioning Poland for stable or improving energy competitiveness. Poland's energy position is a genuine advantage within Europe, not a liability.
 
 The [outlook](analysis/outlook.md) projects continued manufacturing growth in the near term as nearshoring from Germany and Western Europe accelerates, with Polish GDP growth exceeding the eurozone average by four or more percentage points annually. The mid term sees Poland emerging as a regional hub, with Warsaw becoming more attractive than Berlin for certain functions. By the late term, Poland may stand as the healthy core of a diminished Europe—standard of living convergence narrowing the historic gap with Western Europe not through Polish acceleration but through Western European decline.
 
@@ -58,6 +60,6 @@ This track record should inform confidence assessments. Poland's outperformance 
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Europe](../) | [← Global](../../../global/) | [← Home](../../../)

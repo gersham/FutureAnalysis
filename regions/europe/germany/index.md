@@ -34,7 +34,7 @@ Germany has entered a period of **structural stagnation**—marked by multiple y
 
 Germany faces genuine structural collapse. This assessment carries high confidence because multiple structural factors align and no plausible reversal path exists within the forecast period.
 
-The [energy crisis](data/energy-crisis.md) sits at the foundation of Germany's predicament. Electricity costs run **multiples of US levels**—a structural disadvantage, not a cyclical one. The nuclear phase-out, combined with the loss of cheap pipeline gas and the accumulated costs of the Energiewende, have created an energy cost structure incompatible with competitive mass manufacturing. The Frankfurt data centre hub, constrained by power availability, faces limits on expansion.
+The [energy crisis](data/energy-crisis.md) sits at the foundation of Germany's predicament. Industrial electricity costs at **$0.20-0.22/kWh** (€0.18-0.20/kWh)—2.5-2.75x US levels ($0.08/kWh)—represent a structural disadvantage, not a cyclical one. Large industrial users with exemptions pay less (~€0.12/kWh), but medium industry faces the full burden. The nuclear phase-out, combined with the loss of cheap pipeline gas and the accumulated costs of the Energiewende, have created an energy cost structure incompatible with competitive mass manufacturing. The Frankfurt data centre hub, constrained by power availability and costs, faces limits on expansion.
 
 **Critical comparison:** While Germany struggles with energy costs, US energy independence enables massive capital investment in AI infrastructure. Germany cannot compete for this energy-intensive capital.
 
@@ -85,10 +85,10 @@ Relative to the 5% scenario baseline, Germany is less exposed to services‑only
 
 Using the [archetype framework](../../../METHODOLOGY.md), Germany is a "mid‑sized developed" economy:
 
-| Factor | Germany’s Position | Interpretation |
+| Factor | Germany's Position | Interpretation |
 |--------|--------------------|----------------|
 | Compute access | Below average | Limited domestic hyperscale; dependent on US and intra‑EU capacity |
-| Energy cost | Weak | Power prices structurally above US and many peers; constrains data centres and heavy industry |
+| Energy cost | **Structurally disadvantaged** | Industrial power at **$0.20-0.22/kWh** (2.5-2.75x US); constrains data centres and heavy industry |
 | Regulatory environment | Mixed | Strong rule of law; heavy climate/industrial regulation; slow permitting |
 | Capital markets | Moderate | Bank‑centric finance; less dynamic than US/UK, but deep enough to fund defensive adaptation |
 | Talent base | Strong but aging | High engineering competence; demographic headwinds; brain drain risk |
@@ -115,6 +115,6 @@ Combining sector exposure with the factor bundle:
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Europe](../) | [← Global](../../../global/) | [← Home](../../../)

@@ -39,7 +39,23 @@ The European crisis is not forecast—it is present:
 
 ---
 
-Europe has adopted a stringent precautionary approach that imposes meaningful costs on deployment speed. Three structural dynamics compound the economic challenges: a [defence dependency](trends/defence-dependency.md) on the United States that cannot be quickly unwound, a [welfare‑defence tradeoff](trends/welfare-defence-tradeoff.md) that creates a fiscal trap with no easy exit, and [euro fragmentation risk](trends/euro-fragmentation-risk.md) that persists without resolution. The EU AI Act, the most comprehensive AI regulation globally, adds compliance burdens that American and Chinese competitors do not bear. Regulation does not stop AI—it risks shifting value capture to jurisdictions with lower deployment friction. Simultaneously, elevated energy costs make large‑scale AI infrastructure expansion uncompetitive in key hubs. See [Global Data: Data Center Capacity](../../global/data/data-center-capacity.md) for canonical capacity and projections.
+Europe has adopted a stringent precautionary approach that imposes meaningful costs on deployment speed. Three structural dynamics compound the economic challenges: a [defence dependency](trends/defence-dependency.md) on the United States that cannot be quickly unwound, a [welfare‑defence tradeoff](trends/welfare-defence-tradeoff.md) that creates a fiscal trap with no easy exit, and [euro fragmentation risk](trends/euro-fragmentation-risk.md) that persists without resolution. The EU AI Act, the most comprehensive AI regulation globally, adds compliance burdens that American and Chinese competitors do not bear. Regulation does not stop AI—it risks shifting value capture to jurisdictions with lower deployment friction.
+
+**Energy costs compound the competitiveness gap.** Industrial electricity prices across Europe remain 2-4x US levels, with sharp divergence within the continent:
+
+| Country | Industrial Electricity | vs US ($0.08) | Assessment |
+|---------|----------------------|---------------|------------|
+| UK | $0.22-0.32/kWh | 2.75-4x | **Highest in Europe** (89% above EU median) |
+| Ireland | $0.27/kWh | 3.4x | Grid at capacity |
+| Germany | $0.20-0.22/kWh | 2.5-2.75x | Large users get exemptions (~$0.13) |
+| Italy | $0.23/kWh | 2.9x | High |
+| France | $0.17/kWh | 2.1x | Nuclear advantage |
+| Poland | $0.14-0.21/kWh | 1.75-2.6x | Below EU average; improving |
+| Spain/Portugal | $0.12-0.16/kWh | 1.5-2x | Renewable expansion |
+
+The UK's position is particularly severe—energy-intensive UK industries have contracted **33% since 2021**, the steepest decline since records began in 1990. This energy cost divergence explains why Poland emerges as a "Winner" while Germany and UK face structural decline: Poland's below-average energy costs and improving trajectory contrast sharply with the permanent structural disadvantage in the West.
+
+See [Global Data: Industrial Energy Costs](../../global/data/industrial-energy-costs.md) for complete country-by-country breakdown and [Data Center Capacity](../../global/data/data-center-capacity.md) for infrastructure projections.
 
 Within this continental decline, outcomes diverge sharply. Two nations face fracturing: the [United Kingdom](united-kingdom/) and [France](france/). Two face managed decline: [Germany](germany/) and [Switzerland](switzerland/). One emerges as a surprising winner: [Poland](poland/). And one—[Ireland](ireland/)—presents a contested case where confident prediction is not warranted.
 
@@ -78,6 +94,6 @@ These channels do not erase the central case of structural pressure and relative
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
 
 [← Global](../../global/) | [← Home](../../)
