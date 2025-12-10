@@ -6,9 +6,10 @@ Read [CLAUDE.md](CLAUDE.md) for full instructions on working with this repositor
 
 - **What this is**: Scenario analysis for 2026-2036 AI-driven economic transformation
 - **Epistemic status**: Scenario exercise, not forecast; rhetorical confidence ≠ epistemic certainty
-- **Key files**: [README.md](README.md) (main essay), [METHODOLOGY.md](METHODOLOGY.md) (model and assumptions)
+- **Key files**: [index.md](index.md) (main essay), [METHODOLOGY.md](METHODOLOGY.md) (model and assumptions)
+- **Live site**: https://gersham.github.io/FutureAnalysis/
 - **Structure**: Global → Regional → Country, each with data/trends/analysis layers
-- **Worked example**: [UK](regions/europe/united-kingdom/README.md) shows full methodology application
+- **Worked example**: [UK](regions/europe/united-kingdom/) shows full methodology application
 
 ## Before Making Changes
 

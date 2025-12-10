@@ -146,4 +146,4 @@ For forecasting purposes: assume European defence remains inadequate for autonom
 
 *Last updated: 2025-12-08*
 
-[← Europe](../README.md)
+[← Europe](../)

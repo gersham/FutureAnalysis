@@ -91,4 +91,4 @@ If the spheres framework represents actual US strategic thinking, the timeline f
 
 *Last updated: 2025-12-10*
 
-[← Global Trends](../README.md)
+[← Global Trends](../)

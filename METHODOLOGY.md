@@ -203,7 +203,7 @@ Country profiles use **qualitative growth outlooks** (High / Moderate / Low / Ne
 | **Trends** | What patterns are in motion? | Observable trajectories, emerging dynamics |
 | **Analysis** | What do we suppose will happen? | Predictions, scenarios, risk assessments |
 
-Each geographic level (global, regional, country) maintains these three layers. The README.md at each level synthesizes them into a coherent narrative.
+Each geographic level (global, regional, country) maintains these three layers. The `index.md` at each level synthesizes them into a coherent narrative.
 
 ### Inheritance
 
@@ -285,7 +285,7 @@ When new information emerges:
 1. **Data**: Add to relevant `data/` folder with source and date
 2. **Trends**: Update or add to `trends/` folder; note trajectory changes
 3. **Analysis**: Revise predictions in `analysis/` folder; update confidence if warranted
-4. **Synthesis**: Update README.md to reflect new understanding
+4. **Synthesis**: Update index.md to reflect new understanding
 5. **Changelog**: Record what changed and why in CHANGELOG.md
 
 ---

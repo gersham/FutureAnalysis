@@ -104,4 +104,4 @@ The structural dependency is not merely a matter of spending or political will. 
 
 *Last updated: 2025-12-08*
 
-[← Europe](../README.md)
+[← Europe](../)

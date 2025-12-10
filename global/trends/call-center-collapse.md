@@ -164,4 +164,4 @@ The result is the same. The timeline is 3-5 years. The reduction is total.
 
 *Last updated: 2025-12-08*
 
-[← Trends](../README.md) | [← Global](../../README.md) | [← Home](../../../README.md)
+[← Trends](../) | [← Global](../../) | [← Home](../../../)

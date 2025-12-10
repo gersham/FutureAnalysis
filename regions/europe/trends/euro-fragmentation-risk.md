@@ -124,4 +124,4 @@ The outcome depends heavily on political choices in Germany and France over the 
 
 *Last updated: 2025-12-10*
 
-[← Europe](../README.md)
+[← Europe](../)

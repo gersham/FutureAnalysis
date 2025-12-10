@@ -233,4 +233,4 @@ The demographic dividend becomes demographic debt. The development path that wor
 
 *Last updated: 2025-12-08*
 
-[← Trends](../README.md) | [← Global](../../README.md) | [← Home](../../../README.md)
+[← Trends](../) | [← Global](../../) | [← Home](../../../)

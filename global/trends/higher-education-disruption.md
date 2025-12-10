@@ -254,4 +254,4 @@ Higher education contraction is faster than financial services because:
 
 *Last updated: 2025-12-08*
 
-[← Trends](../README.md) | [← Global](../../README.md) | [← Home](../../../README.md)
+[← Trends](../) | [← Global](../../) | [← Home](../../../)

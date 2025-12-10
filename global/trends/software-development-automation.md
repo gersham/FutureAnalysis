@@ -243,7 +243,7 @@ The offshore software development model (build in India/Ukraine/Poland for cost 
 - Onshore developers with AI beat offshore teams without AI
 - Companies repatriate development as automation makes labor cost irrelevant
 
-India's IT services sector—employing 5 million directly and supporting 15 million more—faces existential disruption. This is discussed in [India's country analysis](../../regions/asia-pacific/india/README.md).
+India's IT services sector—employing 5 million directly and supporting 15 million more—faces existential disruption. This is discussed in [India's country analysis](../../regions/asia-pacific/india/).
 
 ---
 
@@ -288,4 +288,4 @@ The question is not whether this happens, but how fast.
 
 *Last updated: 2025-12-08*
 
-[← Trends](../README.md) | [← Global](../../README.md) | [← Home](../../../README.md)
+[← Trends](../) | [← Global](../../) | [← Home](../../../)

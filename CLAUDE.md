@@ -4,7 +4,7 @@ This repository contains structured predictions and analysis for the decade 2026
 
 ## Purpose
 
-Personal edification and planning. Actionable predictions organized by region and country with inherited context flowing from global → regional → country levels. Each README.md is an **essay-style synthesis** of its underlying data, trends, and analysis.
+Personal edification and planning. Actionable predictions organized by region and country with inherited context flowing from global → regional → country levels. Each `index.md` is an **essay-style synthesis** of its underlying data, trends, and analysis.
 
 ## Epistemic Status
 
@@ -13,24 +13,27 @@ Personal edification and planning. Actionable predictions organized by region an
 ## Repository Structure
 
 ```
-/README.md                          # Root synthesis ("The Fracturing" as essay)
+/README.md                          # GitHub landing page (links to site)
+/index.md                           # Main thesis essay ("The Fracturing")
 /METHODOLOGY.md                     # Analytical framework, assumptions, model
 /CHANGELOG.md                       # Update tracking
 /CLAUDE.md                          # This file - agent instructions
 /AGENTS.md                          # Points agents to this file
 /global/
-    README.md                       # Global synthesis
+    index.md                        # Global synthesis
     data/                           # Known facts today
     trends/                         # Observable patterns
     analysis/                       # Suppositions and predictions
 /regions/{region}/
-    README.md                       # Regional essay synthesis
+    index.md                        # Regional essay synthesis
     {country}/
-        README.md                   # Country essay synthesis
+        index.md                    # Country essay synthesis
         data/                       # Country-specific data
         trends/                     # Country-specific trends
         analysis/                   # Country-specific analysis
 ```
+
+**Live site**: https://gersham.github.io/FutureAnalysis/
 
 ## Content Model
 
@@ -42,9 +45,9 @@ Personal edification and planning. Actionable predictions organized by region an
 | **trends/** | Observable patterns, trajectories in motion | `call-center-collapse.md`, `software-development-automation.md` |
 | **analysis/** | Suppositions, predictions, implications | `outlook.md`, `actionable-implications.md` |
 
-### README.md Role
+### index.md Role
 
-Each README.md is the **substantive essay synthesis** for that level:
+Each `index.md` is the **substantive essay synthesis** for that level:
 - Links to underlying data/, trends/, analysis/ files
 - Written in analytical essay format
 - Frontmatter with title, type: synthesis, region/country, outlook, growth_outlook (qualitative), confidence, tags, last_updated
@@ -53,44 +56,44 @@ Each README.md is the **substantive essay synthesis** for that level:
 
 | Region | Countries | Outlook |
 |--------|-----------|---------|
-| **North America** | [United States](regions/north-america/united-states/README.md) | Winner |
-| | [Canada](regions/north-america/canada/README.md) | Restructured |
-| | [Mexico](regions/north-america/mexico/README.md) | Contested |
-| **Europe** | [United Kingdom](regions/europe/united-kingdom/README.md) | Fracturing |
-| | [Germany](regions/europe/germany/README.md) | Declining |
-| | [France](regions/europe/france/README.md) | Fracturing |
-| | [Poland](regions/europe/poland/README.md) | Winner |
-| | [Ireland](regions/europe/ireland/README.md) | Contested |
-| | [Switzerland](regions/europe/switzerland/README.md) | Declining |
-| | [Netherlands](regions/europe/netherlands/README.md) | Survivor |
-| | [Russia](regions/europe/russia/README.md) | Declining |
-| | [Italy](regions/europe/italy/README.md) | Declining |
-| | [Spain](regions/europe/spain/README.md) | Survivor |
-| | [Portugal](regions/europe/portugal/README.md) | Survivor |
-| | [Turkey](regions/europe/turkey/README.md) | Contested |
-| **Asia-Pacific** | [China](regions/asia-pacific/china/README.md) | Winner |
-| | [India](regions/asia-pacific/india/README.md) | Contested |
-| | [Japan](regions/asia-pacific/japan/README.md) | Survivor |
-| | [Taiwan](regions/asia-pacific/taiwan/README.md) | Contested |
-| | [Singapore](regions/asia-pacific/singapore/README.md) | Survivor |
-| | [Australia](regions/asia-pacific/australia/README.md) | Winner (Contingent) |
-| | [South Korea](regions/asia-pacific/south-korea/README.md) | Survivor |
-| | [Indonesia](regions/asia-pacific/indonesia/README.md) | Survivor |
-| | [Vietnam](regions/asia-pacific/vietnam/README.md) | Contested |
-| | [Malaysia](regions/asia-pacific/malaysia/README.md) | Contested |
-| | [Philippines](regions/asia-pacific/philippines/README.md) | Declining |
-| | [Thailand](regions/asia-pacific/thailand/README.md) | Contested |
-| | [Pakistan](regions/asia-pacific/pakistan/README.md) | Declining |
-| **Middle East** | [Saudi Arabia](regions/middle-east/saudi-arabia/README.md) | Winner |
-| | [UAE](regions/middle-east/uae/README.md) | Winner |
-| | [Israel](regions/middle-east/israel/README.md) | Survivor (War-contingent) |
-| | [Egypt](regions/middle-east/egypt/README.md) | Declining |
-| | [Iran](regions/middle-east/iran/README.md) | Collapsing |
-| **Africa** | [Nigeria](regions/africa/nigeria/README.md) | Declining |
-| | [South Africa](regions/africa/south-africa/README.md) | Declining |
-| **South America** | [Brazil](regions/south-america/brazil/README.md) | Survivor |
-| | [Argentina](regions/south-america/argentina/README.md) | Restructuring |
-| | [Venezuela](regions/south-america/venezuela/README.md) | Collapsing |
+| **North America** | [United States](regions/north-america/united-states/) | Winner |
+| | [Canada](regions/north-america/canada/) | Restructured |
+| | [Mexico](regions/north-america/mexico/) | Contested |
+| **Europe** | [United Kingdom](regions/europe/united-kingdom/) | Fracturing |
+| | [Germany](regions/europe/germany/) | Declining |
+| | [France](regions/europe/france/) | Fracturing |
+| | [Poland](regions/europe/poland/) | Winner |
+| | [Ireland](regions/europe/ireland/) | Contested |
+| | [Switzerland](regions/europe/switzerland/) | Declining |
+| | [Netherlands](regions/europe/netherlands/) | Survivor |
+| | [Russia](regions/europe/russia/) | Declining |
+| | [Italy](regions/europe/italy/) | Declining |
+| | [Spain](regions/europe/spain/) | Survivor |
+| | [Portugal](regions/europe/portugal/) | Survivor |
+| | [Turkey](regions/europe/turkey/) | Contested |
+| **Asia-Pacific** | [China](regions/asia-pacific/china/) | Winner |
+| | [India](regions/asia-pacific/india/) | Contested |
+| | [Japan](regions/asia-pacific/japan/) | Survivor |
+| | [Taiwan](regions/asia-pacific/taiwan/) | Contested |
+| | [Singapore](regions/asia-pacific/singapore/) | Survivor |
+| | [Australia](regions/asia-pacific/australia/) | Winner (Contingent) |
+| | [South Korea](regions/asia-pacific/south-korea/) | Survivor |
+| | [Indonesia](regions/asia-pacific/indonesia/) | Survivor |
+| | [Vietnam](regions/asia-pacific/vietnam/) | Contested |
+| | [Malaysia](regions/asia-pacific/malaysia/) | Contested |
+| | [Philippines](regions/asia-pacific/philippines/) | Declining |
+| | [Thailand](regions/asia-pacific/thailand/) | Contested |
+| | [Pakistan](regions/asia-pacific/pakistan/) | Declining |
+| **Middle East** | [Saudi Arabia](regions/middle-east/saudi-arabia/) | Winner |
+| | [UAE](regions/middle-east/uae/) | Winner |
+| | [Israel](regions/middle-east/israel/) | Survivor (War-contingent) |
+| | [Egypt](regions/middle-east/egypt/) | Declining |
+| | [Iran](regions/middle-east/iran/) | Collapsing |
+| **Africa** | [Nigeria](regions/africa/nigeria/) | Declining |
+| | [South Africa](regions/africa/south-africa/) | Declining |
+| **South America** | [Brazil](regions/south-america/brazil/) | Survivor |
+| | [Argentina](regions/south-america/argentina/) | Restructuring |
+| | [Venezuela](regions/south-america/venezuela/) | Collapsing |
 
 ## Outlook Categories
 
@@ -108,9 +111,9 @@ Each README.md is the **substantive essay synthesis** for that level:
 
 | Document | Purpose |
 |----------|---------|
-| [README.md](README.md) | Main thesis essay |
+| [index.md](index.md) | Main thesis essay |
 | [METHODOLOGY.md](METHODOLOGY.md) | Explicit assumptions, displacement model, factor weights, scenario structure |
-| [UK Example](regions/europe/united-kingdom/README.md) | Fully worked example showing methodology applied to a specific country |
+| [UK Example](regions/europe/united-kingdom/) | Fully worked example showing methodology applied to a specific country |
 
 ## Prediction Format
 
@@ -135,7 +138,7 @@ Each README.md is the **substantive essay synthesis** for that level:
 - Direct and clear
 
 ### Essay Format
-- README.md files are substantive essays, not navigation pages
+- `index.md` files are substantive essays, not navigation pages
 - Each paragraph links to relevant underlying files
 - Synthesis flows: data → trends → analysis → implications
 
@@ -149,7 +152,7 @@ Each README.md is the **substantive essay synthesis** for that level:
 1. Add evidence to appropriate `data/` folder
 2. Update relevant `trends/` if patterns shift
 3. Revise `analysis/` predictions as warranted
-4. Update README.md synthesis at affected levels
+4. Update index.md synthesis at affected levels
 5. Record change in CHANGELOG.md
 
 ## Checkpoint Process
