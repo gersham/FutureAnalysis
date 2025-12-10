@@ -1,3 +1,8 @@
 title: "The Fracturing"
 description: "Western Civilisation and the Coming Decade of Transformation, 2026-2036"
 theme: jekyll-theme-minimal
+readme_index:
+  enabled: true
+  remove_originals: false
+plugins:
+  - jekyll-readme-index
