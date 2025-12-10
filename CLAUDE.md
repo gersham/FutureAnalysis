@@ -152,6 +152,68 @@ Each README.md is the **substantive essay synthesis** for that level:
 4. Update README.md synthesis at affected levels
 5. Record change in CHANGELOG.md
 
+## Checkpoint Process
+
+When significant events occur that may validate or invalidate the thesis, run a **checkpoint analysis**:
+
+### 1. Identify the Signal
+
+- What happened? (Be specific: document, statement, event, data release)
+- Source quality? (Official document > credible reporting > rumour)
+- Date and verification status
+
+### 2. Map to Thesis Claims
+
+For each relevant thesis claim:
+- What did we predict?
+- What does this signal suggest?
+- Alignment: Strong / Moderate / Weak / Contradictory
+
+### 3. Rate the Checkpoint (1-10)
+
+| Dimension | Weight | Question |
+|-----------|--------|----------|
+| **Directional alignment** | 25% | Does signal move in predicted direction? |
+| **Mechanism match** | 25% | Does the *why* match our reasoning, not just the *what*? |
+| **Timeline fit** | 15% | Is timing consistent with forecast window? |
+| **Specificity** | 20% | How concrete/verified is the signal? |
+| **Falsification risk** | 15% | Could this reverse or be walked back? |
+
+**Score interpretation:**
+- 8-10: Strong validation—consider upgrading confidence
+- 5-7: Partial validation—meaningful signal, watch for confirmation
+- 3-4: Weak signal—note but don't adjust
+- 1-2: Noise or contradictory—investigate potential invalidation
+
+### 4. Update Repository
+
+**For validating signals:**
+- Add to relevant `trends/` file with checkpoint section
+- Update `CHANGELOG.md` with checkpoint entry
+- Note what would upgrade to full validation
+- Note what would invalidate
+
+**For invalidating signals:**
+- Document the contradiction
+- Assess whether to revise prediction or wait for more data
+- If revising: update outlook, confidence, and reasoning
+- Record in CHANGELOG.md with "Prediction Status Update"
+
+### 5. Set Tracking Indicators
+
+Define specific signals to watch for:
+- **Confirming signals**: What would strengthen the checkpoint?
+- **Disconfirming signals**: What would weaken or reverse it?
+- **Timeline**: When should we re-evaluate?
+
+### Checkpoint Log
+
+Major checkpoints are recorded in `CHANGELOG.md`. Current checkpoints:
+
+| Date | Event | Rating | Status |
+|------|-------|--------|--------|
+| 2025-12-10 | US NSS spheres-of-influence language | 7/10 | Partial validation—tracking |
+
 ### Bubble-Up Rule
 
 **Changes must propagate upward when relevant.** After modifying country-level content:
@@ -176,4 +238,4 @@ Be skeptical of AI-related data more than 12 months old. The field moves fast; s
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
