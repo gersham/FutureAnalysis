@@ -18,24 +18,41 @@ The December 2025 US National Security Strategy introduced explicit spheres-of-i
 ### Assessment
 **This represents the first external checkpoint partially validating the repository's thesis on European decline and US security umbrella fraying.** The shift from "wavering commitment" to "explicit spheres-of-influence framework" is significant if confirmed.
 
+**Checkpoint Rating**: 7/10 (Partial Validation)
+
 **Confidence**: Low-Moderate. Published NSS language is real; C5 proposal specifically comes from unverified leaked version.
+
+### Framework Evolution: Geopolitical Weight as Distinct Axis
+
+The C5 proposal revealed a blind spot in our methodology: we analyzed countries primarily through economic/AI-displacement lenses, but great power status operates on different criteria (nuclear arsenal, population mass, sphere control, alignment options).
+
+**Key insight**: Economic trajectory and geopolitical weight are partially independent. Russia can be 31st in AI capability while holding the world's largest nuclear arsenal. India can face IT services collapse while being the indispensable swing vote between blocs.
+
+**The C5 structure:**
+- **US-Japan**: Western anchor
+- **China-Russia**: Eurasian anchor (Russia as junior partner with nukes)
+- **India**: The tiebreaker—only major power with genuine bloc choice
 
 ### Added
 - `global/trends/us-strategic-reorientation.md` — Documents NSS signals and tracking indicators
 - `regions/europe/trends/euro-fragmentation-risk.md` — TARGET2 mechanism, ECB dilemma, east-west divide
 - European financial stress indicators to `global/data/current-indicators.md`
+- **Assumption 4 to METHODOLOGY.md**: Geopolitical weight as distinct axis from economic trajectory
 
 ### Changed
 - Updated `regions/europe/trends/defence-dependency.md` with December 2025 NSS checkpoint
 - Updated Germany README with December 2024 PMI data (42.5) and AfD polling (25-26%)
 - Updated France README with verified fiscal data (5.8% deficit, 116% debt, 80-90 bps OAT-Bund spread)
 - Linked euro-fragmentation-risk.md from Europe regional README
+- **Russia README**: Added dual outlook (Economic: Declining / Geopolitical: Elevated); nuclear factor analysis
+- **India README**: Added dual outlook (Economic: Contested / Geopolitical: Elevated); tiebreaker analysis
 
 ### Tracking
 Watch for confirming/disconfirming signals Q1-Q2 2026:
 - C5 or similar forum announced
 - NATO burden-sharing demands escalate
 - US-Russia bilateral engagement on spheres
+- India-US or India-China significant alignment shift
 - Or: NSS walked back, NATO reaffirmed
 
 ---

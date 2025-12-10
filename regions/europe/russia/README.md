@@ -1,19 +1,20 @@
 title: "Russia: 2026-2036"
 type: synthesis
-outlook: Declining
+outlook: Declining (Economic) / Elevated (Geopolitical)
 growth_outlook: Low/Negative
 confidence: Moderate
 category: declining
 region: europe
-tags: [sanctions, war-economy, technology-isolation, ai-gap]
-last_updated: 2025-12-08
+tags: [sanctions, war-economy, technology-isolation, ai-gap, nuclear, great-power, c5]
+last_updated: 2025-12-10
 ---
 
 # Russia: 2026-2036
 
-> **Outlook**: Declining
+> **Economic Outlook**: Declining
+> **Geopolitical Weight**: Elevated (C5 tier)
 > **Growth Outlook**: Low/Negative (stagnation/stagflation)
-> **Risk**: Prolonged conflict; deeper isolation
+> **Risk**: Economic decay; geopolitical relevance persists
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
 
@@ -63,6 +64,39 @@ Russia ranks 31st globally in AI capability (Tortoise Index), behind not just th
 
 ---
 
-*Last updated: 2025-12-08*
+## Geopolitical Weight: The Nuclear Factor (Added December 2025)
+
+The December 2025 US NSS and leaked "Core 5" proposal reveal a dimension our economic analysis underweighted: **geopolitical standing operates independently of economic trajectory**.
+
+**Russia's C5 credentials:**
+
+| Factor | Status | Implication |
+|--------|--------|-------------|
+| **Nuclear arsenal** | 5,580 warheads (world's largest) | Permanent veto on any global order |
+| **UNSC seat** | Permanent member | Institutional legitimacy regardless of economics |
+| **Geographic sphere** | Central Asia, Caucasus, Belarus, parts of Ukraine | Buffer zone and influence projection |
+| **China partnership** | Strategic rear guard for Beijing | Indispensable to second superpower |
+| **Spoiler capacity** | Can disrupt any settlement it's excluded from | Negative leverage exceeds positive power |
+
+**The divergence**: Russia can be economically 31st in AI capability while remaining top-5 in geopolitical weight. Nuclear arsenals don't depreciate like GDP. Sphere control persists through military presence, not productivity.
+
+**Implications for the framework**:
+
+1. **Russia's seat at major tables is secure** regardless of economic decline
+2. **Sanctions create pain but not exclusion** from great power politics
+3. **China needs Russia** as strategic partner more than Russia needs economic growth
+4. **European security** cannot be resolved without Russian participation—for better or worse
+
+**The uncomfortable truth**: Our "Declining" classification is economically correct but strategically incomplete. Russia is declining economically while potentially *rising* in geopolitical recognition as the US pivots to spheres-of-influence framework.
+
+In a C5 world, Russia's trajectory is:
+- **Economic**: Continued stagnation, technology gap widening, living standards eroding
+- **Geopolitical**: Recognised sphere of influence, seat at great power table, partnership with China deepening
+
+These can coexist indefinitely. The Soviet Union was economically dysfunctional for decades while remaining a superpower. Russia may follow a similar path: poor but powerful.
+
+---
+
+*Last updated: 2025-12-10*
 
 [← Europe](../README.md) | [← Global](../../../global/README.md) | [← Home](../../../README.md)

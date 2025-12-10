@@ -103,7 +103,42 @@ The original 25/20/20/15/10/10 weights were always a heuristic; in practice, bin
 - Slower (engineering challenges, regulation, union resistance)
 - Different in character (augmentation rather than replacement)
 
-### Assumption 4: Regulatory Redistributive Effect
+### Assumption 4: Geopolitical Weight as Distinct Axis (Added December 2025)
+
+**Claim**: Economic trajectory and geopolitical standing are partially independent axes. A country can be economically declining while retaining or even gaining geopolitical weight.
+
+**The C5 Test**: The December 2025 US NSS reportedly proposes a "Core 5" (US, China, Russia, India, Japan) based on:
+- Nuclear arsenal
+- Population mass (>100M)
+- Geographic sphere control
+- Great power legitimacy
+
+This is orthogonal to our economic/AI-displacement analysis. Russia ranks 31st in AI capability but holds the world's largest nuclear arsenal. India faces IT services collapse but is the only major power with genuine bloc choice.
+
+**Framework implication**: Country assessments should now consider two dimensions:
+
+| Dimension | Measures | Example |
+|-----------|----------|---------|
+| **Economic trajectory** | AI exposure, growth outlook, sector displacement | Germany: Declining |
+| **Geopolitical weight** | Nuclear status, population, sphere control, alignment options | Germany: Diminishing |
+
+A country can be:
+- Economically declining + geopolitically rising (Russia post-C5 recognition)
+- Economically strong + geopolitically diminishing (Germany, EU broadly)
+- Both aligned (US, China)
+- High variance on both (India)
+
+**Countries with elevated geopolitical weight regardless of economics:**
+- **Russia**: Nuclear arsenal (5,580 warheads), UNSC seat, sphere in Central Asia/Caucasus, China partnership
+- **India**: Population (1.4B), nuclear capability, genuine bloc choice, Indian Ocean control
+- **Japan**: US alliance anchor, Pacific geography, industrial base, latent nuclear capability
+
+**Countries with diminished geopolitical weight despite economic strength:**
+- **Germany**: No nukes, no unified European command, energy dependence, sphere-less
+- **EU**: No unified actor, no coherent military, no nuclear policy, 27 competing voices
+- **UK**: Post-Brexit, post-empire, nuclear but small, no sphere
+
+### Assumption 5: Regulatory Redistributive Effect
 
 **Claim**: Regulation cannot prevent global AI deployment; it primarily shifts where gains and costs are captured.
 

@@ -1,19 +1,20 @@
 title: "India: 2026-2036"
 type: synthesis
-outlook: Contested
+outlook: Contested (Economic) / Elevated (Geopolitical)
 growth_outlook: Uncertain (High variance)
 confidence: Low
 category: contested
 region: asia-pacific
-tags: [it-services-vulnerability, demographics, ai-adoption, structural-challenges, corruption]
-last_updated: 2025-12-08
+tags: [it-services-vulnerability, demographics, ai-adoption, structural-challenges, corruption, tiebreaker, c5, non-aligned, nuclear]
+last_updated: 2025-12-10
 ---
 
 # India: 2026-2036
 
-> **Outlook**: Contested
+> **Economic Outlook**: Contested
+> **Geopolitical Weight**: Elevated (C5 tier—The Tiebreaker)
 > **Growth Outlook**: Uncertain (High variance)
-> **Risk**: IT services disruption; structural dysfunction; demographic liability
+> **Strategic Position**: Only major power with genuine bloc choice
 
 *Synthesis of: [Data](data/) | [Trends](trends/) | [Analysis](analysis/)*
 
@@ -193,6 +194,51 @@ But enthusiasm for technology does not help when technology eliminates your job.
 5. **Execution track record**: India has not demonstrated capacity for rapid economic transformation
 
 India's AI enthusiasm may prove to be measuring the enthusiasm of those about to be disrupted. The question is not whether India adopts AI—it will. The question is whether India can manage the social consequences of AI eliminating the jobs that built its middle class.
+
+---
+
+## Geopolitical Weight: The Tiebreaker (Added December 2025)
+
+The December 2025 US NSS and leaked "Core 5" proposal reveal India's unique strategic position: **the only major power with genuine choice between blocs**.
+
+**India's C5 credentials:**
+
+| Factor | Status | Implication |
+|--------|--------|-------------|
+| **Population** | 1.4 billion (largest by 2030) | Demographic mass regardless of per-capita income |
+| **Nuclear arsenal** | 150+ warheads | Great power entry ticket |
+| **Indian Ocean control** | Geographic dominance of critical trade routes | Chokepoint for China's sea lanes |
+| **Non-aligned tradition** | QUAD member + BRICS member + SCO member | Genuine options on both sides |
+| **Bloc swing vote** | Neither US nor China can dominate without India | Maximum leverage through ambiguity |
+
+**The tiebreaker logic:**
+
+In a C5 world structured as US-Japan vs China-Russia, India is the decisive fifth vote:
+- **US alignment**: Tips balance decisively toward Western-led order; constrains China in Indo-Pacific
+- **China alignment**: Creates Eurasian bloc with population >3 billion; isolates US/Japan
+- **Non-alignment**: Preserves optionality; extracts concessions from both sides
+
+India's "contested" economic status becomes a *feature* geopolitically: neither bloc can take India for granted, so both must court it.
+
+**The economic-geopolitical divergence:**
+
+| Dimension | Assessment | Trajectory |
+|-----------|------------|------------|
+| **Economic** | IT services collapse, structural dysfunction, contested | Could go either way |
+| **Geopolitical** | Elevated, maximum optionality, indispensable | Rising regardless of economics |
+
+India can be economically struggling while geopolitically ascendant. In a multipolar world, being the swing state matters more than GDP growth.
+
+**What this changes:**
+
+1. **India's "contested" status is strategic advantage**, not just economic uncertainty
+2. **Both blocs will invest in India** to prevent defection to the other
+3. **India can extract technology transfers, investment, security guarantees** by playing sides
+4. **Economic dysfunction may be tolerated** by both blocs to maintain strategic alignment
+
+**The historical parallel**: Cold War non-aligned movement gave India leverage despite economic underperformance. C5 framework could recreate similar dynamics at higher stakes.
+
+**Implication for our analysis**: India's contested economic outlook coexists with elevated geopolitical standing. The IT services collapse may matter less than India's vote on great power questions.
 
 ---
 
