@@ -83,66 +83,15 @@ Europe, by contrast, trails significantly. Installed capacity is a fraction of A
 
 ## Part III: The Resource Dividend—Second-Order Winners
 
-As AI-powered economies accelerate, they will consume more of everything: energy, metals, food, water. The productivity gains from automation do not reduce material consumption—they increase it. Wealthier societies consume more. Faster-growing economies build more infrastructure. AI data centres alone require enormous quantities of copper, rare earths, lithium, and other critical minerals. The semiconductor fabs that produce AI chips are among the most resource-intensive facilities ever built.
+*Derived from: [Resource Dividend](global/trends/resource-dividend.md)*
 
-This creates a second-order effect that benefits resource-rich nations even if they capture none of the first-order AI gains. Countries that possess natural resources—energy, critical minerals, agricultural capacity—will see demand for their exports increase as AI-adopting economies grow faster and consume more. The resource dividend flows to nations that control what AI-era economies need to function.
+As AI-powered economies accelerate, they consume more of everything: energy, metals, food, water. AI data centres require enormous quantities of copper, rare earths, and lithium. The semiconductor fabs that produce AI chips are among the most resource-intensive facilities ever built. This creates a second-order effect: resource-rich nations benefit from AI adoption elsewhere even if they capture none of the first-order gains.
 
-**The beneficiaries of the resource dividend include:**
+The beneficiaries include Australia (critical minerals, uranium, LNG), Canada (hydroelectric power, minerals), Indonesia (40% of global nickel), Brazil (90%+ of global niobium, iron ore), and the Gulf states (converting oil wealth directly into compute infrastructure). These nations do not need to build AI systems—they need to supply the nations that do.
 
-| Country | Key Resources | Second-Order Effect |
-|---------|---------------|---------------------|
-| **Australia** | Critical minerals (lithium, rare earths, copper, nickel, cobalt), uranium, LNG, iron ore | Direct supplier to AI hardware manufacturing and energy transition |
-| **Canada** | Hydroelectric power, natural gas, critical minerals, uranium, potash | Energy exports and critical minerals feed US AI infrastructure |
-| **Russia** | Oil, gas, metals, agricultural land | Sanctions limit Western access but Asian demand persists |
-| **Saudi Arabia/UAE** | Oil, gas, sovereign capital | Converting resource wealth to AI infrastructure directly |
-| **Indonesia** | Nickel (40% of global reserves), copper, palm oil, coal | Critical for EV batteries and electronics manufacturing |
-| **Brazil** | Iron ore, agricultural commodities, lithium, niobium | Commodity exports benefit from global AI-driven growth |
-| **Chile** | Copper (25%+ of global production), lithium | Essential for electrical infrastructure and batteries |
+**The emerging pattern echoes the petrodollar system**—but with a critical difference. The petrodollar created mutual dependency; OPEC's 1973 embargo demonstrated real leverage. The resources-for-compute exchange is fundamentally lopsided. Resources are fungible commodities with multiple buyers. Compute access is concentrated in the US and China, specific to infrastructure and relationships, and trivially revocable. Australia can sell iron ore to China if the US relationship sours. But if the US revokes compute access—cuts cloud services, restricts AI models, sanctions chips—there is no alternative at comparable capability.
 
-**The resource dividend operates through two channels:**
-
-1. **Direct AI infrastructure demand**: Data centres, semiconductors, and AI hardware require copper for wiring, rare earths for magnets, lithium for batteries, and silicon for chips. As AI deployment scales, demand for these inputs scales with it.
-
-2. **Indirect consumption growth**: AI-accelerated economies grow faster. Growing economies consume more energy, build more infrastructure, and demand more agricultural output. Resource exporters benefit whether or not they adopt AI themselves.
-
-This dynamic partially explains why resource-rich nations like Australia and Canada are classified as "Winners" despite limited AI innovation capacity. They do not need to build AI systems—they need to supply the nations that do. The resource dividend provides a path to prosperity that does not require winning the AI race directly.
-
-### The New Petrodollar: Resources for Compute
-
-The emerging pattern echoes the petrodollar system that shaped the late twentieth century. From the 1970s onward, oil was priced in dollars, creating circular dependency: oil exports generated dollar reserves → dollar demand sustained US financial hegemony → the US provided security guarantees to oil producers → oil continued flowing and continued being priced in dollars. Resource-rich nations traded hydrocarbons for access to the dollar-denominated financial system.
-
-The AI era is creating an analogous structure: **resources for compute**. Nations that possess energy, critical minerals, and agricultural capacity can trade these for access to AI infrastructure and the productivity gains it enables. The currency is no longer just dollars—it is compute capacity, AI model access, and integration into the supply chains that produce intelligence.
-
-| Petrodollar Era | Compute Era |
-|-----------------|-------------|
-| Oil priced in dollars | AI infrastructure requires resources |
-| Dollar reserves = financial access | Compute access = productivity gains |
-| US security guarantees for producers | US/China tech relationships for suppliers |
-| OPEC as coordinating mechanism | Bilateral resource-for-infrastructure deals |
-
-The Gulf states understand this shift explicitly. Saudi Arabia's $100 billion Project Transcendence and UAE's $1.4 trillion US investment framework are not merely diversification plays—they are exchanges of hydrocarbon wealth for compute infrastructure. Canada's resource-for-institutional-capital model and Australia's critical minerals positioning follow similar logic: trade what the AI economy needs for participation in its gains.
-
-The critical difference from the petrodollar era is **asymmetric leverage**. The petrodollar system created mutual dependency: the US needed oil as much as producers needed dollars. The OPEC embargo of 1973 demonstrated that resource providers had real power to disrupt the system.
-
-The resources-for-compute exchange is fundamentally lopsided:
-
-| Dimension | Resources | Compute |
-|-----------|-----------|---------|
-| **Fungibility** | High—commodities trade globally | Low—specific infrastructure, specific relationships |
-| **Switching cost** | Low—find another buyer | High—rebuild entire AI stack |
-| **Concentration** | Distributed across many nations | Concentrated in US and China |
-| **Revocability** | Hard to embargo (commodities flow) | Easy—adjust access, throttle API, sanction chips |
-| **Visibility** | Physical, trackable | Digital, can be modified invisibly |
-
-Australia can sell iron ore to China if the US relationship sours. But if the US revokes compute access—cuts off cloud services, restricts AI model access, sanctions chip exports—there is no alternative supplier at comparable capability. China offers a partial alternative, but choosing the Chinese compute ecosystem means alignment with Chinese interests and exclusion from American technology.
-
-This asymmetry creates **stronger alignment pressure** than the petrodollar system ever did. Resource-rich nations seeking compute access must maintain relationships with compute holders on the compute holders' terms. The data centres are in Virginia, Texas, Oregon—or Guizhou and Inner Mongolia. The leverage flows toward those locations, not away from them.
-
-Saudi Arabia and UAE understand this implicitly. Their massive AI investments are not merely diversification—they are attempts to build domestic compute capacity precisely because depending on American or Chinese infrastructure means depending on American or Chinese goodwill. The $100 billion Project Transcendence and the Abu Dhabi Stargate cluster are sovereignty projects as much as economic ones.
-
-For nations without sovereign wealth to build domestic compute infrastructure, the choice is starker: align with a compute hegemon or accept exclusion from AI productivity gains. This is a more coercive structure than the petrodollar system, where oil revenues at least provided leverage. In the compute era, the resource providers need the compute holders more than the compute holders need any individual resource provider.
-
-The resource curse—the historical pattern of resource-dependent economies failing to develop—remains a risk. But in the AI era, the relevant question is not whether resource dependency limits development; it is whether resource revenues can be converted into compute access and AI productivity gains. For nations like Australia, Canada, and the Gulf states, the answer is likely yes—they have the governance capacity and strategic positioning to execute the exchange. For nations like Nigeria, where resource revenues accrue to the state rather than the population and where governance failures prevent effective conversion to productive assets, the resource dividend provides less protection. Having resources is necessary but not sufficient; the ability to trade them for compute access—and distribute the resulting gains—determines whether the resource dividend translates to national prosperity.
+This asymmetry creates **stronger alignment pressure** than petrodollars ever did. Resource nations must maintain relationships with compute holders on the holders' terms. The data centres are in Virginia and Guizhou; the leverage flows toward them, not away. Saudi Arabia and UAE understand this—their massive AI investments are sovereignty projects, attempts to escape dependency on compute hegemons. For nations without sovereign wealth to build domestic infrastructure, the choice is starker: align with a compute hegemon or accept exclusion from AI productivity gains.
 
 ---
 
