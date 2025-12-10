@@ -107,7 +107,24 @@ This creates a second-order effect that benefits resource-rich nations even if t
 
 This dynamic partially explains why resource-rich nations like Australia and Canada are classified as "Winners" despite limited AI innovation capacity. They do not need to build AI systems—they need to supply the nations that do. The resource dividend provides a path to prosperity that does not require winning the AI race directly.
 
-The resource curse—the historical pattern of resource-dependent economies failing to develop—remains a risk. But in the AI era, the relevant question is not whether resource dependency limits development; it is whether resource revenues can compensate for AI-driven displacement in other sectors. For nations like Australia and Canada, the answer may be yes. For nations like Nigeria, where resource revenues accrue to the state rather than the population and where governance failures prevent distribution, the resource dividend provides less protection.
+### The New Petrodollar: Resources for Compute
+
+The emerging pattern echoes the petrodollar system that shaped the late twentieth century. From the 1970s onward, oil was priced in dollars, creating circular dependency: oil exports generated dollar reserves → dollar demand sustained US financial hegemony → the US provided security guarantees to oil producers → oil continued flowing and continued being priced in dollars. Resource-rich nations traded hydrocarbons for access to the dollar-denominated financial system.
+
+The AI era is creating an analogous structure: **resources for compute**. Nations that possess energy, critical minerals, and agricultural capacity can trade these for access to AI infrastructure and the productivity gains it enables. The currency is no longer just dollars—it is compute capacity, AI model access, and integration into the supply chains that produce intelligence.
+
+| Petrodollar Era | Compute Era |
+|-----------------|-------------|
+| Oil priced in dollars | AI infrastructure requires resources |
+| Dollar reserves = financial access | Compute access = productivity gains |
+| US security guarantees for producers | US/China tech relationships for suppliers |
+| OPEC as coordinating mechanism | Bilateral resource-for-infrastructure deals |
+
+The Gulf states understand this shift explicitly. Saudi Arabia's $100 billion Project Transcendence and UAE's $1.4 trillion US investment framework are not merely diversification plays—they are exchanges of hydrocarbon wealth for compute infrastructure. Canada's resource-for-institutional-capital model and Australia's critical minerals positioning follow similar logic: trade what the AI economy needs for participation in its gains.
+
+The difference from the petrodollar era is that compute is not fungible the way dollars are. Dollar reserves could be deployed anywhere; compute access depends on specific infrastructure, specific relationships, specific supply chains. This creates tighter bilateral dependencies and reduces the universality that made dollar hegemony so durable. Nations may trade resources for compute access with the US, with China, or with both—but the relationships are stickier and less liquid than dollar-mediated trade.
+
+The resource curse—the historical pattern of resource-dependent economies failing to develop—remains a risk. But in the AI era, the relevant question is not whether resource dependency limits development; it is whether resource revenues can be converted into compute access and AI productivity gains. For nations like Australia, Canada, and the Gulf states, the answer is likely yes—they have the governance capacity and strategic positioning to execute the exchange. For nations like Nigeria, where resource revenues accrue to the state rather than the population and where governance failures prevent effective conversion to productive assets, the resource dividend provides less protection. Having resources is necessary but not sufficient; the ability to trade them for compute access—and distribute the resulting gains—determines whether the resource dividend translates to national prosperity.
 
 ---
 
