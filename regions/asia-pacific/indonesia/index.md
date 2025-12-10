@@ -61,15 +61,21 @@ Major hyperscalers (Google, AWS, Microsoft) are investing—Microsoft committed 
 
 ## What Indonesia Has
 
-### Natural Resources
+### Natural Resources: The Compute-Era Advantage
 
-Indonesia has substantial resource endowments:
-- Nickel (critical for batteries)—world's largest reserves
-- Coal (export revenue, domestic power)
-- Palm oil, timber, agricultural commodities
-- Some critical minerals
+Indonesia controls **40% of global nickel reserves**—the single most important battery material for the AI and electrification era. As AI-powered economies accelerate and consume more energy storage, Indonesian nickel becomes increasingly strategic. This is the "resources for compute" dynamic in action: Indonesia may not build AI systems, but it supplies what AI systems need.
 
-Resource exports provide economic foundation regardless of AI trajectory.
+| Resource | Indonesia's Position | AI-Era Relevance |
+|----------|---------------------|------------------|
+| **Nickel** | 40% of global reserves; world's largest producer | Critical for EV batteries, grid storage, electronics |
+| **Copper** | Significant deposits (Grasberg) | Essential for data centers, power transmission |
+| **Coal** | Major exporter | Powers domestic grid; export revenue |
+| **Tin** | Major producer | Electronics manufacturing |
+| **Bauxite** | Large deposits | Aluminum for infrastructure |
+
+Indonesia has pursued a **downstream processing strategy**—banning raw nickel ore exports since 2020 to force smelting and battery production domestically. This has attracted Chinese investment (CATL, battery supply chains) but also created tension with Western supply chain diversification efforts. The strategy's success depends on whether Indonesia can convert resource leverage into sustained industrial development or becomes primarily an extraction site for Chinese supply chains.
+
+The resource dividend operates independently of Indonesia's AI adoption capacity. As AI-accelerated economies grow, they consume more nickel, copper, and energy. Indonesia benefits from this demand whether or not it captures first-order AI productivity gains.
 
 ### Scale
 

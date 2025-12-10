@@ -21,7 +21,7 @@ Asia-Pacific leads globally in AI adoption and manufacturing growth:
 |---------|-----------------|------------|---------|
 | **Vietnam** | **8.23%** (Q3) | Transshipment-inflated; tariff risk | Contested |
 | **India** | **6.5-6.9%** | IT services vulnerable | Contested |
-| **Indonesia** | 5.1-5.4% | Infrastructure gaps | Survivor |
+| **Indonesia** | 5.1-5.4% | Infrastructure gaps; 40% global nickel | Survivor |
 | **China** | 4-5% | State-directed AI | Winner |
 | **Malaysia** | 4.0-4.5% | Semiconductors | Contested |
 | **Australia** | 3-4% | Resources/regulatory risk | Winner (Contingent) |

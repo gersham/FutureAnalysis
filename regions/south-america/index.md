@@ -19,7 +19,7 @@ South America presents a tale of three trajectories:
 
 | Country | GDP Growth 2025 | AI Adoption | Outlook |
 |---------|-----------------|-------------|---------|
-| **Brazil** | 2.1-2.2% | 40% of businesses; 9M companies | Survivor |
+| **Brazil** | 2.1-2.2% | 40% AI adoption; 90%+ niobium monopoly | Survivor |
 | **Argentina** | 4.4-6.4% | Emerging | Restructuring |
 | **Venezuela** | 0.5% to -4% | Near zero | Collapsing |
 
@@ -37,7 +37,7 @@ South America demonstrates three distinct responses to the AI transition and glo
 
 ## Regional Dynamics
 
-**Commodity Dependency**: All three economies remain tied to commodity exports—agriculture and minerals for Brazil, agriculture and energy for Argentina, oil for Venezuela. The AI transition does not directly benefit commodity exporters unless they can capture value-added processing and related services.
+**The Resource Dividend**: South America's commodity position creates a second-order benefit from AI adoption elsewhere. As AI-accelerated economies grow, they consume more of what South America exports. Brazil controls 90%+ of global niobium production (critical for superconducting materials and advanced alloys) and is the world's second-largest iron ore producer. Argentina's lithium triangle resources become more valuable as battery demand scales. The "resources for compute" dynamic means South America benefits from global AI adoption even if domestic AI capture is limited. The question is whether resource revenues translate into compute access and broader productivity gains, or remain extractive income that fails to transform the domestic economy.
 
 **Migration Flows**: Venezuelan exodus continues to destabilize neighbors. 8 million migrants strain Colombia, Peru, Ecuador, and Brazil. Argentina's reforms may attract return migration of skilled workers who fled previous instability.
 

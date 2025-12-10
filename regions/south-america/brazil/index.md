@@ -46,9 +46,25 @@ Yet Brazil's GDP growth remains stuck at 2.1%—chronic underperformance relativ
 
 ## Applying the Displacement Model
 
+### The Resource Dividend
+
+Brazil's commodity position provides a buffer through the "resources for compute" dynamic. As AI-accelerated economies grow, they consume more of what Brazil exports:
+
+| Resource | Brazil's Position | AI-Era Relevance |
+|----------|------------------|------------------|
+| **Iron ore** | World's 2nd largest producer | Steel for data centers, infrastructure |
+| **Lithium** | Major deposits (Minas Gerais) | Batteries for grid storage, EVs |
+| **Niobium** | 90%+ of global production | Superconducting materials, advanced alloys |
+| **Agricultural commodities** | Soy, coffee, beef, sugar | Growing economies consume more food |
+| **Rare earths** | Emerging producer | Magnets, electronics |
+
+**Niobium is particularly strategic**: Brazil controls over 90% of global niobium production, used in superconducting materials and high-strength alloys. As quantum computing and advanced electronics scale, niobium demand increases. This is monopolistic leverage comparable to ASML's position in lithography.
+
+The resource dividend means Brazil benefits from global AI adoption regardless of domestic AI capture. When the US, China, or Europe build more data centers and infrastructure, they consume more Brazilian iron ore. When EV production scales, they need Brazilian lithium. This second-order effect provides economic floor even if bureaucratic constraints limit first-order AI gains.
+
 ### Step 1: Sector Exposure
 
-Brazil’s exposure is more balanced than in services‑centric economies:
+Brazil's exposure is more balanced than in services‑centric economies:
 
 | Sector | Role in Economy | Expected Displacement/Year | Exposure |
 |--------|-----------------|---------------------------|----------|
