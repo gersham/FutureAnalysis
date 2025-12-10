@@ -13,6 +13,12 @@
 *   **Demographics:** China population decline ~800k-2M/year. Japan -800k/year.
 *   **Energy:** EU industrial electricity spread vs US ~2-3x.
 
+## European Financial Stress Indicators
+*   **OAT-Bund Spread:** France-Germany 10-year bond spread ~80-90 bps (Dec 2024), highest since 2012 eurozone crisis. A spread of 80-100 bps is consistent with France credit downgrade to single-A.
+*   **TARGET2 Balances:** Germany creditor position ~€1.1tn; Italy debtor ~€500bn; Spain debtor ~€500bn. Total imbalances ~€1.6tn. These have persisted since 2012 but represent transmission mechanism for sovereign stress.
+*   **French Deficit:** 5.8% GDP (2024), projected 5.5% (2025). EU rules require <3%. Public debt 116% GDP.
+*   **German Manufacturing PMI:** 42.5 (Dec 2024), 18+ consecutive months of contraction.
+
 ## Robotics (Status Check: Late 2025)
 *   **Tesla Optimus:** Gen 3 unveiled (Oct 2025); autonomous learning demonstrated.
 *   **Figure AI:** Commercial pilots with BMW.

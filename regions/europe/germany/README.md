@@ -23,10 +23,12 @@ last_updated: 2025-12-08
 
 Germany has entered a period of **structural stagnation**—marked by multiple years of recession or near-zero growth. The Federation of German Industries (BDI) has described the economy as facing a historic crisis of competitiveness.
 
-**Key Indicators of Stress:**
-- **GDP Stagnation:** Persistent lack of growth driven by industrial contraction.
-- **Manufacturing Decline:** Significant job losses in core sectors (automotive, chemicals).
+**Key Indicators of Stress (December 2024):**
+- **GDP Stagnation:** Third consecutive year of recession or near-zero growth (-0.1% projected 2025).
+- **Manufacturing PMI:** 42.5 (December 2024), marking 18+ consecutive months of contraction below 50.
+- **Manufacturing Decline:** Significant job losses in core sectors (automotive, chemicals); jobs declining for 18th consecutive month.
 - **Workforce Contraction:** An aging workforce shrinking faster than immigration can replace it.
+- **AfD Polling:** 25-26% nationally; 37-40% in eastern states (Saxony-Anhalt, Thuringia).
 
 *See [Current Indicators](../../../global/data/current-indicators.md) for latest economic metrics.*
 

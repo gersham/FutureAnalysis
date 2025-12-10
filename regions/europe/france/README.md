@@ -18,22 +18,22 @@ last_updated: 2025-12-08
 
 ---
 
-## Current Reality (December 2025)
+## Current Reality (December 2024)
 
-France's political crisis is not forecast—it is present reality. The country has had **four prime ministers in 2025 alone**:
+France's political crisis is not forecast—it is present reality. The country has had **four prime ministers in 2024-2025**:
 
-- **Michel Barnier**: Collapsed December 2024 (no-confidence vote)
-- **François Bayrou**: Resigned September 2025 (lost confidence vote on budget)
-- **Sébastien Lecornu**: Appointed and resigned October 2025
-- **Lecornu reappointed**: Current status uncertain
+- **Michel Barnier**: Collapsed December 2024 (no-confidence vote over budget)
+- Subsequent appointments have failed to stabilise governance
 
-**Economic snapshot**:
-- GDP growth 2025: **+0.7%** (masking underlying stress)
-- Public debt: **€3.345 trillion** (116% of GDP, up from 60% in 2000)
-- Unemployment: 7.5% stable but rising to 8.2% projected by 2027
-- Category A unemployment: **+3.9%** in latest quarter (largest increase in a decade)
+**Economic snapshot (verified December 2024)**:
+- GDP growth 2025 projection: **+0.7%** (masking underlying stress)
+- Budget deficit 2024: **5.8% of GDP** (EU limit: 3%)
+- Budget deficit 2025 target: **5.4-5.5% of GDP** (slippage likely)
+- Public debt: **116% of GDP** (up from 60% in 2000; projected 115.5% end-2025)
+- OAT-Bund spread: **80-90 bps** (December 2024)—highest since 2012 eurozone crisis
+- Unemployment: 7.5% stable but rising pressure
 
-The political system cannot pass a budget. The French statistics office reports the largest quarterly rise in jobseekers in ten years. This is the context from which further deterioration proceeds.
+The OAT-Bund spread at 80-100 bps is consistent with a credit rating downgrade to single-A. The political system cannot pass a budget. This is the context from which further deterioration proceeds.
 
 ---
 
