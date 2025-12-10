@@ -79,10 +79,39 @@ Data centre capacity has become a critical resource for AI-era economic power. T
 
 Europe, by contrast, trails significantly. Installed capacity is a fraction of American levels, and expansion is hamstrung by energy costs that are structurally higher than in the US or Asia.
 
+---
+
+## Part III: The Resource Dividend—Second-Order Winners
+
+As AI-powered economies accelerate, they will consume more of everything: energy, metals, food, water. The productivity gains from automation do not reduce material consumption—they increase it. Wealthier societies consume more. Faster-growing economies build more infrastructure. AI data centres alone require enormous quantities of copper, rare earths, lithium, and other critical minerals. The semiconductor fabs that produce AI chips are among the most resource-intensive facilities ever built.
+
+This creates a second-order effect that benefits resource-rich nations even if they capture none of the first-order AI gains. Countries that possess natural resources—energy, critical minerals, agricultural capacity—will see demand for their exports increase as AI-adopting economies grow faster and consume more. The resource dividend flows to nations that control what AI-era economies need to function.
+
+**The beneficiaries of the resource dividend include:**
+
+| Country | Key Resources | Second-Order Effect |
+|---------|---------------|---------------------|
+| **Australia** | Critical minerals (lithium, rare earths, copper, nickel, cobalt), uranium, LNG, iron ore | Direct supplier to AI hardware manufacturing and energy transition |
+| **Canada** | Hydroelectric power, natural gas, critical minerals, uranium, potash | Energy exports and critical minerals feed US AI infrastructure |
+| **Russia** | Oil, gas, metals, agricultural land | Sanctions limit Western access but Asian demand persists |
+| **Saudi Arabia/UAE** | Oil, gas, sovereign capital | Converting resource wealth to AI infrastructure directly |
+| **Indonesia** | Nickel (40% of global reserves), copper, palm oil, coal | Critical for EV batteries and electronics manufacturing |
+| **Brazil** | Iron ore, agricultural commodities, lithium, niobium | Commodity exports benefit from global AI-driven growth |
+| **Chile** | Copper (25%+ of global production), lithium | Essential for electrical infrastructure and batteries |
+
+**The resource dividend operates through two channels:**
+
+1. **Direct AI infrastructure demand**: Data centres, semiconductors, and AI hardware require copper for wiring, rare earths for magnets, lithium for batteries, and silicon for chips. As AI deployment scales, demand for these inputs scales with it.
+
+2. **Indirect consumption growth**: AI-accelerated economies grow faster. Growing economies consume more energy, build more infrastructure, and demand more agricultural output. Resource exporters benefit whether or not they adopt AI themselves.
+
+This dynamic partially explains why resource-rich nations like Australia and Canada are classified as "Winners" despite limited AI innovation capacity. They do not need to build AI systems—they need to supply the nations that do. The resource dividend provides a path to prosperity that does not require winning the AI race directly.
+
+The resource curse—the historical pattern of resource-dependent economies failing to develop—remains a risk. But in the AI era, the relevant question is not whether resource dependency limits development; it is whether resource revenues can compensate for AI-driven displacement in other sectors. For nations like Australia and Canada, the answer may be yes. For nations like Nigeria, where resource revenues accrue to the state rather than the population and where governance failures prevent distribution, the resource dividend provides less protection.
 
 ---
 
-## Part III: The Culture Variable—Adoption, Resistance, and Regulation
+## Part IV: The Culture Variable—Adoption, Resistance, and Regulation
 
 *Derived from: [Cultural Adoption](global/trends/cultural-adoption.md) | [AI Adoption Rates](global/data/ai-adoption-rates.md)*
 
@@ -121,7 +150,7 @@ Australia and Canada show signs of following the European model, driven by simil
 
 ---
 
-## Part IV: The Compression of Financial Services
+## Part V: The Compression of Financial Services
 
 *Derived from: [Financial Services Disruption](global/trends/financial-services-disruption.md) | [Financial Services Exposure](global/data/financial-services-exposure.md)*
 
@@ -131,18 +160,18 @@ At its core, much of finance is information processing: gathering data, identify
 
 Simultaneously, alternative financial infrastructure erodes some of the traditional industry's moat. Stablecoins, decentralised finance protocols, and integrated payment systems demonstrate that certain core functions of banking—payments, some lending, basic asset custody—do not require the full institutional apparatus that incumbent banks have built.
 
-**However, the "collapse" framing overstates the case.** Finance is not purely information processing; it is also:
+**Yet outright collapse is unlikely.** Finance is not purely information processing; it is also:
 - **Regulatory licenses and charters**: Banks exist partly because regulators permit them to; DeFi faces its own regulatory chokepoints (fiat on/off-ramps)
 - **Liability and trust**: Wealthy clients pay for reputation, recourse, and accountability that algorithms alone don't provide
 - **Distribution and relationships**: The advisory function—guiding clients, managing emotions, providing legitimacy—has value even when analytics are automated
 
-The more likely trajectory: a smaller, leaner, less glamorous industry. Employment contracts 30-50% from peak rather than collapsing entirely. Profits may remain respectable in absolute terms even as finance's share of GDP shrinks. The City of London employs fewer people but remains a financial centre; Singapore adapts to narrower niches rather than becoming irrelevant.
+The trajectory is compression, not collapse: a smaller, leaner, less glamorous industry. Employment contracts 30-50% from peak rather than disappearing entirely. Profits may remain respectable in absolute terms even as finance's share of GDP shrinks. The City of London employs fewer people but remains a financial centre; Singapore adapts to narrower niches rather than becoming irrelevant.
 
 For nations heavily weighted toward financial services, this still represents serious challenge. The United Kingdom derives roughly fifteen to twenty percent of its GDP from financial and related professional services, with an even larger share of tax revenue. Singapore has built its city-state model on being Asia's neutral financial hub. A 30-50% compression of an industry that large still produces significant displacement and fiscal pressure—just not civilisational collapse.
 
 ---
 
-## Part V: The Contraction of Higher Education
+## Part VI: The Contraction of Higher Education
 
 *Derived from: [Higher Education Disruption](global/trends/higher-education-disruption.md)*
 
@@ -150,7 +179,7 @@ The university system faces severe disruption, though the framing requires nuanc
 
 The knowledge transmission function of universities—lectures, readings, problem sets, examinations—can increasingly be delivered by AI systems with greater personalisation, infinite patience, and near-zero marginal cost. A student seeking to understand corporate finance, organic chemistry, or constitutional law can receive instruction calibrated precisely to their level, available at any hour, responsive to their specific confusions.
 
-**However, universities provide more than knowledge transmission.** They also provide:
+**Yet universities provide more than knowledge transmission.** They also provide:
 - **Socialisation and networks**: Mating markets, friendship formation, professional connections
 - **Physical infrastructure**: Labs, studios, clinical facilities, athletic programs
 - **Status rituals**: Graduation ceremonies, alumni networks, institutional prestige
@@ -160,7 +189,7 @@ These functions can be unbundled, but institutions that own the physical real es
 
 The credentialing function faces more direct assault. Professional employers historically used university degrees as screening mechanisms—signalling intelligence, conscientiousness, and baseline capability. AI disrupts this from both directions: direct competency assessment becomes possible, while AI automation eliminates many of the professional roles that degrees previously unlocked. But regulatory requirements for degrees in licensed professions change slowly. Courts, medical boards, and engineering councils are deeply tied into degree requirements—changing that is slow, political work.
 
-**The more likely trajectory**: A bifurcated contraction rather than uniform collapse.
+**The trajectory is bifurcated contraction, not uniform collapse.**
 
 - **Elite research universities** (top ~100 globally): Retain value through network formation, research infrastructure, ultra-selective signalling. May actually concentrate prestige as mid-tier competitors fail.
 - **Mid-tier universities** (vast middle): Face existential crisis from both AI disruption and pre-existing demographic/fiscal pressures. Many will close, merge, or radically downsize. But attribution is tricky—is this AI, or declining birth rates, or state funding cuts?
@@ -171,7 +200,7 @@ The employment implications ripple outward. Universities are major employers in 
 
 ---
 
-## Part VI: The Legitimacy Crisis
+## Part VII: The Legitimacy Crisis
 
 *Derived from: [Legitimacy Crisis](global/trends/legitimacy-crisis.md)*
 
@@ -183,7 +212,7 @@ Academic researchers studying civil conflict have identified several Western nat
 
 ---
 
-## Part VII: A Taxonomy of Outcomes
+## Part VIII: A Taxonomy of Outcomes
 
 *Derived from: [Winners and Losers](global/analysis/winners-and-losers.md) | Regional and Country Analyses*
 
@@ -245,7 +274,7 @@ Also collapsing: [Venezuela](regions/south-america/venezuela/) (state failure al
 
 ---
 
-## Part VIII: The View from 2036
+## Part IX: The View from 2036
 
 *Derived from: [View from 2035](global/analysis/view-from-2035.md) | [Actionable Implications](global/analysis/actionable-implications.md)*
 
@@ -299,18 +328,56 @@ The falcon is already beyond recall. The widening gyre has begun.
 
 ### Regions
 
-**[North America](regions/north-america/):** [United States](regions/north-america/united-states/) | [Canada](regions/north-america/canada/) | [Mexico](regions/north-america/mexico/)
+#### [North America](regions/north-america/)
+[United States](regions/north-america/united-states/) ·
+[Canada](regions/north-america/canada/) ·
+[Mexico](regions/north-america/mexico/)
 
-**[Europe](regions/europe/):** [United Kingdom](regions/europe/united-kingdom/) | [Germany](regions/europe/germany/) | [France](regions/europe/france/) | [Poland](regions/europe/poland/) | [Ireland](regions/europe/ireland/) | [Switzerland](regions/europe/switzerland/) | [Netherlands](regions/europe/netherlands/) | [Russia](regions/europe/russia/) | [Italy](regions/europe/italy/) | [Spain](regions/europe/spain/) | [Portugal](regions/europe/portugal/) | [Turkey](regions/europe/turkey/)
+#### [Europe](regions/europe/)
+[United Kingdom](regions/europe/united-kingdom/) ·
+[Germany](regions/europe/germany/) ·
+[France](regions/europe/france/) ·
+[Poland](regions/europe/poland/) ·
+[Ireland](regions/europe/ireland/) ·
+[Switzerland](regions/europe/switzerland/) ·
+[Netherlands](regions/europe/netherlands/) ·
+[Russia](regions/europe/russia/) ·
+[Italy](regions/europe/italy/) ·
+[Spain](regions/europe/spain/) ·
+[Portugal](regions/europe/portugal/) ·
+[Turkey](regions/europe/turkey/)
 
-**[Asia-Pacific](regions/asia-pacific/):** [China](regions/asia-pacific/china/) | [India](regions/asia-pacific/india/) | [Japan](regions/asia-pacific/japan/) | [Taiwan](regions/asia-pacific/taiwan/) | [Singapore](regions/asia-pacific/singapore/) | [Australia](regions/asia-pacific/australia/) | [South Korea](regions/asia-pacific/south-korea/) | [Indonesia](regions/asia-pacific/indonesia/) | [Vietnam](regions/asia-pacific/vietnam/) | [Malaysia](regions/asia-pacific/malaysia/) | [Philippines](regions/asia-pacific/philippines/) | [Thailand](regions/asia-pacific/thailand/) | [Pakistan](regions/asia-pacific/pakistan/)
+#### [Asia-Pacific](regions/asia-pacific/)
+[China](regions/asia-pacific/china/) ·
+[India](regions/asia-pacific/india/) ·
+[Japan](regions/asia-pacific/japan/) ·
+[Taiwan](regions/asia-pacific/taiwan/) ·
+[Singapore](regions/asia-pacific/singapore/) ·
+[Australia](regions/asia-pacific/australia/) ·
+[South Korea](regions/asia-pacific/south-korea/) ·
+[Indonesia](regions/asia-pacific/indonesia/) ·
+[Vietnam](regions/asia-pacific/vietnam/) ·
+[Malaysia](regions/asia-pacific/malaysia/) ·
+[Philippines](regions/asia-pacific/philippines/) ·
+[Thailand](regions/asia-pacific/thailand/) ·
+[Pakistan](regions/asia-pacific/pakistan/)
 
-**[Middle East](regions/middle-east/):** [Saudi Arabia](regions/middle-east/saudi-arabia/) | [UAE](regions/middle-east/uae/) | [Israel](regions/middle-east/israel/) | [Egypt](regions/middle-east/egypt/) | [Iran](regions/middle-east/iran/)
+#### [Middle East](regions/middle-east/)
+[Saudi Arabia](regions/middle-east/saudi-arabia/) ·
+[UAE](regions/middle-east/uae/) ·
+[Israel](regions/middle-east/israel/) ·
+[Egypt](regions/middle-east/egypt/) ·
+[Iran](regions/middle-east/iran/)
 
-**[Africa](regions/africa/):** [Nigeria](regions/africa/nigeria/) | [South Africa](regions/africa/south-africa/)
+#### [Africa](regions/africa/)
+[Nigeria](regions/africa/nigeria/) ·
+[South Africa](regions/africa/south-africa/)
 
-**[South America](regions/south-america/):** [Brazil](regions/south-america/brazil/) | [Argentina](regions/south-america/argentina/) | [Venezuela](regions/south-america/venezuela/)
+#### [South America](regions/south-america/)
+[Brazil](regions/south-america/brazil/) ·
+[Argentina](regions/south-america/argentina/) ·
+[Venezuela](regions/south-america/venezuela/)
 
 ---
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-10*
