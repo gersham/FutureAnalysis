@@ -286,7 +286,21 @@ Financial centres will have hollowed out. London, Singapore, Zurich, Luxembourg,
 
 The professional-managerial class that has governed Western societies since the mid-twentieth century will have been economically devastated and politically discredited. The very people whose jobs were to run things—to administer, regulate, manage, and communicate—will have discovered that artificial intelligence can run things better and cheaper. Their ideology will persist in institutional residue, but their material base will have collapsed. What replaces them—whether populist nationalism, technocratic authoritarianism, or something not yet visible—will shape the politics of the 2030s and beyond.
 
-For individuals navigating this transition, the implications are stark. Geographic mobility matters: being in the wrong country as it fractures is not a recoverable error. Asset diversification matters: having resources in multiple jurisdictions provides resilience against localised collapse. Clear-eyed assessment matters: normalcy bias—the assumption that tomorrow will resemble today—is the most dangerous cognitive error in a period of discontinuous change.
+---
+
+## Part X: Navigating the Transition
+
+*Derived from: [Individual Navigation](global/analysis/individual-navigation.md)*
+
+For individuals navigating this transition, the implications are stark. The analysis throughout this document has focused on nations, sectors, and systems—but systems are made of people, and people must make choices about where to live, what to own, and how to position themselves for a decade of discontinuous change.
+
+**Geographic mobility matters.** Being in the wrong country as it fractures is not a recoverable error. The difference between residing in a "Winner" nation versus a "Fracturing" one compounds over time—not just economically, but in access to services, security, and opportunity. Immigration policies will tighten as AI-advantaged nations protect their positions; the window for relocation narrows as the transition accelerates. Those with the means and credentials to move should assess their current position against the taxonomy of outcomes and act while movement remains possible.
+
+**Asset diversification matters.** Having resources in multiple jurisdictions provides resilience against localised collapse. A portfolio concentrated in a single currency, a single banking system, or a single regulatory regime carries concentration risk that this analysis suggests is elevated. The resources-for-compute dynamic means that even asset allocation has geopolitical implications—exposure to compute-holder economies versus resource-provider economies versus those with neither. Diversification is not merely financial prudence; it is insurance against the specific failure modes this transition may produce.
+
+**Clear-eyed assessment matters.** Normalcy bias—the assumption that tomorrow will resemble today—is the most dangerous cognitive error in a period of discontinuous change. The institutions, careers, and assumptions that shaped the previous era provide poor guidance for navigating what comes next. The professional credentials that signalled competence may signal vulnerability. The cities that concentrated opportunity may concentrate decline. The stability that seemed permanent may prove contingent. The ability to recognise when the environment has shifted—and to shift with it—separates those who navigate the transition from those who are swept away by it.
+
+This is not a counsel of despair. Transitions create opportunities as well as risks. The individuals and families who position themselves correctly—in the right locations, with diversified resources, with clear-eyed understanding of what is coming—can thrive even as systems around them strain. But positioning requires action, and action requires abandoning the comfortable assumption that the future will be a linear extrapolation of the past.
 
 The falcon is already beyond recall. The widening gyre has begun.
 
@@ -321,6 +335,7 @@ The falcon is already beyond recall. The widening gyre has begun.
 - [Winners and Losers Framework](global/analysis/winners-and-losers.md)
 - [Actionable Implications](global/analysis/actionable-implications.md)
 - [View from 2036](global/analysis/view-from-2036.md)
+- [Individual Navigation](global/analysis/individual-navigation.md)
 
 ### Regions
 
