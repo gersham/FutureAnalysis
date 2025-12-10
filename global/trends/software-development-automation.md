@@ -3,7 +3,7 @@ title: "The Automation of Software Development"
 type: trend
 scope: global
 confidence: High
-timeline: 2025-2035
+timeline: 2025-2036
 tags: [automation, employment, software, developers, ai-displacement, coding]
 last_updated: 2025-12-08
 ---

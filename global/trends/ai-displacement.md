@@ -2,7 +2,7 @@
 
 > **Rate**: ~5% net job displacement per year (beginning 2026)
 > **Cumulative**: On the order of half (~40–45%) of current employment displaced/reshaped by mid‑2030s
-> **Timeframe**: 2026-2035
+> **Timeframe**: 2026-2036
 > **Confidence**: Moderate‑High (as scenario premise)
 
 ## Analytical Note on Projections
