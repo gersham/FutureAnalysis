@@ -122,7 +122,25 @@ The AI era is creating an analogous structure: **resources for compute**. Nation
 
 The Gulf states understand this shift explicitly. Saudi Arabia's $100 billion Project Transcendence and UAE's $1.4 trillion US investment framework are not merely diversification plays—they are exchanges of hydrocarbon wealth for compute infrastructure. Canada's resource-for-institutional-capital model and Australia's critical minerals positioning follow similar logic: trade what the AI economy needs for participation in its gains.
 
-The difference from the petrodollar era is that compute is not fungible the way dollars are. Dollar reserves could be deployed anywhere; compute access depends on specific infrastructure, specific relationships, specific supply chains. This creates tighter bilateral dependencies and reduces the universality that made dollar hegemony so durable. Nations may trade resources for compute access with the US, with China, or with both—but the relationships are stickier and less liquid than dollar-mediated trade.
+The critical difference from the petrodollar era is **asymmetric leverage**. The petrodollar system created mutual dependency: the US needed oil as much as producers needed dollars. The OPEC embargo of 1973 demonstrated that resource providers had real power to disrupt the system.
+
+The resources-for-compute exchange is fundamentally lopsided:
+
+| Dimension | Resources | Compute |
+|-----------|-----------|---------|
+| **Fungibility** | High—commodities trade globally | Low—specific infrastructure, specific relationships |
+| **Switching cost** | Low—find another buyer | High—rebuild entire AI stack |
+| **Concentration** | Distributed across many nations | Concentrated in US and China |
+| **Revocability** | Hard to embargo (commodities flow) | Easy—adjust access, throttle API, sanction chips |
+| **Visibility** | Physical, trackable | Digital, can be modified invisibly |
+
+Australia can sell iron ore to China if the US relationship sours. But if the US revokes compute access—cuts off cloud services, restricts AI model access, sanctions chip exports—there is no alternative supplier at comparable capability. China offers a partial alternative, but choosing the Chinese compute ecosystem means alignment with Chinese interests and exclusion from American technology.
+
+This asymmetry creates **stronger alignment pressure** than the petrodollar system ever did. Resource-rich nations seeking compute access must maintain relationships with compute holders on the compute holders' terms. The data centres are in Virginia, Texas, Oregon—or Guizhou and Inner Mongolia. The leverage flows toward those locations, not away from them.
+
+Saudi Arabia and UAE understand this implicitly. Their massive AI investments are not merely diversification—they are attempts to build domestic compute capacity precisely because depending on American or Chinese infrastructure means depending on American or Chinese goodwill. The $100 billion Project Transcendence and the Abu Dhabi Stargate cluster are sovereignty projects as much as economic ones.
+
+For nations without sovereign wealth to build domestic compute infrastructure, the choice is starker: align with a compute hegemon or accept exclusion from AI productivity gains. This is a more coercive structure than the petrodollar system, where oil revenues at least provided leverage. In the compute era, the resource providers need the compute holders more than the compute holders need any individual resource provider.
 
 The resource curse—the historical pattern of resource-dependent economies failing to develop—remains a risk. But in the AI era, the relevant question is not whether resource dependency limits development; it is whether resource revenues can be converted into compute access and AI productivity gains. For nations like Australia, Canada, and the Gulf states, the answer is likely yes—they have the governance capacity and strategic positioning to execute the exchange. For nations like Nigeria, where resource revenues accrue to the state rather than the population and where governance failures prevent effective conversion to productive assets, the resource dividend provides less protection. Having resources is necessary but not sufficient; the ability to trade them for compute access—and distribute the resulting gains—determines whether the resource dividend translates to national prosperity.
 
