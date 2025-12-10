@@ -59,7 +59,7 @@ Suppositions and predictions based on data and trends.
 | [Winners and Losers](analysis/winners-and-losers.md) | Framework and country classifications |
 | [Alternative Scenarios](analysis/alternative-scenarios.md) | **NEW**: Stress-testing the thesis; AI winter, Taiwan, DeepSeek paradigm |
 | [Actionable Implications](analysis/actionable-implications.md) | What to do based on this analysis |
-| [View from 2035](analysis/view-from-2035.md) | Projected end-state of the transformation |
+| [View from 2036](analysis/view-from-2036.md) | Projected end-state of the transformation |
 
 ---
 

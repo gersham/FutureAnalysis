@@ -272,7 +272,7 @@ Also collapsing: [Venezuela](regions/south-america/venezuela/) (state failure al
 
 ## Part IX: The View from 2036
 
-*Derived from: [View from 2035](global/analysis/view-from-2035.md) | [Actionable Implications](global/analysis/actionable-implications.md)*
+*Derived from: [View from 2036](global/analysis/view-from-2036.md) | [Actionable Implications](global/analysis/actionable-implications.md)*
 
 By 2036, the map of power and prosperity will look nothing like 2020. The United States will have consolidated its position as the world's dominant economy, its AI companies generating wealth at scales that dwarf the oil fortunes of the twentieth century. American political instability—and there will be instability—will not derail the underlying technological and economic transformation. The dollar will remain the reserve currency because there is no alternative.
 
@@ -320,7 +320,7 @@ The falcon is already beyond recall. The widening gyre has begun.
 ### Analysis
 - [Winners and Losers Framework](global/analysis/winners-and-losers.md)
 - [Actionable Implications](global/analysis/actionable-implications.md)
-- [View from 2035](global/analysis/view-from-2035.md)
+- [View from 2036](global/analysis/view-from-2036.md)
 
 ### Regions
 

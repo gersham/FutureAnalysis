@@ -1,10 +1,10 @@
-# The View from 2035
+# The View from 2036
 
-> **Supposition**: A projection of what the world looks like at the end of the forecast period
+> **Supposition**: A projection of what the world looks like at the end of the forecast period (2026-2036)
 
 ## The Transformed Landscape
 
-By 2035, the map of power and prosperity will look nothing like 2020.
+By 2036, the map of power and prosperity will look nothing like 2020.
 
 ### United States: Consolidated Dominance
 - Dominant economy, AI companies generating wealth at scales dwarfing 20th-century oil fortunes
@@ -47,7 +47,7 @@ By 2035, the map of power and prosperity will look nothing like 2020.
 
 ## The Numbers
 
-| Country | 2025 Status | 2035 Status | GDP Change (Cumulative) |
+| Country | 2025 Status | 2036 Status | GDP Change (Cumulative) |
 |---------|-------------|-------------|------------------------|
 | United States | 53.7 GW | 132 GW | High growth |
 | China | 32 GW | 60+ GW | +40-60% |
