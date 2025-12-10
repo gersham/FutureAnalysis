@@ -22,6 +22,19 @@ This assumption shaped:
 
 The assumption was rational when American commitment was unquestioned. It becomes catastrophic when that commitment wavers.
 
+## December 2025 Checkpoint: US NSS
+
+The December 2025 US National Security Strategy introduced explicit spheres-of-influence language that, if implemented, would transform European security assumptions. See [US Strategic Reorientation](../../../global/trends/us-strategic-reorientation.md) for details.
+
+**Key signals from the published NSS:**
+- US will "reject the ill-fated concept of global domination" in favour of "global and regional balances of power"
+- Section on "Promoting European Greatness" frames Europe's problems as "civilizational" rather than merely strategic
+- Proposes rewarding nations that "take more responsibility for security in their neighborhoods"
+
+**Unverified reporting** (Defense One, December 9): A longer classified version proposes a "Core 5" (C5) forum of US, China, Russia, India, Japan—explicitly excluding Europe from top-tier global governance.
+
+**Assessment**: This represents a potential shift from "wavering commitment" (reversible) to "strategic reorientation" (structural). If confirmed, the timeline for European adjustment compresses significantly. Track for confirming/disconfirming signals in Q1-Q2 2026.
+
 ## The Command Problem
 
 European military integration faces a structural barrier that economic integration does not: no European nation will accept another European nation's command.

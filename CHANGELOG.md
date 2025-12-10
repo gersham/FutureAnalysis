@@ -1,12 +1,42 @@
 ---
 title: "Changelog"
 type: changelog
-last_updated: 2025-12-08
+last_updated: 2025-12-10
 ---
 
 # Changelog
 
 Track of updates, revisions, and prediction status changes.
+
+---
+
+## 2025-12-10: First Checkpoint — US Strategic Reorientation Signal
+
+### Context
+The December 2025 US National Security Strategy introduced explicit spheres-of-influence language. Defense One reported (December 9) on a leaked longer version proposing a "Core 5" (C5) forum of US, China, Russia, India, Japan—excluding Europe from top-tier governance.
+
+### Assessment
+**This represents the first external checkpoint partially validating the repository's thesis on European decline and US security umbrella fraying.** The shift from "wavering commitment" to "explicit spheres-of-influence framework" is significant if confirmed.
+
+**Confidence**: Low-Moderate. Published NSS language is real; C5 proposal specifically comes from unverified leaked version.
+
+### Added
+- `global/trends/us-strategic-reorientation.md` — Documents NSS signals and tracking indicators
+- `regions/europe/trends/euro-fragmentation-risk.md` — TARGET2 mechanism, ECB dilemma, east-west divide
+- European financial stress indicators to `global/data/current-indicators.md`
+
+### Changed
+- Updated `regions/europe/trends/defence-dependency.md` with December 2025 NSS checkpoint
+- Updated Germany README with December 2024 PMI data (42.5) and AfD polling (25-26%)
+- Updated France README with verified fiscal data (5.8% deficit, 116% debt, 80-90 bps OAT-Bund spread)
+- Linked euro-fragmentation-risk.md from Europe regional README
+
+### Tracking
+Watch for confirming/disconfirming signals Q1-Q2 2026:
+- C5 or similar forum announced
+- NATO burden-sharing demands escalate
+- US-Russia bilateral engagement on spheres
+- Or: NSS walked back, NATO reaffirmed
 
 ---
 
