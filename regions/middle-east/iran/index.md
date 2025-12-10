@@ -1,3 +1,4 @@
+---
 title: "Iran: 2026-2036"
 type: synthesis
 outlook: Collapsing

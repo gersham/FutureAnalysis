@@ -1,3 +1,4 @@
+---
 title: "Argentina: 2026-2036"
 type: synthesis
 outlook: Restructuring

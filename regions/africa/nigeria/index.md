@@ -1,3 +1,4 @@
+---
 title: "Nigeria: 2026-2036"
 type: synthesis
 outlook: Declining

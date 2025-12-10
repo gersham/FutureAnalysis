@@ -1,3 +1,4 @@
+---
 title: "Saudi Arabia: 2026-2036"
 type: synthesis
 outlook: Winner

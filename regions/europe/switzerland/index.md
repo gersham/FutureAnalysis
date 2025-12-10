@@ -1,3 +1,4 @@
+---
 title: "Switzerland: 2026-2036"
 type: synthesis
 outlook: Declining
